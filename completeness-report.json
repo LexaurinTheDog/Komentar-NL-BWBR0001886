@@ -1,0 +1,1233 @@
+{
+  "source_sha256": "e90b201ad0e473d3245443bc43728241aa17770042b3e7dfb7c9ca040f10c2c5",
+  "expected_count": 170,
+  "parsed_count": 170,
+  "missing": [],
+  "extra": [],
+  "duplicate_identifiers": [],
+  "normative_text_checks": [
+    {
+      "id": "art-1",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-2",
+      "full_normative_text_equal": true,
+      "lids": 5,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-3",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-4",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-5",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-6",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-7",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-8",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-9",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-10",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 12,
+      "status": "goed"
+    },
+    {
+      "id": "art-11",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-12",
+      "full_normative_text_equal": true,
+      "lids": 9,
+      "list_items": 10,
+      "status": "goed"
+    },
+    {
+      "id": "art-12a",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-12b",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-12c",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-13",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-13a",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 2,
+      "status": "goed"
+    },
+    {
+      "id": "art-14",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-15",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 4,
+      "status": "goed"
+    },
+    {
+      "id": "art-15a",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 4,
+      "status": "goed"
+    },
+    {
+      "id": "art-15b",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-15c",
+      "full_normative_text_equal": true,
+      "lids": 4,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-15d",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-15e",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-15f",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-15g",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-15h",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-15i",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-15j",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 3,
+      "status": "goed"
+    },
+    {
+      "id": "art-15k",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-15l",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 6,
+      "status": "goed"
+    },
+    {
+      "id": "art-15m",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 9,
+      "status": "goed"
+    },
+    {
+      "id": "art-15n",
+      "full_normative_text_equal": true,
+      "lids": 4,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-15o",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16",
+      "full_normative_text_equal": true,
+      "lids": 6,
+      "list_items": 5,
+      "status": "goed"
+    },
+    {
+      "id": "art-16a",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16b",
+      "full_normative_text_equal": true,
+      "lids": 6,
+      "list_items": 2,
+      "status": "goed"
+    },
+    {
+      "id": "art-16c",
+      "full_normative_text_equal": true,
+      "lids": 8,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16d",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16e",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16f",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16g",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16ga",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16h",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16i",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16j",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16k",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16l",
+      "full_normative_text_equal": true,
+      "lids": 5,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16m",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16n",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 2,
+      "status": "goed"
+    },
+    {
+      "id": "art-16o",
+      "full_normative_text_equal": true,
+      "lids": 4,
+      "list_items": 3,
+      "status": "goed"
+    },
+    {
+      "id": "art-16p",
+      "full_normative_text_equal": true,
+      "lids": 6,
+      "list_items": 4,
+      "status": "goed"
+    },
+    {
+      "id": "art-16q",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-16r",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-17",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-17a",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-17b",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-17c",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-17d",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-18",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-18a",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-18b",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-18c",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 4,
+      "status": "goed"
+    },
+    {
+      "id": "art-19",
+      "full_normative_text_equal": true,
+      "lids": 4,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-20",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-21",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-22",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-23",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-24",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-24a",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-25",
+      "full_normative_text_equal": true,
+      "lids": 4,
+      "list_items": 4,
+      "status": "goed"
+    },
+    {
+      "id": "art-25a",
+      "full_normative_text_equal": true,
+      "lids": 4,
+      "list_items": 2,
+      "status": "goed"
+    },
+    {
+      "id": "art-25b",
+      "full_normative_text_equal": true,
+      "lids": 4,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-25c",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-25ca",
+      "full_normative_text_equal": true,
+      "lids": 4,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-25d",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-25e",
+      "full_normative_text_equal": true,
+      "lids": 7,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-25f",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-25fa",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-25g",
+      "full_normative_text_equal": true,
+      "lids": 4,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-25h",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 2,
+      "status": "goed"
+    },
+    {
+      "id": "art-26",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-26a",
+      "full_normative_text_equal": true,
+      "lids": 4,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-26b",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-26c",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-26d",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-26e",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-27",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-27a",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-28",
+      "full_normative_text_equal": true,
+      "lids": 10,
+      "list_items": 2,
+      "status": "goed"
+    },
+    {
+      "id": "art-29",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-29a",
+      "full_normative_text_equal": true,
+      "lids": 5,
+      "list_items": 3,
+      "status": "goed"
+    },
+    {
+      "id": "art-29b",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-29c",
+      "full_normative_text_equal": true,
+      "lids": 9,
+      "list_items": 5,
+      "status": "goed"
+    },
+    {
+      "id": "art-29d",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 6,
+      "status": "goed"
+    },
+    {
+      "id": "art-29e",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-30",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-30a",
+      "full_normative_text_equal": true,
+      "lids": 6,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-30b",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-31",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-31a",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 4,
+      "status": "goed"
+    },
+    {
+      "id": "art-31b",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-32",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 4,
+      "status": "goed"
+    },
+    {
+      "id": "art-32a",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 4,
+      "status": "goed"
+    },
+    {
+      "id": "art-33",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-34",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-35",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-35a",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-35b",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-35c",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-35d",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-36",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-36a",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-36b",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-36c",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-37",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-38",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-39",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-40",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-40a",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-41",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-42",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-43",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 4,
+      "status": "goed"
+    },
+    {
+      "id": "art-43a",
+      "full_normative_text_equal": true,
+      "lids": 4,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-43b",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-43c",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-43d",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-43e",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-43f",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-43g",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 3,
+      "status": "goed"
+    },
+    {
+      "id": "art-44",
+      "full_normative_text_equal": true,
+      "lids": 5,
+      "list_items": 5,
+      "status": "goed"
+    },
+    {
+      "id": "art-44a",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-44b",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 3,
+      "status": "goed"
+    },
+    {
+      "id": "art-45",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 4,
+      "status": "goed"
+    },
+    {
+      "id": "art-45a",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45b",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45c",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45d",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45da",
+      "full_normative_text_equal": true,
+      "lids": 5,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45db",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45e",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 3,
+      "status": "goed"
+    },
+    {
+      "id": "art-45f",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45g",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45ga",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45h",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45i",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45j",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45k",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45l",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45m",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 6,
+      "status": "goed"
+    },
+    {
+      "id": "art-45n",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-45o",
+      "full_normative_text_equal": true,
+      "lids": 3,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-46",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-47",
+      "full_normative_text_equal": true,
+      "lids": 6,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-47a",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-47b",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 3,
+      "status": "goed"
+    },
+    {
+      "id": "art-47c",
+      "full_normative_text_equal": true,
+      "lids": 4,
+      "list_items": 4,
+      "status": "goed"
+    },
+    {
+      "id": "art-47d",
+      "full_normative_text_equal": true,
+      "lids": 2,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-48",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-49",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-50",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-50a",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-50b",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-50c",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-50d",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-50e",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-50f",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "vervallen"
+    },
+    {
+      "id": "art-51",
+      "full_normative_text_equal": true,
+      "lids": 5,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-52",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    },
+    {
+      "id": "art-53",
+      "full_normative_text_equal": true,
+      "lids": 0,
+      "list_items": 0,
+      "status": "goed"
+    }
+  ],
+  "normative_text_all_equal": true,
+  "official_lids": 271,
+  "official_list_items": 141,
+  "repealed": [
+    "art-16r",
+    "art-17a",
+    "art-36c",
+    "art-46",
+    "art-48",
+    "art-49",
+    "art-50",
+    "art-50a",
+    "art-50b",
+    "art-50c",
+    "art-50d",
+    "art-50e",
+    "art-50f"
+  ],
+  "official_editorial_notes": 20,
+  "annex_disposition": {
+    "bijlage_count": 0,
+    "explanation": "No annex elements or other unhandled operative units in official wettekst; preamble and signature remain in raw XML. All final/transitional article slots included."
+  },
+  "commented_units": 170,
+  "missing_commentary": [],
+  "extra_commentary": [],
+  "duplicate_commentary": [],
+  "commentary_chars": 195403,
+  "repeated_substantive_paragraphs": [],
+  "unresolved_internal_references": [],
+  "local_links_checked": 0,
+  "broken_local_links": [],
+  "ok": true
+}

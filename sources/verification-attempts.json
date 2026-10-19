@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/2026-01-01_0/xml/BWBR0001886_2026-01-01_0.xml",
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/2026-01-01_0/xml/BWBR0001886_2026-01-01_0.xml",
+    "accessed_at": "2026-10-19T14:23:05.173206+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "path": "sources/intake-version.xml",
+    "sha256": "e90b201ad0e473d3245443bc43728241aa17770042b3e7dfb7c9ca040f10c2c5",
+    "bytes": 632597,
+    "prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><toestand xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance"
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19",
+    "final_url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19",
+    "accessed_at": "2026-10-19T14:23:06.642408+00:00",
+    "http_status": 404,
+    "content_type": null,
+    "path": "sources/official-current.html",
+    "sha256": "039105fb83129a7c5771a9c950cb81de5278ecdc0f6c1b3df6bcfe740e9a2991",
+    "bytes": 8702,
+    "prefix": "<!DOCTYPE HTML>\n<html lang=\"nl\">\n   <head>\n      <title>Wetten.nl | Fout</title>\n      <meta charset"
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19/0/informatie",
+    "final_url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19/0/informatie",
+    "accessed_at": "2026-10-19T14:23:06.840811+00:00",
+    "http_status": 404,
+    "content_type": null,
+    "path": "sources/official-wti.html",
+    "sha256": "039105fb83129a7c5771a9c950cb81de5278ecdc0f6c1b3df6bcfe740e9a2991",
+    "bytes": 8702,
+    "prefix": "<!DOCTYPE HTML>\n<html lang=\"nl\">\n   <head>\n      <title>Wetten.nl | Fout</title>\n      <meta charset"
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/",
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/manifest.xml",
+    "accessed_at": "2026-10-19T14:23:08.179823+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "path": "sources/official-index.html",
+    "sha256": "13bdb324a4963bc67087ebebd072c1c47077972460430d6f2342e02a1ddf7035",
+    "bytes": 20075,
+    "prefix": "<?xml version=\"1.0\" encoding=\"utf-8\"?><work xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xm"
+  }
+]

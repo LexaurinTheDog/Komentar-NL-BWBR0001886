@@ -1,0 +1,9 @@
+# Zaakkaart — ACI Adam
+
+Hof van Justitie van de Europese Unie, Vierde kamer, 10 april 2014, C-435/12. [Officiële volledige tekst op EUR-Lex](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62012CJ0435); [vastgelegde HTML en extractie](../sources/cjeu-aci-adam.json); [leesextract](../sources/cjeu-aci-adam.txt). Geraadpleegd op 19 oktober 2026 via Firecrawl, gerapporteerde bronstatus HTTP 200. De directe EUR-Lex-pogingen voor andere geselecteerde zaken leverden lege HTTP-202-responsen op en zijn niet als inhoudelijke autoriteit gebruikt.
+
+Het geding ging tussen fabrikanten/importeurs en de twee thuiskopiestichtingen over het meenemen van kopieën uit ongeoorloofde bronnen in de vergoeding. Punten 12–19 beschrijven het hoofdgeding en de vragen; dat is niet hetzelfde als het antwoord van het Hof.
+
+Punten 20–41 leggen uit dat de privé-kopieerbeperking geen kopieën uit ongeoorloofde bron omvat. Punten 42–46 maken duidelijk dat het ontbreken van technische bestrijdingsmiddelen die conclusie niet verandert. Punten 47–58 behandelen het vergoedingsevenwicht en verwerpen een stelsel dat geen onderscheid maakt naar geoorloofde en ongeoorloofde bron. De twee antwoorden staan ook in het dictum. Punten 59–65 betreffen afzonderlijk het toepassingsbereik van de handhavingsrichtlijn op het specifieke vergoedingsgeschil.
+
+Ondersteunde commentaren: artikel 16c en, via de verwijzing daarnaar, artikel 16b. De volledige officiële tekst is gelezen, inclusief geciteerde wetgeving, vragen, beoordeling en dictum. De kaart gebruikt de in 2014 geciteerde Nederlandse proceswet niet als actuele tekst. De uitspraak bepaalt geen actueel bedrag van de thuiskopieheffing en bewijst niet welke huidige apparaten belast zijn. De relevante bronvoorwaarde wordt toegepast; geen uitputtende jurisprudentiedekking of verificatie van alle latere tarieven wordt geclaimd.

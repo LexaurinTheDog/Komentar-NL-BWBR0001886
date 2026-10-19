@@ -1,0 +1,21 @@
+# Bronnen en verificatie
+
+De bronnen zijn op **19 oktober 2026** gecontroleerd. [Verificatie met URL, toegangstijd, HTTP-resultaat en SHA-256](sources/verification.json) onderscheidt geslaagde officiële inhoud van foutpagina’s en lege antwoorden. [Bronnenmanifest](source-manifest.json) bevat de hashes van alle vastgelegde bronbestanden.
+
+De canonieke wettelijke bron is de [officiële BWB-XML](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/2026-01-01_0/xml/BWBR0001886_2026-01-01_0.xml), lokaal als [intake-version.xml](sources/intake-version.xml). De naam «intake-version» duidt de geselecteerde toestand aan; dit bestand is opnieuw rechtstreeks van de officiële server opgehaald. Het [officiële toestandsmanifest](sources/official-manifest.xml) geeft 1 januari 2026 als aanvang, 9999-12-31 als einde en geen latere toestand. De daarin vermelde SHA-512 komt overeen met de opgehaalde XML. De directe datumgerichte front-endverzoeken zijn als 404-foutpagina’s bewaard en afgewezen als inhoudelijke bron.
+
+De [canonieke transcriptie](sources/canonical.md), [originele intake](sources/original-intake.md) en [artikelgewijze vergelijkingskaart](sources/change-map.json) maken de bronketen controleerbaar. Alle 170 teksten zijn gelijk na witruimtenormalisatie. De parser bewaart de wettelijke tekst en de officiële redactionele aantekeningen afzonderlijk. [Dekking](coverage-evidence.json) en [volledigheid](completeness-report.json) bevatten identificaties, alle lege plaatsen, een onafhankelijke volledige tekstcontrole en de expliciete afwezigheid van bijlagen. Het volledige normatieve XML-woordverloop per artikel stemt overeen; niet alleen een overeenkomstpercentage is gebruikt.
+
+De [Wet versterking auteurscontractenrecht](sources/amendment-2025-352.xml) en het [inwerkingtredingsbesluit](sources/commencement-2025-392.xml) zijn eveneens als XML gevalideerd. Artikel IV van de wijzigingswet is gelezen: lid 1 betreft de uitsluiting van artikel 25c lid 2 voor de genoemde vóór 1 juli 2015 gesloten overeenkomsten en voltooide films; lid 2 laat eerdere exploitatiehandelingen en verworven rechten onverlet. Dit is ondersteunende wetgeving buiten de genummerde eenheden van de toegewezen Auteurswet.
+
+De selectieve jurisprudentie bestaat uit drie volledig gelezen uitspraken:
+
+- [Hoge Raad, Endstra, 30 mei 2008](cases/hr-endstra.md), ECLI:NL:HR:2008:BC2153: beschermde vorm en het ontbreken van een bewustheidseis.
+- [Hoge Raad, Stokke/H3, 22 februari 2013](cases/hr-stokke.md), ECLI:NL:HR:2013:BY1529: oorspronkelijkheid, technische begrenzing, inbreukvergelijking en morele rechten in het concrete geval.
+- [HvJ EU, ACI Adam, 10 april 2014](cases/cjeu-aci-adam.md), C-435/12: privé-kopieën uit ongeoorloofde bron en de vergoeding.
+
+Het [zoeklog](sources/search-log.json) en de [lokale corpuszoeking](sources/local-corpus-search.json) beschrijven selectie en grenzen. De twee Hoge Raad-uitspraken zijn ook in de lokale nationale verzameling aangetroffen; [lokale selectiegegevens](sources/local-corpus-selected.json) en kopieën zijn bewaard. Conclusies van advocaten-generaal zijn niet als rechterlijk dictum gebruikt. Geen andere zaak wordt als geverifieerde autoriteit aangehaald. Voor veel technische bepalingen is geen afzonderlijke voldoende relevante volledig gecontroleerde uitspraak geselecteerd; dat is geen vaststelling dat daarover geen rechtspraak bestaat.
+
+Directe EUR-Lex-pogingen voor Deckmyn en UsedSoft gaven lege HTTP-202-antwoorden. Die zaken zijn niet gebruikt. De officiële ACI Adam-tekst is via Firecrawl met HTML, volledige markdown en bronstatus 200 vastgelegd. Het daadwerkelijke start- en eindtijdstip van de herhaalde fetch staat in [het toegangsvenster](sources/aci-fetch-window.json). Er is geen commerciële redactie als officiële tekst overgenomen.
+
+De broncontrole omvat geen volledige inventaris van tarieven, uitvoeringsregelingen, aanwijzingen, buitenlandse beschermingsduren of latere jurisprudentie. Waar toepassing daarvan noodzakelijk is, wordt dat in het commentaar vermeld. De wettelijke bronstand is aantoonbaar geselecteerd; een toekomstige wijziging buiten het geraadpleegde officiële manifest wordt niet uitgesloten.

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                      xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+   <metadata>
+      <meta name="DCTERMS.publisher" scheme="OVERHEID.Ministerie"
+            content="Ministerie van Justitie en Veiligheid"/>
+      <meta name="DC.creator" scheme="OVERHEID.Ministerie"
+            content="Ministerie van Justitie en Veiligheid"/>
+      <meta name="DCTERMS.isReplacedBy" scheme="OVERHEIDop.StbID" content=""/>
+      <meta name="OVERHEIDop.configuratie" scheme=""
+            content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-StbWet-Web/1.13/xml/MC-OEP-StbWet-Web.xml"/>
+      <meta name="OVERHEIDop.steltVast" scheme="" content=""/>
+      <meta name="DCTERMS.hasPart" scheme="" content=""/>
+      <meta name="DCTERMS.isRequiredBy" scheme="OVERHEIDop.StbID" content=""/>
+      <meta name="OVERHEIDop.ketenID" scheme="" content="13342"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Staatsblad" content="Wet"/>
+      <meta name="DCTERMS.relation" scheme="" content=""/>
+      <meta name="OVERHEIDop.materieelUitgewerkt" scheme="DCTERMS.W3CDTF" content=""/>
+      <meta name="OVERHEIDop.versieInformatie" scheme="" content=""/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Staatsblad"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype"
+            content="ministerie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda"
+            content="Recht | Burgerlijk recht"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda"
+            content="Cultuur en recreatie | Media"/>
+      <meta name="DC.title"
+            content="Wet van 29 oktober 2025 tot wijziging van de Auteurswet, de Wet op de naburige rechten en de Wet auteurscontractenrecht in verband met de verdere versterking van de positie van de maker en de uitvoerende kunstenaar bij overeenkomsten betreffende het auteursrecht en het naburig recht (Wet versterking auteurscontractenrecht)"/>
+      <meta name="OVERHEIDop.jaargang" scheme="DCTERMS.W3CDTF" content="2025"/>
+      <meta name="DC.identifier" scheme="OVERHEIDop.StbID" content="stb-2025-352"/>
+      <meta name="OVERHEIDop.publicationIssue" content="352"/>
+      <meta name="DCTERMS.alternative" content="Wet versterking auteurscontractenrecht"/>
+      <meta name="OVERHEIDop.datumOndertekening" scheme="DCTERMS.W3CDTF"
+            content="2025-10-29"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-11-26"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-11-26"/>
+      <meta name="OVERHEIDop.behandeldDossier" content="36536"/>
+   </metadata>
+   <kop>
+      <titel>Staatsblad</titel>
+      <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+   </kop>
+   <staatsblad>
+      <intitule>Wet van 29 oktober 2025 tot wijziging van de Auteurswet, de Wet op de naburige rechten en de Wet auteurscontractenrecht in verband met de verdere versterking van de positie van de maker en de uitvoerende kunstenaar bij overeenkomsten betreffende het auteursrecht en het naburig recht (Wet versterking auteurscontractenrecht)</intitule>
+      <wet-besluit>
+         <aanhef>
+            <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+            <considerans>
+               <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+               <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is om de wetgeving die de positie van makers en uitvoerende kunstenaars ten opzichte van exploitanten van werken van letterkunde, wetenschap of kunst respectievelijk uitvoeringen versterkt op het gebied van het overeenkomstenrecht te verbreden en aan te scherpen en daartoe de Auteurswet, de Wet op de naburige rechten en enige andere wetten te wijzigen;</considerans.al>
+            </considerans>
+            <afkondiging>
+               <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+            </afkondiging>
+         </aanhef>
+         <wettekst>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">I</nr>
+               </kop>
+               <wat type="wijziging">De Auteurswet wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Artikel 2, derde lid, komt te luiden:</wat>
+                  <wijziging>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>De overeenkomst op grond waarvan het auteursrecht geheel of gedeeltelijk wordt overgedragen of waarin een exclusieve licentie wordt verleend, wordt schriftelijk aangegaan. De overdracht of de verlening van een exclusieve licentie door de maker of door een natuurlijke persoon die het auteursrecht als erfgenaam of legataris van de maker heeft verkregen, omvat alleen die bevoegdheden die uitdrukkelijk in de overeenkomst staan vermeld of die uit de aard en de strekking ervan noodzakelijkerwijs voortvloeien. De levering vereist voor overdracht geschiedt ingevolge artikel 95 van Boek 3 van het Burgerlijk Wetboek bij een daartoe bestemde akte.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Onder vervanging van de punt aan het slot van artikel 12, eerste lid, onder 6°, door een puntkomma, wordt een onderdeel toegevoegd, luidende:</wat>
+                  <?xpp qa?><?xpp lead;-1?><wijziging>
+                     <artikeltekst>
+                        <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                           <li>
+                              <li.nr>7°.</li.nr>
+                              <al>de beschikbaarstelling voor het publiek van het werk, per draad of draadloos, op zodanige wijze dat de leden van het publiek op een door hen gekozen individuele plaats en tijd toegang hebben tot het werk.</al>
+                           </li>
+                        </lijst>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>Artikel 16r vervalt.</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>In artikel 17d wordt «of 45, tweede lid,» vervangen door «45da, vierde lid, of 45db,».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">Da</lidnr>
+                  <wat>Aan het slot van artikel 25, tweede lid, wordt toegevoegd «, en bij gebreke van dien aan zijn nabestaanden».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">E</lidnr>
+                  <wat>Artikel 25c wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>Aan het eerste lid wordt een zin toegevoegd, die luidt: De vergoeding die tot stand komt na onderhandelingen tussen een vereniging van makers die blijkens haar statuten de belangen behartigt van makers die zelfstandigen zonder personeel zijn, en een exploitant of een vereniging van exploitanten, wordt vermoed billijk te zijn.</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Het tweede tot en met het vijfde lid vervallen onder vernummering van het zesde lid tot het tweede lid.</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">F</lidnr>
+                  <wat>Artikel 25e wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>In het eerste lid wordt «ontbinden» vervangen door «opzeggen», wordt na de eerste zin ingevoegd «Onder een gedeeltelijke opzegging wordt mede verstaan het beëindigen van de exclusiviteit van de overeenkomst» en wordt «De voorgaande zin» vervangen door «De eerste zin».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>In het tweede lid wordt «ontbinden» vervangen door «opzeggen».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">3.</nr>
+                     <wat>In het tweede lid en de tweede zin van het vijfde lid wordt «ontbinding» vervangen door «beëindiging» en in het derde en het zesde lid wordt «ontbinding» vervangen door «opzegging».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">4.</nr>
+                     <wat>In het vijfde lid wordt de eerste zin vervangen door «De opzegging geschiedt door een schriftelijke verklaring van de maker aan de wederpartij.».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">5.</nr>
+                     <wat>Het zevende lid komt te luiden:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">7.</lidnr>
+                           <al>De wederpartij of de derde is gehouden binnen een hem gestelde redelijke termijn tot teruglevering van het auteursrecht over te gaan, bij gebreke waarvan de rechter, op vordering van de maker, een in de gegeven omstandigheden redelijk bedrag kan vaststellen dat de wederpartij dan wel de derde aan de maker dient te vergoeden, naast de mogelijk aan de maker verschuldigde schadevergoeding.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">G</lidnr>
+                  <wat>Artikel 25g wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>In het eerste lid wordt «Onze Minister van Veiligheid en Justitie» vervangen door «Onze Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met Onze Minister van Justitie en Veiligheid», wordt «artikel 25c, eerste en zesde lid, artikel 25ca, artikel 25d, 25e of 25f» vervangen door «de artikelen 25c tot en met 25f» en wordt een zin toegevoegd, die luidt: Bij regeling van Onze Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met Onze Minister van Justitie en Veiligheid, kunnen nadere regels worden gesteld omtrent de samenstelling, inrichting, procedures, bekostiging, werkwijze van en toezicht op de geschillencommissie.</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Het vierde lid komt te luiden:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">4.</lidnr>
+                           <al>Bij algemene maatregel van bestuur kan een exploitant die met publieke middelen wordt gefinancierd, verplicht worden zich aan te sluiten bij de door de Minister van Onderwijs, Cultuur en Wetenschap in overeenstemming met Onze Minister van Justitie en Veiligheid aangewezen geschillencommissie en kunnen nadere regels worden gegeven en voorwaarden worden gesteld ter uitvoering van die verplichting.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">H</lidnr>
+                  <wat>Aan artikel 25h, eerste lid, wordt een zin toegevoegd, die luidt: Bij overeenkomst gesloten tussen een vereniging van makers en een exploitant of een vereniging van exploitanten kan nadere invulling worden gegeven aan de rechten en verplichtingen die volgen uit de artikelen 25c tot en met 25f.</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">I</lidnr>
+                  <wat>Artikel 45d wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>In het eerste lid wordt na de derde zin een zin ingevoegd, die luidt: De billijke vergoeding wordt schriftelijk overeengekomen.</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Het tweede lid komt te luiden:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Hoofdstuk 1a is, met uitzondering van artikel 25fa, van overeenkomstige toepassing. Voor de overdracht van het recht bedoeld in artikel 12, eerste lid, onder 7°, overeenkomstig het in het eerste lid bepaalde geldt, in afwijking van de tweede zin van artikel 25c, eerste lid, dat de vergoeding die tot stand komt na onderhandelingen tussen een vereniging van makers en een producent of een vereniging van producenten, wordt vermoed billijk te zijn, indien de vergoeding passend is en in verhouding staat tot het gebruik dat van het recht wordt gemaakt door de producent of een derde aan wie de producent het recht heeft overgedragen of gelicentieerd.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">3.</nr>
+                     <wat>Het derde tot en met het zevende lid vervallen.</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">J</lidnr>
+                  <wat>Na artikel 45d worden twee artikelen ingevoegd, die luiden:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">45da</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1.</lidnr>
+                           <al>Onverminderd artikel 26a is eenieder die het filmwerk openbaar maakt als bedoeld in artikel 12, eerste lid, onder 6°, aan de makers van het filmwerk die deze rechten aan de producent hebben overgedragen, een proportionele billijke vergoeding verschuldigd. Bij een openbaarmaking als bedoeld in artikel 12c is enkel degene die het filmwerk uitzendt aan de makers van het filmwerk die deze rechten aan de producent hebben overgedragen, een proportionele billijke vergoeding verschuldigd. Eenieder die het filmwerk op andere wijze dan vorenbedoeld mededeelt aan het publiek, met uitzondering van een beschikbaarstelling voor het publiek als bedoeld in artikel 12, eerste lid, onder 7° behoudens het in artikel 45db bepaalde, is aan de makers van het filmwerk die deze rechten aan de producent hebben overgedragen, een proportionele billijke vergoeding verschuldigd. Van het recht op een proportionele billijke vergoeding kan geen afstand worden gedaan.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>Het recht op de vergoeding, bedoeld in het eerste lid, wordt uitgeoefend door een collectieve beheersorganisatie als bedoeld in artikel 1, onderdeel d, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten. Artikel 26a, tweede en derde lid, is van overeenkomstige toepassing.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>Degene die de in het eerste lid bedoelde vergoeding verschuldigd is, is gehouden aan de collectieve beheersorganisaties, bedoeld in het tweede lid, de bescheiden of andere informatiedragers ter inzage te geven, waarvan de kennisneming noodzakelijk is voor de vaststelling van de verschuldigdheid, de hoogte en de verdeling van de vergoeding.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">4.</lidnr>
+                           <al>Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven over de uitoefening van het recht bedoeld in het eerste lid.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">5.</lidnr>
+                           <al>Het recht op een proportionele billijke vergoeding, bedoeld in het eerste lid, is niet van toepassing op een filmwerk waarvan de exploitatie als zodanig niet het doel is.</al>
+                        </lid>
+                     </artikel>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">45db</nr>
+                        </kop>
+                        <al>Bij algemene maatregel van bestuur kan artikel 45da van toepassing worden verklaard op de beschikbaarstelling voor het publiek van het filmwerk. Artikel 45d, tweede lid, tweede zin is alsdan niet van toepassing.</al>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">II</nr>
+               </kop>
+               <wat type="wijziging">De Wet op de naburige rechten wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Artikel 4 wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>In het eerste lid vervalt de zinsnede «met uitzondering van artikel 45d, tweede lid, derde volzin».</wat>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Het tweede lid alsmede de aanduiding «1.» voor het eerste lid vervallen.</wat>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">Aa</lidnr>
+                  <wat>Aan het slot van artikel 5, eerste lid, onder d wordt toegevoegd «, en bij gebreke van dien aan zijn nabestaanden. Artikel 25a, eerste lid, van de Auteurswet is van overeenkomstige toepassing».</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>Artikel 9 wordt als volgt gewijzigd:</wat>
+                  <wijziging>
+                     <nr status="officieel">1.</nr>
+                     <wat>Het tweede lid komt te luiden:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>De overeenkomst op grond waarvan de rechten als bedoeld in de artikelen 2, 6, 7a, 7b en 8 geheel of gedeeltelijk worden overdragen of waarin een exclusieve licentie wordt verleend, wordt schriftelijk aangegaan.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+                  <wijziging>
+                     <nr status="officieel">2.</nr>
+                     <wat>Het derde lid komt te luiden:</wat>
+                     <artikeltekst>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>De overdracht of de verlening van een exclusieve licentie door de uitvoerend kunstenaar of door een natuurlijke persoon die de rechten als bedoeld in artikel 2 als erfgenaam of legataris van de uitvoerend kunstenaar heeft verkregen, omvat alleen die bevoegdheden die uitdrukkelijk in de overeenkomst staan vermeld of die uit de aard en de strekking ervan noodzakelijkerwijs voortvloeien. De levering vereist voor overdracht geschiedt ingevolge artikel 95 van Boek 3 van het Burgerlijk Wetboek bij een daartoe bestemde akte.</al>
+                        </lid>
+                     </artikeltekst>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">III</nr>
+               </kop>
+               <wat type="wijziging">Artikel III van de Wet auteurscontractenrecht vervalt.</wat>
+            </wijzig-artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">IV</nr>
+               </kop>
+               <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Artikel 25c, tweede lid, van de Auteurswet is niet van toepassing op overeenkomsten die zijn gesloten en filmwerken die zijn voltooid vóór 1 juli 2015.</al>
+               </lid>
+               <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Deze wet laat vóór de inwerkingtreding van deze wet verrichte exploitatiehandelingen alsmede vóór dat tijdstip verworven rechten onverlet.</al>
+               </lid>
+            </artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">V</nr>
+               </kop>
+               <al>Onze Minister van Justitie en Veiligheid zendt binnen vijf jaar na de inwerkingtreding van deze wet en vervolgens telkens na vijf jaar aan de Staten-Generaal een verslag over de wijze waarop invulling wordt gegeven aan het recht van filmmakers en uitvoerend kunstenaars op een billijke vergoeding voor de beschikbaarstelling van filmwerken voor het publiek op grond van artikel 45d van de Auteurswet en artikel 4 van de Wet op de naburige rechten.</al>
+            </artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">VI</nr>
+               </kop>
+               <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+            </artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">VII</nr>
+               </kop>
+               <al>Deze wet wordt aangehaald als de Wet versterking auteurscontractenrecht.</al>
+            </artikel>
+         </wettekst>
+         <wetsluiting status="goed">
+            <slotformulering>
+               <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+            </slotformulering>
+            <histnoot type="parlementair">
+               <al>Kamerstuk <dossierref dossier="36536">36 536</dossierref>
+               </al>
+            </histnoot>
+            <gegeven>
+               <label>Gegeven te </label>
+               <dagtekening>
+                  <plaats>’s-Gravenhage,</plaats>
+                  <datum isodatum="2025-10-29">29 oktober 2025</datum>
+               </dagtekening>
+               <koning>Willem-Alexander</koning>
+            </gegeven>
+            <ondertekening>
+               <functie>De Staatssecretaris van Justitie en Veiligheid,</functie>
+            </ondertekening>
+            <ondertekening>
+               <functie>De Minister van Onderwijs, Cultuur en  Wetenschap,</functie>
+            </ondertekening>
+            <uitgifte>
+               <datum isodatum="2025-11-26">Uitgegeven de <nadruk type="cur">zesentwintigste</nadruk> november 2025</datum>
+               <ondertekening>
+                  <functie>De Minister van Justitie en Veiligheid,</functie>
+		                <naam>
+                     <voornaam>F. van</voornaam>
+                     <achternaam>Oosten</achternaam>
+                  </naam>
+		             </ondertekening>
+            </uitgifte>
+         </wetsluiting>
+      </wet-besluit>
+   </staatsblad>
+</officiele-publicatie>

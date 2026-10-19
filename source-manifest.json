@@ -1,0 +1,156 @@
+{
+  "algorithm": "SHA-256",
+  "source_files": [
+    {
+      "path": "sources/aci-fetch-window.json",
+      "sha256": "be8d3a10c24f8834854ebd72571f71586a74e40924d42410c79a6e5d698a3c78",
+      "bytes": 146
+    },
+    {
+      "path": "sources/amendment-2025-352.txt",
+      "sha256": "83bfacef876bc6aa27bcdf0a72d8cd656341546d30f324d55465dd01c7c7bafb",
+      "bytes": 6653
+    },
+    {
+      "path": "sources/amendment-2025-352.xml",
+      "sha256": "c12a2389e9dc256d69e1a493bb863286e1fcacc2b216f7af133998e5b1cf3dbb",
+      "bytes": 25656
+    },
+    {
+      "path": "sources/authority-fetches.json",
+      "sha256": "985dbf28f489e76644374c159923dea24bb62a930a362c5808b4f254b1170876",
+      "bytes": 2112
+    },
+    {
+      "path": "sources/canonical.md",
+      "sha256": "53903b89d1f6ab9320d6262334c828d576658bef48243e49d4c3d66cb5114af4",
+      "bytes": 134396
+    },
+    {
+      "path": "sources/change-map.json",
+      "sha256": "18c2eb5af305644fbd26f3ff890455af79b5bd455b53c9a097d04be6d8d7ca9b",
+      "bytes": 19014
+    },
+    {
+      "path": "sources/cjeu-aci-adam.json",
+      "sha256": "0f8341876422012fb4d28aa8489e2cd346742a2c67d99b08af2f7ff0dc2450fc",
+      "bytes": 133870
+    },
+    {
+      "path": "sources/cjeu-aci-adam.txt",
+      "sha256": "bf771f3eac37cb3a7b7057b042aee185dca22686dbdc1af481dc55035fac1603",
+      "bytes": 45436
+    },
+    {
+      "path": "sources/cjeu-deckmyn.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/cjeu-usedsoft.html",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/commencement-2025-392.txt",
+      "sha256": "4a451f1c1091982954098955fd56437ccc8e85174eb61d55bd40f650d2a97acf",
+      "bytes": 253
+    },
+    {
+      "path": "sources/commencement-2025-392.xml",
+      "sha256": "b3d4cc26b711af632fc8d0968631637b43761e46a2372db6d0931db7efdf16c2",
+      "bytes": 5576
+    },
+    {
+      "path": "sources/firecrawl-wti.json",
+      "sha256": "607049c97e2274893b50935d0effacb6e8a1745a090dca012432815f1ad630fc",
+      "bytes": 10797
+    },
+    {
+      "path": "sources/hr-endstra.txt",
+      "sha256": "2f5dcb8be4300095d514c3ffff15a1954aef826faf5b79cc1a3636ca3f4b7f35",
+      "bytes": 25383
+    },
+    {
+      "path": "sources/hr-endstra.xml",
+      "sha256": "6b39ce8bd2f6a564fbba647ba0c135062a183397667bf8b3cc7deb045c18b8ac",
+      "bytes": 32078
+    },
+    {
+      "path": "sources/hr-stokke.txt",
+      "sha256": "f24ee48f63bb50e7955c41bf1d4215d20d42331354deacf9cf74de508c009137",
+      "bytes": 26348
+    },
+    {
+      "path": "sources/hr-stokke.xml",
+      "sha256": "1dabd3e413fa7fd5e2a10840753e66124fb27da60895035cd695d374b8d8b707",
+      "bytes": 32690
+    },
+    {
+      "path": "sources/intake-version.xml",
+      "sha256": "e90b201ad0e473d3245443bc43728241aa17770042b3e7dfb7c9ca040f10c2c5",
+      "bytes": 632597
+    },
+    {
+      "path": "sources/local-corpus-search.json",
+      "sha256": "86881d2af58a4a9a46ce836ce594dec3e71d914b31d864dea700980367224689",
+      "bytes": 4800
+    },
+    {
+      "path": "sources/local-corpus-selected.json",
+      "sha256": "f874f38f8c7df2b146bdd9ae30654652dedcb30320d03b35703d71cda45b7532",
+      "bytes": 764
+    },
+    {
+      "path": "sources/local-ecli-nl-hr-2008-bc2153.md",
+      "sha256": "01fb93c53008623ccac6b6c125d909daf45d23b0eeead62cf215a91c4275898e",
+      "bytes": 25679
+    },
+    {
+      "path": "sources/local-ecli-nl-hr-2013-by1529.md",
+      "sha256": "0ad8c44ca643a21836710b0d1cf9446d80b74ed8961cefcfafa5be50972ed313",
+      "bytes": 26396
+    },
+    {
+      "path": "sources/official-current.html",
+      "sha256": "039105fb83129a7c5771a9c950cb81de5278ecdc0f6c1b3df6bcfe740e9a2991",
+      "bytes": 8702
+    },
+    {
+      "path": "sources/official-index.html",
+      "sha256": "13bdb324a4963bc67087ebebd072c1c47077972460430d6f2342e02a1ddf7035",
+      "bytes": 20075
+    },
+    {
+      "path": "sources/official-manifest.xml",
+      "sha256": "13bdb324a4963bc67087ebebd072c1c47077972460430d6f2342e02a1ddf7035",
+      "bytes": 20075
+    },
+    {
+      "path": "sources/official-wti.html",
+      "sha256": "039105fb83129a7c5771a9c950cb81de5278ecdc0f6c1b3df6bcfe740e9a2991",
+      "bytes": 8702
+    },
+    {
+      "path": "sources/original-intake.md",
+      "sha256": "d03c9c0659777d8d6a8d15c4f7cd533985bb2608f955b23f3dfd011621bc0fde",
+      "bytes": 136629
+    },
+    {
+      "path": "sources/search-log.json",
+      "sha256": "c9a5b3d55b5b7b45e21eb554abb5b0b2b5886d44f39000e9d100e173570f6a6b",
+      "bytes": 1424
+    },
+    {
+      "path": "sources/verification-attempts.json",
+      "sha256": "cfdd8658118fb933e19622f34fe36d2d40bcb5980f3dfc9d7d485067092a7bf7",
+      "bytes": 2297
+    },
+    {
+      "path": "sources/verification.json",
+      "sha256": "c0731a14a2894ae5ead3d652caec67daabaf930da36e1ff1876369ebf8aa7a36",
+      "bytes": 7978
+    }
+  ],
+  "method": "All retained source captures, including expressly rejected error responses; accepted legal sources identified in sources/verification.json."
+}

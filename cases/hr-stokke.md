@@ -1,0 +1,9 @@
+# Zaakkaart — Stokke/H3 Products
+
+Hoge Raad, 22 februari 2013, 11/02739, ECLI:NL:HR:2013:BY1529. [Officiële volledige tekst](https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY1529); [vastgelegde XML](../sources/hr-stokke.xml); [leesextract](../sources/hr-stokke.txt). Geraadpleegd op 19 oktober 2026; HTTP 200 en SHA-256 staan in [de broncontrole](../sources/verification.json).
+
+Het geschil betrof de Tripp Trapp en de Carlo-kinderstoel. R.o. 3.3 geeft het oordeel van het hof weer. De eigen uitgangspunten van de Hoge Raad staan in r.o. 3.4 onder a–f. Zij behandelen oorspronkelijkheid, toepassing op gebruiksvoorwerpen, technische begrenzing, creatieve ruimte en de vergelijking van door beschermde trekken bepaalde totaalindrukken. Een oorspronkelijke selectie of combinatie kan betekenis hebben; het enkele passen binnen een stijl sluit bescherming niet automatisch uit.
+
+R.o. 3.5.2–3.5.7 maakt duidelijk dat niet ieder element met praktische functie onbeschermd is, maar dat de concrete klachten veelal op een verkeerde lezing van het hof berusten of een nieuwe feitelijke beoordeling vragen. De Hoge Raad beoordeelt geen stoelvergelijking volledig opnieuw. R.o. 3.7.1–3.7.2 behandelt het beroep op morele rechten en het concrete ontbreken van een wijziging of reputatieschadelijke aantasting. Het beroep wordt verworpen.
+
+Ondersteunde commentaren: artikelen 10, 13 en 25. De volledige uitspraak is gelezen. De kaart presenteert de door partijen verdedigde ruimere bescherming niet als een door de Hoge Raad aanvaarde algemene exclusiviteit. De sterk feitelijke totaalindrukbeoordeling bij gebruiksvoorwerpen wordt niet als universele rekenregel voor alle werksoorten gebruikt. Het arrest draagt geen uitleg van de nieuwe contract- of filmvergoedingsbepalingen uit 2026. Latere Europese verfijning is niet uitputtend onderzocht; dit is selectieve historische rechtspraak.

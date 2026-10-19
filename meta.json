@@ -1,0 +1,74 @@
+{
+  "cc": "nl",
+  "lang": "nl",
+  "repo": "Komentar-NL-BWBR0001886",
+  "repo_dir": "/Volumes/LaCie/open-commentary/nl/Komentar-NL-BWBR0001886",
+  "title": "Commentaar op de Auteurswet",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001886/sources/canonical.md",
+  "intro_file": "00-inleiding.md",
+  "intro_desc": "Reikwijdte, methode en leeswijzer",
+  "labels": {
+    "text": "Wettekst",
+    "chapter": "Commentaarhoofdstuk",
+    "notes": "Officiële redactionele aantekening"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "basis",
+      "title": "Werk, maker en exploitatiehandelingen"
+    },
+    {
+      "n": 2,
+      "slug": "beperkingen-1",
+      "title": "Pers, lenen en toegankelijkheid"
+    },
+    {
+      "n": 3,
+      "slug": "beperkingen-2",
+      "title": "Onderwijs, kopiëren en bewaren"
+    },
+    {
+      "n": 4,
+      "slug": "beperkingen-3",
+      "title": "Overige beperkingen en persoonlijkheidsrechten"
+    },
+    {
+      "n": 5,
+      "slug": "contracten",
+      "title": "Exploitatieovereenkomsten"
+    },
+    {
+      "n": 6,
+      "slug": "handhaving",
+      "title": "Civiele handhaving en technische bescherming"
+    },
+    {
+      "n": 7,
+      "slug": "strafrecht",
+      "title": "Toezicht en strafrecht"
+    },
+    {
+      "n": 8,
+      "slug": "duur-volgrecht",
+      "title": "Beschermingsduur en volgrecht"
+    },
+    {
+      "n": 9,
+      "slug": "licenties-film",
+      "title": "Verruimde licenties en filmwerken"
+    },
+    {
+      "n": 10,
+      "slug": "software",
+      "title": "Computerprogramma’s en nagelaten werken"
+    },
+    {
+      "n": 11,
+      "slug": "slot",
+      "title": "Overgangs- en slotbepalingen"
+    }
+  ],
+  "decisive_date": "2026-10-19",
+  "official_state": "2026-01-01_0"
+}

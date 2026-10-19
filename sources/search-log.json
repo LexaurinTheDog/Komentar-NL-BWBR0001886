@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-19",
+  "strategy": "Selective primary-source research for foundational work/infringement questions and unlawful private-copy sources; local national corpus discovery plus direct official retrieval.",
+  "searches": [
+    {
+      "source": "local national corpus",
+      "query": "auteursrecht|auteurswet|Endstra|Stokke",
+      "evidence": "local-corpus-search.json",
+      "scope": "Hoge Raad and PHR directories; only selected decisions read, not every hit"
+    },
+    {
+      "source": "data.rechtspraak.nl",
+      "query": "ECLI:NL:HR:2008:BC2153",
+      "result": "Full XML judgment read; selected for articles 1 and 10"
+    },
+    {
+      "source": "data.rechtspraak.nl",
+      "query": "ECLI:NL:HR:2013:BY1529",
+      "result": "Full XML judgment read; selected for articles 10, 13 and 25"
+    },
+    {
+      "source": "EUR-Lex",
+      "query": "CELEX:62013CJ0201 and CELEX:62011CJ0128",
+      "result": "Direct HTTP 202 empty bodies; rejected, not cited"
+    },
+    {
+      "source": "EUR-Lex via Firecrawl",
+      "query": "CELEX:62012CJ0435",
+      "result": "Full official judgment read, paragraphs 1–66 and dictum; selected for article 16c"
+    }
+  ],
+  "limits": "No exhaustive search or later-treatment check. No separately verified case selected for other units, including technical administration, new 2026 provisions and most criminal rules. This is not evidence of absence of cases."
+}

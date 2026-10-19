@@ -1,0 +1,180 @@
+{
+  "verification_date": "2026-10-19",
+  "selection": {
+    "decisive_date": "2026-10-19",
+    "authoring_started": "2026-10-19",
+    "state": "2026-01-01_0",
+    "effective_from": "2026-01-01",
+    "effective_until": "9999-12-31",
+    "visible_from": "2026-01-01",
+    "visible_until": "9999-12-31",
+    "last_modified": "2026-04-18T08:08:15+02:00",
+    "basis": "Official work manifest has no later expression and marks this expression effective through 9999-12-31. XML state inwerkingtreding agrees. Stb.2025-392 expressly commences the 2025-352 reform on 2026-01-01.",
+    "manifest_sha512": "486cd59be38ce19ab02d3321bf44110bac4562e155455a64d633165de840d73b411be707a40acd621c97d6dfe81a8a961687b7e052938c1db9e485400b591276",
+    "manifest_sha512_matches_download": true,
+    "changes_since_intake": "No later state in official manifest; all 170 unit texts equal intake ignoring whitespace. XML includes official editorial notes separately.",
+    "limits": "Date-specific wetten.nl front end returned 404; repository XML and official work manifest used. Future/unprocessed amendments outside the official manifest are not independently inventoried."
+  },
+  "responses": [
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/2026-01-01_0/xml/BWBR0001886_2026-01-01_0.xml",
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/2026-01-01_0/xml/BWBR0001886_2026-01-01_0.xml",
+      "accessed_at": "2026-10-19T14:23:05.173206+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/intake-version.xml",
+      "sha256": "e90b201ad0e473d3245443bc43728241aa17770042b3e7dfb7c9ca040f10c2c5",
+      "bytes": 632597,
+      "prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><toestand xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance",
+      "format_validation": {
+        "accepted": true,
+        "root_element": "toestand",
+        "is_xml": true
+      }
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19",
+      "final_url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19",
+      "accessed_at": "2026-10-19T14:23:06.642408+00:00",
+      "http_status": 404,
+      "content_type": null,
+      "path": "sources/official-current.html",
+      "sha256": "039105fb83129a7c5771a9c950cb81de5278ecdc0f6c1b3df6bcfe740e9a2991",
+      "bytes": 8702,
+      "prefix": "<!DOCTYPE HTML>\n<html lang=\"nl\">\n   <head>\n      <title>Wetten.nl | Fout</title>\n      <meta charset",
+      "format_validation": {
+        "accepted": false,
+        "reason": "Non-success response, empty body, or error HTML; not used as statutory/case text."
+      }
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19/0/informatie",
+      "final_url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19/0/informatie",
+      "accessed_at": "2026-10-19T14:23:06.840811+00:00",
+      "http_status": 404,
+      "content_type": null,
+      "path": "sources/official-wti.html",
+      "sha256": "039105fb83129a7c5771a9c950cb81de5278ecdc0f6c1b3df6bcfe740e9a2991",
+      "bytes": 8702,
+      "prefix": "<!DOCTYPE HTML>\n<html lang=\"nl\">\n   <head>\n      <title>Wetten.nl | Fout</title>\n      <meta charset",
+      "format_validation": {
+        "accepted": false,
+        "reason": "Non-success response, empty body, or error HTML; not used as statutory/case text."
+      }
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/",
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/manifest.xml",
+      "accessed_at": "2026-10-19T14:23:08.179823+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/official-index.html",
+      "sha256": "13bdb324a4963bc67087ebebd072c1c47077972460430d6f2342e02a1ddf7035",
+      "bytes": 20075,
+      "prefix": "<?xml version=\"1.0\" encoding=\"utf-8\"?><work xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xm",
+      "format_validation": {
+        "accepted": true,
+        "root_element": "work",
+        "is_xml": true
+      },
+      "canonical_evidence_copy": "sources/official-manifest.xml"
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-352.xml",
+      "path": "sources/amendment-2025-352.xml",
+      "accessed_at": "2026-10-19T14:23:56.480137+00:00",
+      "http_status": 200,
+      "content_type": "text/xml",
+      "sha256": "c12a2389e9dc256d69e1a493bb863286e1fcacc2b216f7af133998e5b1cf3dbb",
+      "bytes": 25656,
+      "format_validation": {
+        "accepted": true,
+        "root_element": "officiele-publicatie",
+        "is_xml": true
+      }
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-392.xml",
+      "path": "sources/commencement-2025-392.xml",
+      "accessed_at": "2026-10-19T14:23:56.832587+00:00",
+      "http_status": 200,
+      "content_type": "text/xml",
+      "sha256": "b3d4cc26b711af632fc8d0968631637b43761e46a2372db6d0931db7efdf16c2",
+      "bytes": 5576,
+      "format_validation": {
+        "accepted": true,
+        "root_element": "officiele-publicatie",
+        "is_xml": true
+      }
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2008:BC2153",
+      "path": "sources/hr-endstra.xml",
+      "accessed_at": "2026-10-19T14:23:55.451773+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "6b39ce8bd2f6a564fbba647ba0c135062a183397667bf8b3cc7deb045c18b8ac",
+      "bytes": 32078,
+      "format_validation": {
+        "accepted": true,
+        "root_element": "open-rechtspraak",
+        "is_xml": true
+      }
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY1529",
+      "path": "sources/hr-stokke.xml",
+      "accessed_at": "2026-10-19T14:23:55.393374+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "1dabd3e413fa7fd5e2a10840753e66124fb27da60895035cd695d374b8d8b707",
+      "bytes": 32690,
+      "format_validation": {
+        "accepted": true,
+        "root_element": "open-rechtspraak",
+        "is_xml": true
+      }
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62013CJ0201",
+      "path": "sources/cjeu-deckmyn.html",
+      "accessed_at": "2026-10-19T14:23:55.550791+00:00",
+      "http_status": 202,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "format_validation": {
+        "accepted": false,
+        "reason": "Non-success response, empty body, or error HTML; not used as statutory/case text."
+      }
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62011CJ0128",
+      "path": "sources/cjeu-usedsoft.html",
+      "accessed_at": "2026-10-19T14:23:55.566235+00:00",
+      "http_status": 202,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "format_validation": {
+        "accepted": false,
+        "reason": "Non-success response, empty body, or error HTML; not used as statutory/case text."
+      }
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62012CJ0435",
+      "path": "sources/cjeu-aci-adam.json",
+      "accessed_at": "2026-10-19T14:45:40.582608+00:00",
+      "request_started_at": "2026-10-19T14:45:37.433088+00:00",
+      "http_status": 200,
+      "transport": "Firecrawl CLI; metadata reports origin status",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "0f8341876422012fb4d28aa8489e2cd346742a2c67d99b08af2f7ff0dc2450fc",
+      "format_validation": {
+        "accepted": true,
+        "format": "JSON envelope with official HTML and full judgment markdown",
+        "paragraphs": "1–66 and operative part"
+      }
+    }
+  ]
+}

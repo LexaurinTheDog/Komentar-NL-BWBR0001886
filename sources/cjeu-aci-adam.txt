@@ -1,0 +1,445 @@
+ARREST VAN HET HOF (Vierde kamer)
+
+10 april 2014 ([\*1](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62012CJ0435#t-ECR_62012CJ0435_NL_01-E0001))
+
+„Prejudiciële verwijzing — Intellectuele eigendom — Auteursrecht en naburige rechten — Harmonisatie van bepaalde aspecten van auteursrecht en naburige rechten in informatiemaatschappij — Richtlijn 2001/29/EG — Artikel 5, lid 2, sub b, en lid 5 — Reproductierecht — Uitzonderingen en beperkingen — Reproductie voor privégebruik — Geoorloofdheid van bron van kopie — Richtlijn 2004/48/EG — Werkingssfeer”
+
+In zaak C‑435/12,
+
+betreffende een verzoek om een prejudiciële beslissing krachtens artikel 267 VWEU, ingediend door de Hoge Raad der Nederlanden bij arrest van 21 september 2012, ingekomen bij het Hof op 26 september 2012, in de procedure
+
+ACI Adam BV e.a.
+
+tegen
+
+Stichting de Thuiskopie,
+
+Stichting Onderhandelingen Thuiskopie vergoeding,
+
+wijst
+
+HET HOF (Vierde kamer),
+
+samengesteld als volgt: L. Bay Larsen, kamerpresident, K. Lenaerts, vicepresident van het Hof, waarnemend rechter van de Vierde kamer, M. Safjan, J. Malenovský (rapporteur) en A. Prechal, rechters,
+
+advocaat-generaal: P. Cruz Villalón,
+
+griffier: M. Ferreira, hoofdadministrateur,
+
+gezien de stukken en na de terechtzitting op 9 oktober 2013,
+
+gelet op de opmerkingen van:
+
+|     |     |
+| --- | --- |
+| — | ACI Adam BV e.a., vertegenwoordigd door D. Visser, advocaat, |
+
+|     |     |
+| --- | --- |
+| — | Stichting de Thuiskopie en Stichting Onderhandelingen Thuiskopie vergoeding, vertegenwoordigd door T. Cohen Jehoram en V. Rörsch, advocaten, |
+
+|     |     |
+| --- | --- |
+| — | de Nederlandse regering, vertegenwoordigd door C. Schillemans en M. Noort als gemachtigden, |
+
+|     |     |
+| --- | --- |
+| — | de Spaanse regering, vertegenwoordigd door M. García-Valdecasas Dorrego als gemachtigde, |
+
+|     |     |
+| --- | --- |
+| — | de Italiaanse regering, vertegenwoordigd door G. Palmieri als gemachtigde, bijgestaan door P. Gentili, avvocato dello Stato, |
+
+|     |     |
+| --- | --- |
+| — | de Litouwse regering, vertegenwoordigd door D. Kriaučiūnas en J. Nasutavičienė als gemachtigden, |
+
+|     |     |
+| --- | --- |
+| — | de Oostenrijkse regering, vertegenwoordigd door A. Posch als gemachtigde, |
+
+|     |     |
+| --- | --- |
+| — | de Europese Commissie, vertegenwoordigd door J. Samnadda en F. Wilman als gemachtigden, |
+
+gehoord de conclusie van de advocaat-generaal ter terechtzitting van 9 januari 2014,
+
+het navolgende
+
+Arrest
+
+|     |     |
+| --- | --- |
+| 1 | Het verzoek om een prejudiciële beslissing betreft de uitlegging van artikel 5, lid 2, sub b, en lid 5, van richtlijn 2001/29/EG van het Europees Parlement en de Raad van 22 mei 2001 betreffende de harmonisatie van bepaalde aspecten van het auteursrecht en de naburige rechten in de informatiemaatschappij ( [PB L 167, blz. 10](https://eur-lex.europa.eu/legal-content/NL/AUTO/?uri=OJ:L:2001:167:TOC)), en van richtlijn 2004/48/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende de handhaving van intellectuele-eigendomsrechten ( [PB L 157, blz. 45](https://eur-lex.europa.eu/legal-content/NL/AUTO/?uri=OJ:L:2004:157:TOC), met rectificaties in [PB 2004, L 195, blz. 16](https://eur-lex.europa.eu/legal-content/NL/AUTO/?uri=OJ:L:2004:195:TOC), en [PB 2007, L 204, blz. 27](https://eur-lex.europa.eu/legal-content/NL/AUTO/?uri=OJ:L:2007:204:TOC)). |
+
+|     |     |
+| --- | --- |
+| 2 | Dit verzoek is ingediend in het kader van een geding tussen ACI Adam BV en een aantal andere ondernemingen (hierna: „ACI Adam e.a.”) enerzijds, en Stichting de Thuiskopie (hierna: „Thuiskopie”) en Stichting Onderhandelingen Thuiskopie vergoeding (hierna: „SONT”) anderzijds. Van deze stichtingen is de eerste belast met de heffing en verdeling van de vergoeding die moet worden betaald door de fabrikanten of importeurs van dragers die zijn bestemd voor de reproductie, voor privégebruik, van werken van letterkunde, wetenschap of kunst (hierna: „thuiskopievergoeding”), en de tweede met het vaststellen van het bedrag van deze vergoeding. Dit geding betreft het feit dat SONT bij de vaststelling van het bedrag van voornoemde vergoeding rekening houdt met schade die het gevolg is van het kopiëren uit een ongeoorloofde bron. |
+
+Toepasselijke bepalingen
+
+Unierecht
+
+Richtlijn 2001/29
+
+|     |     |
+| --- | --- |
+| 3 | De punten 22, 31, 32, 35, 38 en 44 van de considerans van richtlijn 2001/29 luiden als volgt:
+
+|     |     |
+| --- | --- |
+| „(22) | De doelstelling van een werkelijke steun aan de verspreiding van cultuur, mag niet worden gerealiseerd met middelen die ten koste gaan van een strikte bescherming van de rechten of door het gedogen van illegale vormen van distributie van nagemaakte of vervalste werken. |
+
+\[...\]
+
+|     |     |
+| --- | --- |
+| (31) | Er moet een rechtvaardig evenwicht van rechten en belangen worden gewaarborgd tussen de verschillende categorieën rechthebbenden en tussen de verschillende categorieën rechthebbenden en gebruikers van beschermd materiaal. \[...\] |
+
+|     |     |
+| --- | --- |
+| (32) | Deze richtlijn bevat een uitputtende opsomming van de beperkingen en restricties op het reproductierecht en het recht van mededeling aan het publiek. Sommige beperkingen en restricties zijn enkel van toepassing op het reproductierecht, wanneer dit passend is. Bij het opstellen van deze lijst is zowel rekening gehouden met de verschillende rechtstradities in de lidstaten als met het vereiste van een goed functionerende interne markt. De lidstaten passen deze beperkingen en restricties op coherente wijze toe. Dit zal worden beoordeeld bij het onderzoek van de uitvoeringswetgeving in de toekomst. |
+
+\[...\]
+
+|     |     |
+| --- | --- |
+| (35) | Rechthebbenden dienen, in bepaalde uitzonderlijke gevallen, een billijke compensatie te ontvangen om hen naar behoren te compenseren voor het gebruik van hun beschermde werken of ander beschermd materiaal. Bij de bepaling van de vorm, de modaliteiten en het mogelijke niveau van die billijke compensatie moet rekening worden gehouden met de bijzondere omstandigheden van elk geval. Bij de beoordeling van deze omstandigheden zou een zinvol criterium worden gevormd door het mogelijke nadeel voor de rechthebbenden als resultaat van de betreffende handeling. In gevallen waarin de rechthebbenden reeds betaling in een andere vorm hebben ontvangen, bijvoorbeeld als onderdeel van een licentierecht, is eventueel geen specifieke of afzonderlijke betaling nodig. Bij de bepaling van het niveau van de billijke compensatie dient ten volle rekening te worden gehouden met de mate waarin gebruik wordt gemaakt van de in deze richtlijn bedoelde technische voorzieningen. In bepaalde situaties waar de schade voor de rechthebbende minimaal zou zijn, is het mogelijk dat geen betalingsverplichting ontstaat. |
+
+\[...\]
+
+|     |     |
+| --- | --- |
+| (38) | Het moet de lidstaten worden toegestaan om ten aanzien van bepaalde vormen van reproductie van geluidsmateriaal, beeldmateriaal en audiovisueel materiaal voor privégebruik, in een beperking of restrictie op het reproductierecht te voorzien, welke gepaard gaat met een billijke compensatie. Dit kan de invoering of verdere toepassing omvatten van vergoedingsstelsels om het nadeel voor de rechthebbenden te compenseren. Hoewel de verschillen tussen de bestaande vergoedingsstelsels de werking van de interne markt beïnvloeden zullen zij, wat de analoge reproductie voor privégebruik betreft, wellicht geen noemenswaardige gevolgen voor de ontwikkeling van de informatiemaatschappij hebben. Het is aannemelijk dat het digitaal kopiëren voor privégebruik op grotere schaal zal plaatsvinden en een grotere economische impact zal hebben. Daarom moet terdege rekening worden gehouden met de verschillen tussen digitaal en analoog kopiëren voor privégebruik, en moet in bepaalde gevallen een onderscheid tussen beide worden gemaakt. |
+
+\[...\]
+
+|     |     |
+| --- | --- |
+| (44) | Gebruik van de bij deze richtlijn bepaalde beperkingen of restricties dient te geschieden in overeenstemming met de ter zake geldende internationale verplichtingen. Dergelijke beperkingen en restricties mogen niet op zodanige wijze worden toegepast dat de wettige belangen van de rechthebbende worden geschaad of afbreuk wordt gedaan aan de normale exploitatie van zijn werk of andere zaak. De lidstaten moeten, wanneer zij in dergelijke beperkingen of restricties voorzien, daarbij met name naar behoren rekening houden met de sterkere economische uitwerking welke die beperkingen of restricties in de nieuwe elektronische omgeving kunnen hebben. Bijgevolg zal het toepassingsgebied van bepaalde beperkingen of restricties nog beperkter dienen te zijn, wanneer het gaat om bepaalde nieuwe vormen van gebruik van door het auteursrecht beschermde werken en ander materiaal.” | |
+
+|     |     |
+| --- | --- |
+| 4 | Artikel 2, sub a, van richtlijn 2001/29 bepaalt:
+
+„De lidstaten voorzien in het uitsluitende recht, de directe of indirecte, tijdelijke of duurzame, volledige of gedeeltelijke reproductie, met welke middelen en in welke vorm ook, toe te staan of te verbieden, ten behoeve van:
+
+|     |     |
+| --- | --- |
+| a) | auteurs, met betrekking tot hun werken \[...\]”. | |
+
+|     |     |
+| --- | --- |
+| 5 | In artikel 5, leden 2 en 5, van deze richtlijn is bepaald:
+
+„2.   De lidstaten kunnen beperkingen of restricties op het in artikel 2 bedoelde reproductierecht stellen ten aanzien van:
+
+\[...\]
+
+|     |     |
+| --- | --- |
+| b) | de reproductie, op welke drager dan ook, door een natuurlijke persoon voor privégebruik gemaakt, en zonder enig direct of indirect commercieel oogmerk, mits de rechthebbenden een billijke compensatie ontvangen waarbij rekening wordt gehouden met het al dan niet toepassen van de in artikel 6 bedoelde technische voorzieningen op het betrokken werk of het betrokken materiaal; |
+
+\[...\]
+
+5.   De in de leden 1, 2, 3 en 4 bedoelde beperkingen en restricties mogen slechts in bepaalde bijzondere gevallen worden toegepast mits daarbij geen afbreuk wordt gedaan aan de normale exploitatie van werken of ander materiaal en de wettige belangen van de rechthebbende niet onredelijk worden geschaad.” |
+
+|     |     |
+| --- | --- |
+| 6 | Artikel 6 van die richtlijn bepaalt:<br>„1.   De lidstaten voorzien in een passende rechtsbescherming tegen het omzeilen van doeltreffende technische voorzieningen door een persoon die weet of redelijkerwijs behoort te weten dat hij aldus handelt.<br>\[...\]<br>3.   Voor de toepassing van deze richtlijn wordt onder ‚technische voorzieningen’ verstaan technologie, inrichtingen of onderdelen die in het kader van hun normale werking dienen voor het voorkomen of beperken van handelingen ten aanzien van werken of ander materiaal, die niet zijn toegestaan door de houders van auteursrechten, wettelijk vastgelegde naburige rechten of het sui-generisrecht bedoeld in hoofdstuk III van \[richtlijn 96/9/EG van het Europees Parlement en de Raad van 11 maart 1996 betreffende de rechtsbescherming van databanken ( [PB L 77, blz. 20](https://eur-lex.europa.eu/legal-content/NL/AUTO/?uri=OJ:L:1996:077:TOC))\]. Technische voorzieningen worden geacht ‚doeltreffend’ te zijn indien het gebruik van een beschermd werk of ander beschermd materiaal wordt gecontroleerd door de houders van het recht door toepassing van een controle op de toegang of een beschermingsprocedé zoals encryptie, versluiering of een andere transformatie van het werk of ander materiaal of een kopieerbeveiliging die de beoogde bescherming biedt.<br>4.   Niettegenstaande de in lid 1 bedoelde rechtsbescherming nemen de lidstaten, bij gebreke van door de rechthebbenden vrijwillig genomen maatregelen, waaronder overeenkomsten tussen de rechthebbenden en andere betrokken partijen, passende maatregelen om ervoor te zorgen dat de rechthebbenden aan de begunstigde van een nationaalrechtelijke beperking of restrictie overeenkomstig artikel 5, lid 2, sub a, c, d, en e, en lid 3, sub a, b, en e, de nodige middelen verschaffen om van die beperking of restrictie gebruik te kunnen maken, ingeval die begunstigde op rechtmatige wijze toegang heeft tot het beschermde werk of materiaal.<br>\[...\]” |
+
+Richtlijn 2004/48
+
+|     |     |
+| --- | --- |
+| 7 | In artikel 1 van richtlijn 2004/48 wordt het doel ervan omschreven als volgt:<br>„Deze richtlijn betreft de maatregelen, procedures en rechtsmiddelen die noodzakelijk zijn om de handhaving van intellectuele-eigendomsrechten te waarborgen. In deze richtlijn omvat de term ‚intellectuele-eigendomsrechten’ ook industriële-eigendomsrechten.” |
+
+|     |     |
+| --- | --- |
+| 8 | Artikel 2 van deze richtlijn betreft het toepassingsgebied ervan en bepaalt in lid 1:<br>„Onverminderd de middelen die in de communautaire of nationale wetgeving zijn of kunnen worden vastgelegd, voor zover deze middelen gunstiger zijn voor de rechthebbenden, zijn de bij deze richtlijn vastgestelde maatregelen, procedures en rechtsmiddelen overeenkomstig artikel 3 van toepassing op elke inbreuk op intellectuele-eigendomsrechten, zoals bepaald in het communautaire recht en/of het nationale recht van de betrokken lidstaat.” |
+
+Nederlands recht
+
+|     |     |
+| --- | --- |
+| 9 | Artikel 1 van de Auteurswet (Stb. 2008, 538; hierna: „Aw”) kent aan de maker van een werk van letterkunde, wetenschap of kunst, of diens rechtverkrijgenden, het uitsluitende recht toe om dit werk te verveelvoudigen, behoudens beperkingen bij de wet gesteld. |
+
+|     |     |
+| --- | --- |
+| 10 | Artikel 16c, leden 1 en 2, Aw, dat het beginsel heeft ingevoerd van de thuiskopievergoeding, luidt:<br>„1.   Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd het reproduceren van het werk of een gedeelte ervan op een voorwerp dat bestemd is om een werk ten gehore te brengen, te vertonen of weer te geven, mits het reproduceren geschiedt zonder direct of indirect commercieel oogmerk en uitsluitend dient tot eigen oefening, studie of gebruik van de natuurlijke persoon die de reproductie vervaardigt.<br>2.   Voor het reproduceren, bedoeld in het eerste lid, is ten behoeve van de maker of diens rechtverkrijgenden een billijke vergoeding verschuldigd. De verplichting tot betaling van de vergoeding rust op de fabrikant of de importeur van de voorwerpen, bedoeld in het eerste lid.” |
+
+|     |     |
+| --- | --- |
+| 11 | Artikel 1019h van het Wetboek van Burgerlijke Rechtsvordering, dat de omzetting vormt van artikel 14 van richtlijn 2004/48, luidt als volgt:<br>„Voor zover nodig in afwijking van de tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste Boek en in afwijking van artikel 843a, eerste lid, wordt de in het ongelijk gestelde partij desgevorderd veroordeeld in redelijke en evenredige gerechtskosten en andere kosten die de in het gelijk gestelde partij heeft gemaakt, tenzij de billijkheid zich daartegen verzet.” |
+
+Hoofdgeding en prejudiciële vragen
+
+|     |     |
+| --- | --- |
+| 12 | ACI Adam e.a. zijn importeurs en/of fabrikanten van blanco informatiedragers zoals cd’s en cd-r’s. |
+
+|     |     |
+| --- | --- |
+| 13 | Ingevolge artikel 16c Aw, zijn ACI Adam e.a. gehouden tot betaling aan Thuiskopie van de thuiskopievergoeding, waarvan het bedrag wordt vastgesteld door SONT. |
+
+|     |     |
+| --- | --- |
+| 14 | ACI Adam e.a. zijn van mening dat dit bedrag ten onrechte rekening houdt met de schade die de houders van auteursrechten in voorkomend geval lijden als gevolg van het kopiëren uit ongeoorloofde bron. |
+
+|     |     |
+| --- | --- |
+| 15 | Om die reden hebben ACI Adam e.a. Thuiskopie en SONT gedagvaard voor de Rechtbank te ’s-Gravenhage, met als voornaamste argument dat de in artikel 16c, lid 2, Aw bedoelde thuiskopievergoeding uitsluitend is bedoeld om het nadeel te compenseren dat rechthebbenden ondervinden van reproductiehandelingen die binnen het toepassingsbereik van artikel 16c, lid 1, Aw vallen, zodat het bedrag van deze vergoeding geen rekening mag houden met schade die het gevolg is van het kopiëren uit ongeoorloofde bronnen. |
+
+|     |     |
+| --- | --- |
+| 16 | Bij vonnis van 25 juni 2008 heeft de Rechtbank te ’s-Gravenhage de vordering van ACI Adam e.a. afgewezen. |
+
+|     |     |
+| --- | --- |
+| 17 | ACI Adam e.a. hebben tegen dit vonnis beroep ingesteld bij het Gerechtshof te ’s-Gravenhage. Bij arrest van 15 november 2010 heeft dit Gerechtshof het vonnis van de Rechtbank te ’s-Gravenhage bevestigd. |
+
+|     |     |
+| --- | --- |
+| 18 | Volgens de verwijzende rechter, bij wie ACI Adam e.a. tegen voornoemd arrest een cassatieberoep hebben ingesteld, preciseert richtlijn 2001/29 niet of er bij de vaststelling van de hoogte van de in artikel 5, lid 2, sub b, van deze richtlijn bedoelde billijke compensatie rekening moet worden gehouden met reproducties die zijn vervaardigd uit een ongeoorloofde bron. |
+
+|     |     |
+| --- | --- |
+| 19 | Daarop heeft de Hoge Raad der Nederlanden de behandeling van de zaak geschorst en het Hof verzocht om een prejudiciële beslissing over de volgende vragen:
+
+|     |     |
+| --- | --- |
+| „1) | Dient artikel 5, lid 2, aanhef en sub b – al dan niet in verbinding met artikel 5, lid 5, – \[van richtlijn 2001/29\] aldus te worden uitgelegd dat de daar bedoelde beperking van het auteursrecht geldt voor aan de in dat artikel vermelde eisen beantwoordende reproducties, ongeacht of de exemplaren van het werk waaraan die reproducties zijn ontleend, rechtmatig – dat wil zeggen: zonder schending van de auteursrechten van de rechthebbenden – ter beschikking zijn gekomen van de betrokken natuurlijke persoon, of geldt die beperking slechts voor reproducties die zijn ontleend aan exemplaren die zonder auteursrechtinbreuk aan de betrokken persoon ter beschikking zijn gekomen? |
+
+|     |     |
+| --- | --- |
+| 2) | |     |     |
+| --- | --- |
+| a) | Indien het antwoord op vraag 1 luidt als aan het slot daarvan vermeld, kan toepassing van de ‚driestappentoets’, bedoeld in artikel 5, lid 5, \[van richtlijn 2001/29\], dan aanleiding vormen om de werkingssfeer van de beperking van artikel 5, lid 2, \[van deze richtlijn\] uit te breiden, of kan die toepassing slechts ertoe leiden de reikwijdte van de beperking terug te dringen? |
+
+|     |     |
+| --- | --- |
+| b) | Indien het antwoord op vraag 1 luidt als aan het slot daarvan vermeld, is dan een regel van nationaal recht die ertoe strekt dat ter zake van reproducties, door een natuurlijke persoon voor privégebruik gemaakt en zonder enig direct of indirect commercieel oogmerk, een billijke vergoeding verschuldigd is, ongeacht of de vervaardiging van die reproducties ingevolge artikel 5, lid 2, \[van richtlijn 2001/29\] geoorloofd is – en zonder dat die regel afbreuk doet aan het verbodsrecht van de rechthebbende en diens aanspraak op schadevergoeding – strijdig met artikel 5 \[van deze richtlijn\], dan wel met enige andere regel van \[Unie\]recht?<br>Is voor de beantwoording van deze vraag, in het licht van de ‚driestappentoets’ van artikel 5, lid 5, \[van richtlijn 2001/29\], van belang dat technische voorzieningen om het maken van ongeoorloofde privékopieën tegen te gaan (nog) niet beschikbaar zijn? | |
+
+|     |     |
+| --- | --- |
+| 3) | Is \[richtlijn 2004/48\] van toepassing op een geding als het onderhavige, waarin – nadat een lidstaat op de voet van artikel 5, lid 2, sub b, \[van richtlijn 2001/29\] de verplichting tot het afdragen van de in die bepaling bedoelde \[billijke compensatie\] heeft opgelegd aan producenten en importeurs van dragers die geëigend en bestemd zijn voor de reproductie van werken, en heeft bepaald dat die \[billijke compensatie\] dient te worden afgedragen aan een door die lidstaat aangewezen organisatie die met de heffing en verdeling van de \[billijke compensatie\] is belast – door betalingsplichtigen wordt gevorderd dat de rechter ten aanzien van bepaalde in geschil zijnde omstandigheden die van belang zijn voor de vaststelling van de \[billijke compensatie\], verklaringen voor recht geeft ten laste van de bedoelde organisatie, die zich daartegen verweert?” | |
+
+Beantwoording van de prejudiciële vragen
+
+Eerste en tweede vraag
+
+|     |     |
+| --- | --- |
+| 20 | Met zijn eerste en zijn tweede vraag, die samen moeten worden onderzocht, wenst de verwijzende rechter in wezen te vernemen of het Unierecht, en met name artikel 5, lid 2, sub b, van richtlijn 2001/29 juncto lid 5 van dat artikel, aldus moet worden uitgelegd dat het in de weg staat aan een nationale wettelijke regeling als aan de orde in het hoofdgeding, die geen onderscheid maakt tussen de situatie waarin de bron van een voor privégebruik vervaardigde reproductie geoorloofd is, en de situatie waarin deze bron ongeoorloofd is. |
+
+|     |     |
+| --- | --- |
+| 21 | Om te beginnen dient eraan te worden herinnerd dat ingevolge artikel 2 van richtlijn 2001/29 de lidstaten aan auteurs het uitsluitende recht verlenen om de directe of indirecte, tijdelijke of duurzame, volledige of gedeeltelijke reproductie, met welke middelen en in welke vorm ook, van hun werk, toe te staan of te verbieden, al staat het de lidstaten krachtens artikel 5, lid 2, van deze richtlijn vrij om uitzonderingen op en beperkingen van dit recht vast te stellen. |
+
+|     |     |
+| --- | --- |
+| 22 | Wat de reikwijdte van deze uitzonderingen en beperkingen betreft, moet in herinnering worden gebracht dat volgens vaste rechtspraak van het Hof bepalingen van een richtlijn die afwijken van een bij dezelfde richtlijn vastgesteld algemeen beginsel, strikt moeten worden uitgelegd (arrest Infopaq International, C‑5/08, [EU:C:2009:465](https://eur-lex.europa.eu/legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2009%3A465&lang=NL&format=pdf&target=null), punt 56 en aldaar aangehaalde rechtspraak). |
+
+|     |     |
+| --- | --- |
+| 23 | Hieruit volgt dat de verschillende uitzonderingen en beperkingen waarin artikel 5, lid 2, van richtlijn 2001/29 voorziet, strikt moeten worden uitgelegd. |
+
+|     |     |
+| --- | --- |
+| 24 | Voorts zij erop gewezen dat artikel 5, lid 5, van voornoemde richtlijn bepaalt dat uitzonderingen op en beperkingen van het reproductierecht slechts van toepassing zijn in bepaalde bijzondere gevallen en mits daarbij geen afbreuk wordt gedaan aan de normale exploitatie van werken of ander materiaal, en de wettige belangen van de rechthebbende niet onredelijk worden geschaad. |
+
+|     |     |
+| --- | --- |
+| 25 | Deze bepaling van richtlijn 2001/29 geeft derhalve, zoals volgt uit de bewoordingen ervan, enkel een nadere precisering van de voorwaarden voor toepassing van de door artikel 5, lid 2, van deze richtlijn toegestane uitzonderingen op en beperkingen van het reproductierecht, welke voorwaarden inhouden dat deze uitzonderingen en beperkingen slechts van toepassing zijn in bepaalde bijzondere gevallen en mits daarbij geen afbreuk wordt gedaan aan de normale exploitatie van werken of ander materiaal, en de wettige belangen van de rechthebbende niet onredelijk worden geschaad. Artikel 5, lid 5, van deze richtlijn definieert dus niet de materiële inhoud van de verschillende in het tweede lid van dat artikel genoemde uitzonderingen en beperkingen, maar speelt pas een rol op het moment waarop deze door de lidstaten worden toegepast. |
+
+|     |     |
+| --- | --- |
+| 26 | Bijgevolg is artikel 5, lid 5, van richtlijn 2001/29 niet bedoeld om effect te hebben op de materiële inhoud van de onder artikel 5, lid 2, van deze richtlijn vallende bepalingen, en met name niet om de reikwijdte van de daarin voorziene uitzonderingen en beperkingen uit te breiden. |
+
+|     |     |
+| --- | --- |
+| 27 | Voorts blijkt uit punt 44 van de considerans van richtlijn 2001/29 dat de wetgever van de Unie voor ogen had dat de lidstaten, wanneer zij voorzien in de in deze richtlijn bedoelde uitzonderingen en beperkingen, het toepassingsgebied daarvan nog meer zouden beperken wanneer het gaat om bepaalde nieuwe vormen van gebruik van door het auteursrecht beschermde werken en ander materiaal. Noch dit punt van de considerans, noch enige andere bepaling van deze richtlijn voorziet daarentegen in de mogelijkheid voor de lidstaten om het toepassingsgebied van dergelijke uitzonderingen of beperkingen uit te breiden. |
+
+|     |     |
+| --- | --- |
+| 28 | Meer in het bijzonder kunnen de lidstaten krachtens artikel 5, lid 2, sub b, van richtlijn 2001/29 voorzien in een uitzondering op het exclusieve reproductierecht van de auteur met betrekking tot zijn werk ten aanzien van de reproductie, op welke drager dan ook, door een natuurlijke persoon voor privégebruik gemaakt, en zonder enig direct of indirect commercieel oogmerk (hierna: „uitzondering voor het kopiëren voor privégebruik”). |
+
+|     |     |
+| --- | --- |
+| 29 | Deze bepaling spreekt zich er evenwel niet uitdrukkelijk over uit of de bron waaruit een reproductie van het werk kan zijn vervaardigd, al dan niet geoorloofd is. |
+
+|     |     |
+| --- | --- |
+| 30 | Derhalve moeten de bewoordingen van voornoemde bepaling worden uitgelegd volgens het beginsel van strikte uitlegging, zoals in herinnering is gebracht in punt 23 van het onderhavige arrest. |
+
+|     |     |
+| --- | --- |
+| 31 | Een dergelijke uitlegging vereist dat artikel 5, lid 2, sub b, van richtlijn 2001/29 aldus wordt verstaan dat de uitzondering voor het kopiëren voor privégebruik de houders van het auteursrecht weliswaar verbiedt hun uitsluitende recht om reproducties toe te staan of te verbieden uit te oefenen tegenover personen die privékopieën van hun werken vervaardigen, doch zich er niettemin tegen verzet dat deze bepaling in die zin wordt opgevat dat zij, boven op deze uitdrukkelijk vastgelegde beperking, aan de houders van het auteursrecht de verplichting oplegt om de rechtsschendingen te gedogen waarmee de vervaardiging van privékopieën gepaard kan gaan. |
+
+|     |     |
+| --- | --- |
+| 32 | Deze conclusie vindt bovendien steun in de context waarin artikel 5, lid 2, sub b, van richtlijn 2001/29 past, alsmede in de doelstellingen ervan. |
+
+|     |     |
+| --- | --- |
+| 33 | In dit verband volgt enerzijds uit punt 32 van de considerans van richtlijn 2001/29 dat de in artikel 5 daarvan vastgelegde lijst van uitzonderingen een evenwicht moet verzekeren tussen de rechtstradities in de lidstaten en een goed functionerende interne markt. |
+
+|     |     |
+| --- | --- |
+| 34 | Dit betekent dat het de lidstaten vrijstaat om – overeenkomstig hun rechtstradities – de verschillende uitzonderingen waarin artikel 5 van richtlijn 2001/29 voorziet al dan niet in te voeren, maar dat zij, wanneer zij eenmaal hebben besloten een bepaalde uitzondering in te stellen, deze coherent dienen toe te passen, zodat die uitzondering geen afbreuk doet aan de met richtlijn 2001/29 nagestreefde doelstellingen, bestaande in het verzekeren van de goede werking van de interne markt. |
+
+|     |     |
+| --- | --- |
+| 35 | Indien het de lidstaten vrij zou staan al dan niet een wettelijke regeling vast te stellen op grond waarvan reproducties voor privégebruik ook mogen zijn vervaardigd uit een ongeoorloofde bron, dan zou dit duidelijk afbreuk doen aan de goede werking van de interne markt. |
+
+|     |     |
+| --- | --- |
+| 36 | Anderzijds blijkt uit punt 22 van de considerans van deze richtlijn dat de doelstelling van een werkelijke steun aan de verspreiding van cultuur niet mag worden gerealiseerd met middelen die ten koste gaan van een strikte bescherming van de rechten of door het gedogen van illegale vormen van distributie van nagemaakte of vervalste werken. |
+
+|     |     |
+| --- | --- |
+| 37 | Derhalve kan een nationale wettelijke regeling die geen enkel onderscheid maakt tussen kopieën voor privégebruik die zijn vervaardigd uit geoorloofde bronnen, en kopieën voor privégebruik die zijn vervaardigd uit nagemaakte of vervalste bronnen, niet worden gedoogd. |
+
+|     |     |
+| --- | --- |
+| 38 | Toepassing van een nationale wettelijke regeling als aan de orde in het hoofdgeding, die geen onderscheid maakt al naargelang de bron van een voor privégebruik vervaardigde reproductie al dan niet geoorloofd is, kan bovendien inbreuk maken op bepaalde, in artikel 5, lid 5, van richtlijn 2001/29 gestelde voorwaarden. |
+
+|     |     |
+| --- | --- |
+| 39 | Ten eerste zou immers het aanvaarden dat dergelijke reproducties kunnen zijn vervaardigd uit een ongeoorloofde bron de verspreiding van nagemaakte of vervalste werken aanmoedigen en daardoor noodzakelijkerwijze de omvang van de verkopen van, of andere legale transacties met betrekking tot, beschermde werken verminderen, zodat afbreuk zou worden gedaan aan de normale exploitatie daarvan. |
+
+|     |     |
+| --- | --- |
+| 40 | Ten tweede kan de toepassing van een dergelijke nationale wettelijke regeling, gelet op de vaststelling in punt 31 van het onderhavige arrest, een ongerechtvaardigd nadeel opleveren voor de houders van het auteursrecht. |
+
+|     |     |
+| --- | --- |
+| 41 | Uit het voorgaande volgt dat artikel 5, lid 2, sub b, van richtlijn 2001/29 aldus moet worden uitgelegd dat het niet van toepassing is op kopieën voor privégebruik die zijn vervaardigd uit een ongeoorloofde bron. |
+
+|     |     |
+| --- | --- |
+| 42 | Binnen diezelfde context van artikel 5, lid 5, van richtlijn 2001/29 wenst de verwijzende rechter ook te vernemen of voor de beoordeling van de verenigbaarheid met het Unierecht van een nationale wettelijke regeling als aan de orde in het hoofdgeding, rekening moet worden gehouden met het feit dat technische voorzieningen in de zin van artikel 6 van deze richtlijn, waarnaar artikel 5, lid 2, sub b, van voornoemde richtlijn verwijst, op het moment waarop deze regeling werd ingevoerd niet, althans nog niet, bestonden. |
+
+|     |     |
+| --- | --- |
+| 43 | In dit verband heeft het Hof reeds geoordeeld dat de „technische voorzieningen” waarnaar artikel 5, lid 2, sub b, van richtlijn 2001/29 verwijst, tot doel hebben de door de rechthebbenden niet toegestane handelingen te beperken, dat wil zeggen een correcte toepassing van deze bepaling te verzekeren en aldus de handelingen te beletten die niet de strikte voorwaarden van die bepaling in acht nemen (zie in die zin arrest VG Wort e.a., C‑457/11–C‑460/11, [EU:C:2013:426](https://eur-lex.europa.eu/legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A426&lang=NL&format=pdf&target=null), punt 51). |
+
+|     |     |
+| --- | --- |
+| 44 | Bovendien staat het, aangezien het de lidstaten zijn – en niet de rechthebbenden – die de uitzondering voor het kopiëren voor privégebruik instellen en die toestaan dat voor het maken van deze kopieën gebruik wordt gemaakt van beschermde werken of ander beschermd materiaal, bijgevolg aan de lidstaat die door de instelling van deze uitzondering het kopiëren voor privégebruik heeft toegestaan, te verzekeren dat die uitzondering correct wordt toegepast en aldus handelingen waarvoor de rechthebbenden geen toestemming hebben gegeven, te beperken (zie in die zin arrest VG Wort e.a., [EU:C:2013:426](https://eur-lex.europa.eu/legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2013%3A426&lang=NL&format=pdf&target=null), punten 52 en 53). |
+
+|     |     |
+| --- | --- |
+| 45 | Uit de punten 39 en 40 van het onderhavige arrest volgt dat een nationale wettelijke regeling als aan de orde in het hoofdgeding, die geen onderscheid maakt tussen de situatie waarin de bron van een voor privégebruik vervaardigde reproductie geoorloofd is, en de situatie waarin deze bron ongeoorloofd is, geen correcte toepassing van de uitzondering voor het kopiëren voor privégebruik kan verzekeren. De omstandigheid dat er geen enkele technische voorziening bestaat om de vervaardiging van ongeoorloofde privékopieën te bestrijden, kan aan deze vaststelling geen afbreuk doen. |
+
+|     |     |
+| --- | --- |
+| 46 | Hieruit volgt dat voor de beoordeling van de verenigbaarheid met het Unierecht van een nationale wettelijke regeling als aan de orde in het hoofdgeding, geen rekening hoeft te worden gehouden met het feit dat de technische voorzieningen in de zin van artikel 6 van richtlijn 2001/29, waarnaar artikel 5, lid 2, sub b, van voornoemde richtlijn verwijst, niet, of nog niet, bestaan. |
+
+|     |     |
+| --- | --- |
+| 47 | Ten slotte wordt aan de conclusie van het Hof in punt 41 van dit arrest geen afbreuk gedaan door de voorwaarde van de „billijke compensatie”, als bedoeld in artikel 5, lid 2, sub b, van richtlijn 2001/29. |
+
+|     |     |
+| --- | --- |
+| 48 | In dit verband dient in de eerste plaats te worden vastgesteld dat ingevolge deze bepaling de lidstaten die de uitzondering voor het kopiëren voor privégebruik in hun nationale recht invoeren, dienen te voorzien in de betaling van een „billijke compensatie” aan de rechthebbenden. |
+
+|     |     |
+| --- | --- |
+| 49 | Voorts zij eraan herinnerd dat een uitlegging van deze bepaling in die zin dat het de lidstaten die een dergelijke in het Unierecht vastgestelde uitzondering voor het kopiëren voor privégebruik hebben ingevoerd – in het kader waarvan volgens de punten 35 en 38 van de considerans van die richtlijn het begrip „billijke compensatie” een essentieel element is – vrij zou staan om de parameters daarvan op incoherente, niet-geharmoniseerde en mogelijkerwijze van lidstaat tot lidstaat verschillende wijze nader in te vullen, zou indruisen tegen het doel van die richtlijn, dat erin bestaat bepaalde aspecten van het auteursrecht en de naburige rechten in de informatiemaatschappij te harmoniseren en te voorkomen dat de mededinging op de interne markt door de verschillen tussen de wetgevingen van de lidstaten wordt vervalst (zie in die zin arrest Padawan, C‑467/08, [EU:C:2010:620](https://eur-lex.europa.eu/legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A620&lang=NL&format=pdf&target=null), punten 35 en 36). |
+
+|     |     |
+| --- | --- |
+| 50 | Een dergelijke compensatie heeft volgens de rechtspraak van het Hof tot doel de auteurs schadeloos te stellen voor het kopiëren, zonder hun toestemming, van hun beschermde werken voor privégebruik, zodat zij moet worden beschouwd als de tegenprestatie voor de schade die auteurs lijden als gevolg van de vervaardiging van dergelijke door hen niet toegestane kopieën (zie in die zin arrest Padawan, [EU:C:2010:620](https://eur-lex.europa.eu/legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A620&lang=NL&format=pdf&target=null), punten 30, 39 en 40). |
+
+|     |     |
+| --- | --- |
+| 51 | Derhalve is de persoon die deze schade heeft veroorzaakt, dat wil zeggen de persoon die de kopie van het beschermde werk zonder voorafgaande toestemming van de rechthebbende heeft vervaardigd, in beginsel verplicht de geleden schade te vergoeden, door het bekostigen van de compensatie die aan die rechthebbende zal worden betaald (zie in die zin arresten Padawan, [EU:C:2010:620](https://eur-lex.europa.eu/legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A620&lang=NL&format=pdf&target=null), punt 45, en Stichting de Thuiskopie, C‑462/09, [EU:C:2011:397](https://eur-lex.europa.eu/legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A397&lang=NL&format=pdf&target=null), punt 26). |
+
+|     |     |
+| --- | --- |
+| 52 | Het Hof heeft evenwel aanvaard dat, gelet op de praktische moeilijkheden waarmee een dergelijk stelsel van billijke compensatie gepaard gaat, het de lidstaten vrijstaat om met het oog op de financiering van die billijke compensatie een vergoeding in te voeren die niet rechtstreeks door de betrokken particulieren dient te worden betaald, maar door de personen die het bedrag van deze vergoeding kunnen doorberekenen in de prijs van de terbeschikkingstelling van installaties, apparaten en dragers, of in de prijs van de verleende reproductiedienst, zodat de last van de vergoeding uiteindelijk zal worden gedragen door de privégebruiker die deze prijs betaalt (zie in die zin arresten Padawan, [EU:C:2010:620](https://eur-lex.europa.eu/legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A620&lang=NL&format=pdf&target=null), punt 46 en 48, en Stichting de Thuiskopie, [EU:C:2011:397](https://eur-lex.europa.eu/legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2011%3A397&lang=NL&format=pdf&target=null), punten 27 en 28). |
+
+|     |     |
+| --- | --- |
+| 53 | In de tweede plaats blijkt uit punt 31 van de considerans van richtlijn 2001/29 dat het door de betrokken lidstaat ingevoerde vergoedingsstelsel een rechtvaardig evenwicht moet waarborgen tussen de rechten en belangen van de auteurs – de ontvangers van de billijke compensatie – enerzijds, en de rechten en belangen van de gebruikers van beschermd materiaal anderzijds. |
+
+|     |     |
+| --- | --- |
+| 54 | Een stelsel van vergoedingen voor het kopiëren voor privégebruik als aan de orde in het hoofdgeding, waarin voor de berekening van de billijke compensatie die aan de ontvangers ervan is verschuldigd geen onderscheid wordt gemaakt tussen de situatie waarin de bron van een voor privégebruik vervaardigde reproductie geoorloofd is, en de situatie waarin deze bron ongeoorloofd is, eerbiedigt niet het in het vorige punt genoemde rechtvaardige evenwicht. |
+
+|     |     |
+| --- | --- |
+| 55 | In een dergelijk stelsel wordt de veroorzaakte schade, en dus het bedrag van de billijke compensatie die aan de ontvangers is verschuldigd, immers berekend op grondslag van de aan auteurs toegebrachte schade, zowel veroorzaakt door reproducties voor privégebruik die zijn vervaardigd uit een geoorloofde bron, als veroorzaakt door reproducties die zijn vervaardigd uit een ongeoorloofde bron. Het aldus berekende bedrag wordt vervolgens uiteindelijk doorberekend in de prijs die de gebruikers van beschermd materiaal betalen op het moment waarop aan hen installaties, apparaten en dragers ter beschikking worden gesteld waarmee privékopieën kunnen worden vervaardigd. |
+
+|     |     |
+| --- | --- |
+| 56 | Alle gebruikers die dergelijke installaties, apparaten en dragers verwerven, worden dus indirect bestraft aangezien zij – doordat zij de lasten dragen van een vergoeding die wordt vastgesteld zonder dat er rekening mee is gehouden of de bron waaruit dergelijke reproducties zijn vervaardigd, al dan niet geoorloofd is – noodzakelijkerwijze meebetalen aan de compensatie van de schade die wordt veroorzaakt door uit een ongeoorloofde bron vervaardigde reproducties voor privégebruik die niet zijn toegestaan door richtlijn 2001/29, en aldus worden gedwongen om aanzienlijke extra kosten voor hun rekening te nemen teneinde privékopieën te kunnen vervaardigen die vallen onder de in artikel 5, lid 2, sub b, van deze richtlijn voorziene uitzondering. |
+
+|     |     |
+| --- | --- |
+| 57 | Een dergelijke situatie kan niet worden geacht te voldoen aan de voorwaarde inzake het rechtvaardige evenwicht dat moet worden gevonden tussen de rechten en belangen van de ontvangers van de billijke compensatie enerzijds, en de rechten en belangen van deze gebruikers anderzijds. |
+
+|     |     |
+| --- | --- |
+| 58 | Gelet op het voorgaande moet op de eerste en de tweede vraag worden geantwoord dat het Unierecht, en met name artikel 5, lid 2, sub b, van richtlijn 2001/29 juncto lid 5 van dat artikel, aldus moet worden uitgelegd dat het in de weg staat aan een nationale wettelijke regeling als aan de orde in het hoofdgeding, die geen onderscheid maakt tussen de situatie waarin de bron van een voor privégebruik vervaardigde reproductie geoorloofd is, en de situatie waarin deze bron ongeoorloofd is. |
+
+Derde vraag
+
+|     |     |
+| --- | --- |
+| 59 | Met zijn derde vraag wenst de verwijzende rechter in wezen te vernemen of richtlijn 2004/48 aldus moet worden uitgelegd dat deze van toepassing is op een procedure als aan de orde in het hoofdgeding, waarin de betalingsplichtigen van de billijke compensatie bij die rechter vorderen dat hij verklaringen voor recht geeft ten laste van de organisatie die is belast met de heffing van deze vergoeding en de verdeling daarvan onder de rechthebbenden, en die zich daartegen verweert. |
+
+|     |     |
+| --- | --- |
+| 60 | Er zij aan herinnerd dat richtlijn 2004/48 blijkens artikel 1 ervan beoogt de handhaving van intellectuele-eigendomsrechten te waarborgen door de invoering van verschillende maatregelen, procedures en rechtsmiddelen in de lidstaten. |
+
+|     |     |
+| --- | --- |
+| 61 | Het Hof heeft geoordeeld dat de bepalingen van richtlijn 2004/48 niet beogen alle aspecten betreffende de intellectuele-eigendomsrechten te regelen, maar alleen de aspecten die inherent zijn aan enerzijds de handhaving van deze rechten en anderzijds de inbreuken op die rechten, door te eisen dat doeltreffende rechtswegen bestaan om elke inbreuk op een bestaand intellectuele-eigendomsrecht te voorkomen, te doen staken of te verhelpen (zie arrest Bericap Záródástechnikai, C‑180/11, [EU:C:2012:717](https://eur-lex.europa.eu/legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A717&lang=NL&format=pdf&target=null), punt 75). |
+
+|     |     |
+| --- | --- |
+| 62 | Zoals overigens ook blijkt uit artikel 2, lid 1, van richtlijn 2004/48, waarborgen de bepalingen daarvan derhalve enkel de handhaving van de verschillende rechten van de personen die intellectuele-eigendomsrechten verkregen hebben, te weten de houders van dergelijke rechten, en kunnen zij niet in die zin worden uitgelegd dat zij beogen de verschillende maatregelen en procedures te regelen die ter beschikking worden gesteld van personen die zelf geen houders van dergelijke rechten zijn, en die niet alleen een inbreuk op een intellectuele-eigendomsrecht betreffen (zie in die zin arrest Bericap Záródástechnikai, [EU:C:2012:717](https://eur-lex.europa.eu/legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A717&lang=NL&format=pdf&target=null), punt 77). |
+
+|     |     |
+| --- | --- |
+| 63 | Aan een procedure als aan de orde in het hoofdgeding, die betrekking heeft op de reikwijdte van het stelsel van de uitzondering voor het kopiëren voor privégebruik, alsmede op de gevolgen hiervan voor de heffing en verdeling van de billijke compensatie die ingevolge artikel 5, lid 2, sub b, van richtlijn 2001/29 moet worden betaald door importeurs en/of fabrikanten van blanco informatiedragers, ligt geen vordering ten grondslag die is ingesteld door rechthebbenden teneinde elke inbreuk op een bestaand intellectuele-eigendomsrecht te voorkomen, te doen staken of te verhelpen, maar een vordering die is ingesteld door marktdeelnemers ter zake van de billijke compensatie die zij dienen te betalen. |
+
+|     |     |
+| --- | --- |
+| 64 | In deze omstandigheden is richtlijn 2004/48 niet van toepassing. |
+
+|     |     |
+| --- | --- |
+| 65 | Gelet op het voorgaande moet op de derde vraag worden geantwoord dat richtlijn 2004/48 aldus moet worden uitgelegd dat deze niet van toepassing is op een procedure als aan de orde in het hoofdgeding, waarin de betalingsplichtigen van de billijke compensatie bij de verwijzende rechter vorderen dat hij verklaringen voor recht geeft ten laste van de organisatie die is belast met de heffing van deze vergoeding en de verdeling daarvan onder de houders van auteursrechten, en die zich daartegen verweert. |
+
+Kosten
+
+|     |     |
+| --- | --- |
+| 66 | Ten aanzien van de partijen in het hoofdgeding is de procedure als een aldaar gerezen incident te beschouwen, zodat de verwijzende rechterlijke instantie over de kosten heeft te beslissen. De door anderen wegens indiening van hun opmerkingen bij het Hof gemaakte kosten komen niet voor vergoeding in aanmerking. |
+
+|     |     |
+| --- | --- |
+|  | Het Hof (Vierde kamer) verklaart voor recht: |
+
+|     |     |
+| --- | --- |
+|  | |     |     |
+| --- | --- |
+| 1) | Het Unierecht, en met name artikel 5, lid 2, sub b, van richtlijn 2001/29/EG van het Europees Parlement en de Raad van 22 mei 2001 betreffende de harmonisatie van bepaalde aspecten van het auteursrecht en de naburige rechten in de informatiemaatschappij juncto lid 5 van dat artikel, dient aldus te worden uitgelegd dat het in de weg staat aan een nationale wettelijke regeling als aan de orde in het hoofdgeding, die geen onderscheid maakt tussen de situatie waarin de bron van een voor privégebruik vervaardigde reproductie geoorloofd is, en de situatie waarin deze bron ongeoorloofd is. | |
+
+|     |     |
+| --- | --- |
+|  | |     |     |
+| --- | --- |
+| 2) | Richtlijn 2004/48/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende de handhaving van intellectuele-eigendomsrechten, moet aldus worden uitgelegd dat deze niet van toepassing is op een procedure als aan de orde in het hoofdgeding, waarin de betalingsplichtigen van de billijke compensatie bij de verwijzende rechter vorderen dat hij verklaringen voor recht geeft ten laste van de organisatie die is belast met de heffing van deze vergoeding en de verdeling daarvan onder de houders van auteursrechten, en die zich daartegen verweert. | |
+
+|     |     |
+| --- | --- |
+|  | ondertekeningen |
+
+* * *
+
+([\*1](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62012CJ0435#c-ECR_62012CJ0435_NL_01-E0001)) Procestaal: Nederlands.

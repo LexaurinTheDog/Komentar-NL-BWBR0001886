@@ -1,0 +1,72 @@
+{
+  "searched_at": "2026-10-19T14:45:42.144270+00:00",
+  "results": [
+    {
+      "root": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+      "query": "auteursrecht|auteurswet|Endstra|Stokke",
+      "matches": 232,
+      "sample": [
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1938-171.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1937-208.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1935-137.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1921-186.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1936-188.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1953-76.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1954-1.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1977-ac6114.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1979-ah8594.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1979-ab7301.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1979-ac6461.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1984-ag4791.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1985-aw8133.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1987-ad0056.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1987-ac9997.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1989-ad0647.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1990-ad1160.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1990-zc8537.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1992-zc0513.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1992-ad1631.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1992-zc0647.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1993-zc0919.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1994-zc1296.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1994-zc1377.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1995-zc1845.md"
+      ],
+      "exit_code": 0
+    },
+    {
+      "root": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr",
+      "query": "auteursrecht|auteurswet|Endstra|Stokke",
+      "matches": 521,
+      "sample": [
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1936-1.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1935-3.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1938-1.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1937-1.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1953-1.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1979-ac6461.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1977-ac6114.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1979-ab7301.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1979-ah8594.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1984-ag4791.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1986-ad7158.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1987-ad0056.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1987-ad0055.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1989-ad0647.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1990-15.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1990-ad1160.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1992-ad1631.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1991-48.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1992-51.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1993-42.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1993-61.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1994-15.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1994-12.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1994-23.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/phr/ecli-nl-phr-1995-12.md"
+      ],
+      "exit_code": 0
+    }
+  ],
+  "limits": "Discovery only: matching conclusions are not treated as holdings. Verified case texts separately obtained from official judicial endpoint."
+}

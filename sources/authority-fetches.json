@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-352.xml",
+    "path": "sources/amendment-2025-352.xml",
+    "accessed_at": "2026-10-19T14:23:56.480137+00:00",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "sha256": "c12a2389e9dc256d69e1a493bb863286e1fcacc2b216f7af133998e5b1cf3dbb",
+    "bytes": 25656
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-392.xml",
+    "path": "sources/commencement-2025-392.xml",
+    "accessed_at": "2026-10-19T14:23:56.832587+00:00",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "sha256": "b3d4cc26b711af632fc8d0968631637b43761e46a2372db6d0931db7efdf16c2",
+    "bytes": 5576
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2008:BC2153",
+    "path": "sources/hr-endstra.xml",
+    "accessed_at": "2026-10-19T14:23:55.451773+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "6b39ce8bd2f6a564fbba647ba0c135062a183397667bf8b3cc7deb045c18b8ac",
+    "bytes": 32078
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY1529",
+    "path": "sources/hr-stokke.xml",
+    "accessed_at": "2026-10-19T14:23:55.393374+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "1dabd3e413fa7fd5e2a10840753e66124fb27da60895035cd695d374b8d8b707",
+    "bytes": 32690
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62013CJ0201",
+    "path": "sources/cjeu-deckmyn.html",
+    "accessed_at": "2026-10-19T14:23:55.550791+00:00",
+    "http_status": 202,
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62011CJ0128",
+    "path": "sources/cjeu-usedsoft.html",
+    "accessed_at": "2026-10-19T14:23:55.566235+00:00",
+    "http_status": 202,
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  }
+]

@@ -1,0 +1,225 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Hoge Raad
+ecli: ECLI:NL:HR:2013:BY1529
+date: '2013-02-22'
+date_published: '2013-04-05'
+case_number:
+- 11/02739
+procedure:
+- Cassatie
+subject:
+- Civiel recht
+relations:
+- 'Conclusie: ECLI:NL:PHR:2013:BY1529'
+- 'In cassatie op : ECLI:NL:GHAMS:2011:BQ3808, Bekrachtiging/bevestiging'
+references: null
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:BY1529
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY1529
+chars: 25325
+license: Public Domain Mark
+retrieved_at: '2026-10-04T00:03:34Z'
+---
+
+# ECLI:NL:HR:2013:BY1529 – Hoge Raad, 2013-02-22
+
+- **Instantie:** Hoge Raad
+- **Datum:** 2013-02-22
+- **Zaaknummer:** 11/02739
+- **Rechtsgebied:** Civiel recht
+
+## Inhoudsindicatie
+
+Auteursrecht. Inbreukactie; art. 1 , 10 en 13 Auteurswet. Maatstaf beoordeling. Werktoets. Vergelijking totaalindrukken. Feitelijke beoordeling. Beperkte toetsbaarheid in cassatie. Proceskostenveroordeling op de voet van art. 1019h Rv.
+
+## Uitspraak
+
+22 februari 2013
+
+Eerste Kamer
+
+11/02739
+
+TT/MD
+
+Hoge Raad der Nederlanden
+
+Arrest
+
+in de zaak van:
+
+1. de vennootschap naar Noors recht STOKKE AS,
+
+gevestigd te Skodje, Noorwegen,
+
+2. STOKKE NEDERLAND B.V.,
+
+gevestigd te Tilburg,
+
+3. [Eiser 3],
+
+wonende te [woonplaats], Noorwegen,
+
+4. [Eiseres 4],
+
+gevestigd te Oslo, Noorwegen,
+
+EISERS tot cassatie,
+
+advocaten: aanvankelijk mr. R.A.A. Duk en mr. P.A. Ruig, thans mr. T. Cohen Jehoram en mr. V. Rörsch,
+
+t e g e n
+
+1. H3 PRODUCTS B.V.,
+
+gevestigd te Swalmen, gemeente Roermond,
+
+2. de vennootschap naar Belgisch recht DEVA INTERNATIONAL BVBA,
+
+gevestigd te Wielsbeke, België,
+
+3. [Verweerder 3], handelend onder de naam Het Babyhuis,
+
+wonende te [woonplaats],
+
+VERWEERDERS in cassatie,
+
+advocaat: mr. C.S.G. Janssens.
+
+Verzoekers zullen hierna gezamenlijk worden aangeduid als Stokke c.s. en afzonderlijk als Stokke AS, Stokke Nederland en [eiser 3] en [eiseres 4]. Verweerders zullen hierna gezamenlijk worden aangeduid als H3 Products c.s. en afzonderlijk als H3 Products, Deva en het Babyhuis.
+
+1. Het geding in feitelijke instanties
+
+Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar de navolgende stukken:
+
+a. het vonnis in de zaak 141611 / HA ZA 07-1510 van de rechtbank Haarlem van 7 januari 2009;
+
+b. het arrest in de zaak 200.037.074/01 van het gerechtshof te Amsterdam van 15 maart 2011.
+
+Het arrest van het hof is aan dit arrest gehecht.
+
+2. Het geding in cassatie
+
+Tegen het arrest van het hof heeft Stokke c.s. beroep in cassatie ingesteld. De cassatiedagvaarding en het herstelexploot zijn aan dit arrest gehecht en maken daarvan deel uit.
+
+H3 Products c.s. heeft geconcludeerd tot verwerping van het beroep.
+
+De zaak is voor partijen mondeling en schriftelijk toegelicht door hun advocaten en voor Stokke c.s. mede door mr. O.F.A.W. Van Haperen, advocaat te Rotterdam.
+
+De conclusie van de Advocaat-Generaal in buitengewone dienst D.W.F. Verkade strekt tot verwerping van het beroep.
+
+De advocaat van Stokke c.s. heeft bij brief van 19 oktober 2012 op die conclusie gereageerd.
+
+3. Beoordeling van het middel
+
+3.1 In cassatie kan van het volgende worden uitgegaan.
+
+(i) [eiser 3] heeft in 1972 de verstelbare Tripp Trapp kinderstoel, hierna: de Tripp Trapp, ontworpen. Sinds 1972 produceert en verkoopt Stokke AS de Tripp Trapp.
+
+In Nederland wordt de Tripp Trapp sinds 1995 op de markt gebracht door Stokke Nederland.
+
+(ii) De Tripp Trapp bestaat uit twee evenwijdige schuin oplopende staanders van hout waartussen aan de bovenzijde een rugleuning en wat lager een zit- en een voetenplankje zijn geklemd. De staanders zijn voorzien van horizontaal lopende groeven die dienen voor het verstelbaar inschuiven en vastklemmen van de zit- en voetenplankjes, waardoor de hoogte van die plankjes kan variëren en kan worden aangepast aan de grootte van het kind en de hoogte van een (eet)tafel. Het vastklemmen wordt geborgd door middel van twee metalen verbindingsstangen die zijn gemonteerd met inbusbouten door de staanders.
+
+De rugleuning (bestaande uit twee delen) wordt aan de staanders gefixeerd met inbusbouten. De staanders worden gesteund door middel van horizontaal naar achteren lopende liggers van iets breder hout die met een schuine naad aan de onderzijde van de staanders zijn bevestigd. Tussen de twee liggers is met inbusbouten een houten dwarsregel gemonteerd. De aan het hof getoonde modellen zijn wat betreft de uit hout bestaande delen gemaakt van blank gelakt en whitewash beukenhout. De metalen delen (stangen en inbusbouten) zijn zwart gelakt.
+
+(iii) Het Babyhuis verkoopt onder meer in haar winkel in Haarlem en op haar website diverse baby- en kinderartikelen. H3 Products is een producent en leverancier van diverse baby- en kinderartikelen, waaronder kinderstoelen. Deze worden onder meer door Deva gedistribueerd.
+
+(iv) Sinds half mei 2007 biedt het Babyhuis een kinderstoel aan onder de naam Carlo, hierna: de Carlo. Het Babyhuis betrekt de Carlo van Deva. De stoel wordt door H3 Products geproduceerd.
+
+(v) De Carlo bestaat eveneens uit de onder (ii) genoemde elementen, met dien verstande echter dat het staand en op de grond rustend "frame" van de stoel niet vervaardigd is uit (schuin afgesneden) rechte stukken hout maar uit twee aan de bovenzijde licht gebogen (hout)delen die aan de onderzijde met een bocht doorlopen in het "liggende" gedeelte daarvan, dat eveneens licht gebogen is.
+
+3.2 In dit geding vorderen Stokke c.s., kort gezegd, een verklaring voor recht dat met het verveelvoudigen of openbaarmaken van de Carlo inbreuk wordt gemaakt op de auteursrechten van Stokke c.s. op de Tripp Trapp, een bevel aan H3 Products deze inbreuk te staken en gestaakt te houden, met nevenvorderingen, schadevergoeding en vergoeding van de volledige proceskosten op de voet van art. 1019h Rv. H3 Products c.s. hebben zich verweerd en in reconventie gevorderd een verklaring voor recht dat de Carlo geen inbreuk maakt op de auteursrechten van Stokke c.s., alsmede vergoeding van schade en van de daadwerkelijk gemaakte proceskosten.
+
+De rechtbank heeft de vorderingen van Stokke c.s., voor zover gebaseerd op hun exploitatierechten, toegewezen en de vorderingen in reconventie afgewezen.
+
+3.3 Het hof heeft het vonnis vernietigd en, opnieuw rechtdoende, de vorderingen van Stokke c.s. afgewezen, voor recht verklaard dat de Carlo geen inbreuk maakt op de auteursrechten van Stokke c.s. met betrekking tot de Tripp Trapp en Stokke c.s. veroordeeld tot vergoeding aan H3 Products c.s. van schade en van de kosten van het geding. Het overwoog daartoe, kort weergegeven, als volgt.
+
+Partijen zijn het erover eens dat de Tripp Trapp in 1972 een baanbrekend ontwerp was en dat daaraan auteursrechtelijke bescherming toekomt. Het succes van de Tripp Trapp is niet alleen gelegen in de onderscheidende vormgeving doch met name ook in de praktische bruikbaarheid van de stoel. Deze bruikbaarheid wordt ontleend aan het feit dat de stoel (naast een uit twee gebogen delen bestaande vaste rugleuning) is voorzien van een zit- en een voetenplankje die verstelbaar zijn.
+
+Deze verstelbaarheid wordt bereikt door een aantal keuzes van technische aard. Doordat de staanders schuin naar achter hellen, blijft de stoel stabiel en kan het iets grotere kind door het "trap"-effect zelf op de stoel klimmen. Doordat de plankjes in vorm gelijk zijn, kan het (iets grotere) voetenplankje dienst doen als zitplaats voor een volwassene. Met de beugel en de rugleuning wordt de veiligheid van het jonge kind gewaarborgd; het ergonomisch gebogen karakter van de rugleuning bevordert het zitgemak. Doordat de staanders zijn voorzien van groeven kunnen de zit- en voetenplankjes worden in- en uitgeschoven. De metalen verbindingsstangen zorgen voor extra stevigheid van het vastklemsysteem. Deze in overwegende mate technisch en functioneel bepaalde kenmerken van de stoel, hoe vernieuwend deze destijds ook mogen zijn geweest, zijn onvoldoende terug te voeren op creatieve keuzes van de maker en de auteursrechtelijke bescherming van de stoel kan derhalve daarop geen betrekking hebben. Dit geldt ook voor (de dikte van) het materiaal en de kleuren waarin de Tripp Trapp is uitgevoerd. Daargelaten dat aspecten als sterkte, flexibiliteit, gebruiksgemak en stevigheid een rol hebben gespeeld, is de keuze voor het materiaal en de basale kleuren terug te voeren op de Scandinavische stijl.
+
+Waar Stokke c.s. een auteursrechtelijke bescherming bepleiten die ook stijlelementen en keuzes omvat die in belangrijke mate door techniek en bruikbaarheid zijn ingegeven, zien zij over het hoofd dat het hier in de eerste plaats gaat om een gebruiksvoorwerp en dat het auteursrecht geen grondslag biedt om derden (tot in lengte van jaren) af te houden van de toepassing van de (combinatie van) elementen, waaraan de stoel zijn bruikbaarheid en nut ontleent. (rov. 3.3-3.4.3).
+
+De vormgeving van de Carlo houdt voldoende afstand van die van de Tripp Trapp en kan niet als (ongeoorloofde) nabootsing daarvan in de zin van art. 13 Auteurswet worden aangemerkt. Wordt geabstraheerd van de uiterlijke kenmerken die (geheel of in overwegende mate) bepaald zijn door de gebruiksbestemming van de Tripp Trapp, dan blijft over de strakke cursieve L-vorm van het "frame" van de stoel. De keuze voor deze vorm heeft geen (relevant) effect op de functionaliteit van de stoel en valt aan te merken als creatieve inbreng van de maker. Het strakke karakter van de vormgeving, dat als meest karakteristieke kenmerk van de Tripp Trapp kwalificeert, is in de Carlo niet terug te vinden.
+
+De vorm van de Carlo is licht gebogen/golvend.
+
+De basisvorm van de Carlo doet niet denken aan een cursieve hoofdletter L doch veeleer aan een (onaffe) S. Vanaf de voorzijde bezien is de Carlo aan de bovenzijde smaller dan aan de onderzijde. De Carlo oogt speels en doet enigszins denken aan een schommelstoel; deze mist stevige/betrouwbare uitstraling van Tripp Trapp.
+
+Het totaalbeeld van de Carlo wijkt als gevolg van een en ander zo zeer af van het (door auteursrechtelijk beschermde trekken bepaalde) totaalbeeld van de Tripp Trapp dat van een relevante overeenstemming geen sprake is. Dat de vorm van de Carlo net als die van de Tripp Trapp een open, zwevend karakter heeft, maakt dit niet anders. Met het vervaardigen en op de markt brengen van de Carlo maken H3 Products c.s. geen inbreuk op de auteursrechten van Stokke c.s. Ook van schending van de morele rechten van [eiser 3] is geen sprake, nu de Carlo niet valt aan te merken als een verveelvoudiging, noch als een wijziging of misvorming van de Tripp Trapp (rov. 3.5.1-3.6).
+
+3.4 Bij de beoordeling van het tegen deze oordelen gerichte middel wordt het volgende vooropgesteld.
+
+(a) Om voor auteursrechtelijke bescherming in aanmerking te komen, is vereist dat het desbetreffende werk een eigen, oorspronkelijk karakter heeft en het persoonlijk stempel van de maker draagt (vgl. HR 30 mei 2008, LJN BC2153, NJ 2008/556 (Endstra)). Het HvJEU heeft de maatstaf aldus geformuleerd dat het moet gaan om "een eigen intellectuele schepping van de auteur van het werk" (HvJEU 16 juli 2009, nr. C-5/08, LJN BJ3749, NJ 2011/288 (Infopaq I)).
+
+(b) Deze maatstaf geldt evenzeer indien het een gebruiksvoorwerp betreft (vgl. BenGH 22 mei 1987, nr. A 85/3, LJN AK1803, NJ 1987/881 en HR 15 januari 1988, LJN AG5738, NJ 1988/376 (Screenoprints)). Aanleiding voor de veronderstelling dat zulks naar Europees recht anders zou zijn, is er niet.
+
+(c) Dit werkbegrip vindt haar begrenzing waar het eigen, oorspronkelijk karakter enkel datgene betreft wat noodzakelijk is voor het verkrijgen van een technisch effect. Elementen van het werk die louter een technisch effect dienen of te zeer het resultaat zijn van een door technische uitgangspunten beperkte keuze, zijn van bescherming uitgesloten (vgl. HvJEU 22 december 2010, nr. C-393/09, LJN BP0405, NJ 2011/289 (BSA) en HR 16 juni 2006, LJN AU8940, NJ 2006/585 (Kecofa/Lancôme)).
+
+Daarbij verdient opmerking dat deze uitsluiting van auteursrechtelijke bescherming zich niet uitstrekt tot alle elementen die een technische functie bezitten: daarmee zou de industriële vormgeving ten onrechte buiten het bereik van het auteursrecht geplaatst worden.
+
+(d) Het feit dat het werk voldoet aan technische en functionele eisen laat onverlet dat de ontwerpmarges of keuzemogelijkheden zodanig kunnen zijn dat voldoende ruimte bestaat voor creatieve keuzes van de maker die een werk in auteursrechtelijke zin kunnen opleveren (vgl. HR 8 september 2006, LJN AX3171, NJ 2006/493 (Slotermeervilla's)).
+
+(e) Voor de beantwoording van de vraag of sprake is van inbreuk op een auteursrecht op een gebruiksvoorwerp dient beoordeeld te worden in welke mate de totaalindrukken van het beweerdelijk inbreuk makende werk en het beweerdelijk bewerkte of nagebootste werk overeenstemmen. De auteursrechtelijk beschermde trekken of elementen van laatstbedoeld werk zijn daarbij bepalend, met dien verstande dat ook een verzameling of bepaalde selectie van op zichzelf niet beschermde elementen, een (oorspronkelijk) werk kan zijn in de zin van de Auteurswet, mits die selectie het persoonlijk stempel van de maker draagt. Bij de vergelijking van de totaalindrukken dienen dus ook onbeschermde elementen in aanmerking te worden genomen, voor zover de combinatie van al deze elementen in het beweerdelijk nagebootste werk aan de "werktoets" beantwoordt. Voorts geldt dat de enkele omstandigheid dat het werk of bepaalde elementen daarvan, passen binnen een bepaalde mode, stijl of trend niet betekent dat het werk of deze elementen zonder meer onbeschermd zijn. Onderzocht moet worden of de vormgeving van de (combinatie van de) verschillende elementen zodanig is dat aangenomen kan worden dat met het ontwerp door de maker op een voldoende eigen wijze uiting is gegeven aan de vigerende stijl, trend of mode (HR 29 december 1995, LJN ZC1942, NJ 1996/546 (Decaux/Mediamax)).
+
+(f) De beoordeling van de auteursrechtelijke beschermingsomvang van een bepaald werk en van de vraag of daarop door een ander werk inbreuk wordt gemaakt, is in hoge mate feitelijk van aard en derhalve slechts in (zeer) beperkte mate vatbaar voor toetsing in cassatie (vgl. HR 5 januari 1979, LJN AB7291, NJ 1979/339 (Heertje/Hollebrand)). Klachten die in wezen een nieuwe feitelijke beoordeling in cassatie vragen, miskennen de grenzen van de cassatierechtspraak. Overigens dient de wijze waarop de toetsing door de feitenrechter is uitgevoerd in overeenstemming te zijn met de hiervoor weergegeven rechtsregels en moet de uitspraak tenminste zodanig zijn gemotiveerd dat deze voldoende inzicht geeft in de aan haar ten grondslag liggende gedachtegang om de beslissing zowel voor partijen als voor derden - in geval van openstaan van hogere voorzieningen: de hogere rechter daaronder begrepen - controleerbaar en aanvaardbaar te maken (HR 4 juni 1993, LJN ZC0986, NJ 1993/659).
+
+Daartoe is evenwel niet steeds vereist dat alle door een partij aangedragen stellingen door de rechter uitdrukkelijk in de motivering worden betrokken.
+
+3.5.1 De onderdelen I en II houden, in een reeks van varianten en vanuit verschillende invalshoeken, in de kern de klacht in dat het hof de totaalindruk van de Tripp Trapp niet juist of genoegzaam heeft beoordeeld. Onderdeel I richt zich meer in het bijzonder tegen rov. 3.4.2-3.4.3, onderdeel II met name tegen rov. 3.5.1-3.5.4.
+
+3.5.2 Onderdeel I.1 betoogt dat het hof van een onjuiste rechtsopvatting blijk heeft gegeven door aan werken van toegepaste kunst - waar het dus gaat om het uiterlijk van producten met een gebruiksfunctie - een beperktere auteursrechtelijke beschermingsomvang toe te kennen dan aan andere categorieën van werken. Geklaagd wordt dat het hof van oordeel is dat de (combinatie van) elementen met een gebruiksfunctie buiten de auteursrechtelijke bescherming behoren te blijven en dat het hof (daardoor) heeft nagelaten zich een oordeel te vormen over het oorspronkelijke karakter van de specifieke vormgeving van deze elementen en het effect daarvan op de totaalindruk die de Tripp Trapp wekt.
+
+De aan dit onderdeel ten grondslag liggende rechtsopvatting is juist, zoals volgt uit hetgeen hiervoor in 3.4 (onder b) is vooropgesteld. De klachten gaan evenwel uit van een onjuiste lezing van de bestreden uitspraak, zodat zij bij gebrek aan feitelijke grondslag niet tot cassatie kunnen leiden. Het hof heeft met zijn overweging dat het auteursrecht geen grondslag biedt om derden (tot in lengte van jaren) af te houden van de toepassing van de (combinatie van) elementen waaraan de stoel zijn bruikbaarheid en nut ontleent, niet bedoeld aan werken van industriële vormgeving een beperktere bescherming toe te kennen dan aan andersoortige werken. Het hof heeft hier toepassing gegeven aan de regel dat elementen van het werk die louter een technische functie dienen of te zeer het resultaat zijn van een door technische uitgangspunten beperkte keuze, van auteursrechtelijke bescherming zijn uitgesloten; daartoe heeft het geenszins onbegrijpelijk mede een aantal kenmerken gerekend waaraan de Tripp Trapp haar praktische bruikbaarheid ontleent.
+
+3.5.3 De klachten van onderdeel I.2 verwijten het hof (in rov. 3.4.3) geen ruime auteursrechtelijke bescherming aan de Tripp Trapp te hebben toegekend. Voor zover daarmee betoogd wordt dat aan dit ontwerp een ruimere auteursrechtelijke bescherming toekomt dan aan andere werken, faalt dat betoog. Voor gebruiksvoorwerpen gelden de hiervoor in 3.4 onder (a) vermelde toetsingsmaatstaf in gelijke mate als voor andere werken. Dat bij de Tripp Trapp sprake is geweest van een baanbrekend ontwerp maakt dat niet anders, al zal bij een zodanig ontwerp in meer dan gemiddelde mate sprake zijn van creatieve - en dus beschermde - wijzen waarop de door de technische randvoorwaarden begrensde ontwerpruimte is benut.
+
+Dat het hof dit laatste heeft miskend, valt uit de aan het slot van rov. 3.4.3 opgenomen overweging niet af te leiden.
+
+3.5.4 Daarbij komt dat hier sprake is van een overweging die het oordeel van het hof omtrent de inbreukvraag niet draagt: het hof heeft zich in rov. 3.5.1-3.5.4 immers - zoals het behoorde te doen - gezet aan een vergelijking van de totaalindrukken die beide stoelen maken. Dat het daarbij tot het oordeel is gekomen dat die zozeer verschillen dat de conclusie moet zijn dat de Carlo voldoende afstand houdt van de Tripp Trapp, heeft het hof blijkens de vermelde overwegingen doen steunen op het
+
+L-vormige frame van de Tripp Trapp, maar niet uitsluitend of hoofdzakelijk: het heeft naast deze L-vorm ook het strakke karakter van de vorm in aanmerking genomen, welk karakter naar het oordeel van het hof wordt benadrukt door verschillende in rov. 3.5.2 genoemde vormgevingselementen, waaronder de rechte lijn van de voorzijde van de voet- en zitplankjes, het rechthoekige uiteinde van de stijlen en de schuin afgesneden uiteinden van de leggers. Het hof heeft voorts grote betekenis toegekend aan de omstandigheid dat de Tripp Trapp van de voorzijde bezien een rechthoekige vorm heeft (eveneens rov. 3.5.2) en dat de Tripp Trapp "strak en rechtlijnig" is en een "stevige/betrouwbare uitstraling" heeft (rov. 3.5.3).
+
+Het heeft daar tegenovergesteld dat die als "meest karakteristiek te kwalificeren kenmerken" bij de Carlo ontbreken, onder meer als gevolg van de gebogen/golvende staanders en de omstandigheid dat de Carlo van voren bezien aan de bovenzijde smaller is dan aan de onderzijde (eveneens rov. 3.5.3).
+
+Bij die stand van zaken was het hof, om zijn oordeel juist en begrijpelijk te doen zijn, niet gehouden uitdrukkelijk in te gaan op alle door Stokke c.s. genoemde vormgevingselementen.
+
+3.5.5 Mede gelet op het hiervoor in 3.4 onder (f) overwogene omtrent de beperkte toetsbaarheid in cassatie van sterk met de feiten verweven oordelen als de onderhavige, kunnen de overige klachten van onderdeel I.2, die in wezen vragen om een hernieuwde feitelijke beoordeling, waarvoor in cassatie dus geen plaats is, niet tot cassatie leiden. Hetzelfde geldt voor de overige klachten van de onderdelen I en II, voor zover die hierna geen behandeling vinden.
+
+3.5.6 Onderdeel I.4 klaagt onder (a) - welke klacht wordt uitgewerkt onder (b)-(f) - dat het hof heeft miskend dat, voor zover de stijlelementen en keuzes van de Tripp Trapp in belangrijke mate door techniek en bruikbaarheid zijn ingegeven, deze daarmee nog niet noodzakelijk zijn voor het verkrijgen van een technisch effect, en daarom bij de beoordeling van de totaalindruk niet buiten beschouwing mogen blijven. Deze klacht kan bij gebrek aan feitelijke grondslag niet tot cassatie leiden. Het hof heeft, blijkens hetgeen het in de eerste volzin van rov. 3.4.3 heeft overwogen, geoordeeld dat die kenmerken onvoldoende zijn terug te voeren op creatieve keuzes. Dat oordeel is voorbehouden aan de rechter die over de feiten oordeelt.
+
+3.5.7 Het zo-even overwogene maakt dat ook onderdeel I.5 faalt, waarvan de centrale klacht is dat het hof zich (te zeer) heeft laten leiden door de maatstaf of de Tripp Trapp elementen kent die een technische of praktische functie vervullen, hoezeer ook juist is de aan het onderdeel ten grondslag liggende rechtsopvatting dat creatieve vormgevingskeuzes ook kunnen bestaan bij elementen die een technische of praktische functie vervullen.
+
+3.5.8 Onderdeel I.9 klaagt dat het hof te veel gewicht heeft gehecht aan hetgeen blijkt uit (buitenlandse) octrooiaanvragen, waarvan met betrekking tot bepaalde aspecten van de Tripp Trapp sprake is geweest.
+
+Betoogd wordt dat de uitvoeringsvorm van een uitvinding zoals getoond in een tekening bij een octrooiaanvrage niet de betekenis heeft dat alle (daarop zichtbare) elementen van die uitvoeringsvorm technisch noodzakelijk zijn en dat art. 2 ROW 1995 meebrengt dat enkel de in de Tripp Trapp vervatte techniek octrooieerbaar is en de esthetische vormgeving van octrooiering is uitgesloten.
+
+Weliswaar berust het onderdeel ook in zoverre op een juist uitgangspunt, maar dat het hof die regel heeft miskend, valt uit de bestreden uitspraak niet af te leiden. Het hof heeft niet anders overwogen dan dat zekere technische aspecten van de Tripp Trapp zijn omschreven in overgelegde octrooiaanvragen.
+
+3.6.1 Voor zover onderdeel II klachten behelst die in wezen een herhaling vormen van die van onderdeel I, maar toegespitst op het oordeel van het hof omtrent de inbreukvraag, falen zij op dezelfde gronden als laatstbedoelde.
+
+3.6.2 De klacht van onderdeel II.3, die ziet op het door het hof bij beide stoelen geconstateerde "open, zwevende karakter", miskent dat het hof, zonder schending van enige rechtsregel en niet onbegrijpelijk, heeft kunnen oordelen dat de wijze waarop dit effect wordt bereikt, bij de beide stoelen te zeer verschilt, terwijl hetgeen het heeft overwogen omtrent het passen van de uitstraling daarvan in de Scandinavische stijl, dit oordeel niet draagt.
+
+3.7.1 Onderdeel III is gericht tegen rov. 3.6, voor zover daarin is geoordeeld dat de Carlo niet valt aan te merken als een verveelvoudiging, noch als een wijziging of misvorming van de Tripp Trapp. Voor zover deze klachten op de stelling berusten dat de Carlo als een verveelvoudiging van de Tripp Trapp moet worden aangemerkt en dus voortbouwen op die van de onderdelen I en II, delen zij het lot daarvan. Voor zover onderdeel III.1 onder (a) tot uitgangspunt neemt dat het hof heeft geoordeeld dat van een schending van de morele rechten van [eiser 3] geen sprake is op de enkele grond dat de Carlo geen verveelvoudiging vormt, kan het bij gebrek aan feitelijke grondslag niet tot cassatie leiden. Het hof overweegt immers dat van een verveelvoudiging noch van een wijziging of misvorming sprake is.
+
+3.7.2 In het oordeel van het hof, dat overwoog (rov. 3.5.1) dat de vormgeving van de Carlo voldoende afstand houdt van die van de Tripp Trapp, ligt besloten dat geen sprake is van misvorming, verminking of andere aantasting van het werk die nadeel zou kunnen toebrengen aan de eer of de naam van [eiser 3] of aan diens waarde in deze hoedanigheid, als bedoeld in art. 25 Auteurswet en art. 6b is van de Berner Conventie. Dat oordeel geeft niet blijk van een onjuiste rechtsopvatting en is niet onbegrijpelijk. Ook in zoverre faalt onderdeel III dus.
+
+3.8 Ook de overige klachten kunnen niet tot cassatie leiden. Dit behoeft, gezien art. 81 lid 1 RO, geen nadere motivering nu de klachten niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.
+
+3.9.1 Het beroep dient dus te worden verworpen. Als de in het ongelijk gestelde partij dienen Stokke c.s. in de proceskosten te worden verwezen. H3 Products c.s. hebben bij hun schriftelijke toelichting aanspraak gemaakt op vergoeding van de volledige proceskosten op de voet van art. 1019h Rv, tot een bedrag van € 25.000 aan honorarium van hun advocaat, te vermeerderen met € 2.000,-- aan kantoorkosten en met BTW, een en ander overeenkomstig een met haar advocaat gemaakte afspraak.
+
+3.9.2 Anders dan Stokke c.s. betogen, kan een dergelijke aanspraak, mits gespecificeerd, in cassatie ook nog in de schriftelijke toelichting geldend worden gemaakt, nu de wederpartij zich daartegen bij repliek, respectievelijk dupliek nog naar behoren kan verweren.
+
+3.9.3 Stokke c.s. betogen voorts dat het gevorderde bedrag te summier is onderbouwd, nu geen opgave is verstrekt van het aantal gewerkte uren. Op zichzelf is juist dat een dergelijke opgave in beginsel tot de vereiste motivering behoort en een enkele prijsafspraak tussen de betrokken partij en de advocaat aan die eis niet zonder meer voldoet. Mede in het licht van het door Stokke c.s. zelf opgevoerde honorarium van € 55.000,--, beschouwt de Hoge Raad het bedrag van € 27.000,-- evenwel als redelijk en evenredig. Voor toewijzing van een bedrag ter zake van omzetbelasting bestaat geen grond, nu verweerders allen ondernemers zijn.
+
+4. Beslissing
+
+De Hoge Raad:
+
+verwerpt het beroep;
+
+veroordeelt Stokke c.s. in de kosten van het geding in cassatie, tot op deze uitspraak aan de zijde van H3 Products begroot op € 781,34 aan verschotten en € 27.000,-- voor salaris.
+
+Dit arrest is gewezen door de vice-president E.J. Numann, als voorzitter, de vice-president F.B. Bakels en de raadsheren J.C. van Oven, C.E. Drion en G. Snijders, en in het openbaar uitgesproken door de raadsheer M.A. Loth op 22 februari 2013.

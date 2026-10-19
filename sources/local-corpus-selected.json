@@ -1,0 +1,16 @@
+[
+  {
+    "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2008-bc2153.md",
+    "snapshot": "sources/local-ecli-nl-hr-2008-bc2153.md",
+    "sha256": "01fb93c53008623ccac6b6c125d909daf45d23b0eeead62cf215a91c4275898e",
+    "official_comparison": "Full official XML separately read; local corpus used for discovery and same-ECLI cross-check.",
+    "chars": 25662
+  },
+  {
+    "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2013-by1529.md",
+    "snapshot": "sources/local-ecli-nl-hr-2013-by1529.md",
+    "sha256": "0ad8c44ca643a21836710b0d1cf9446d80b74ed8961cefcfafa5be50972ed313",
+    "official_comparison": "Full official XML separately read; local corpus used for discovery and same-ECLI cross-check.",
+    "chars": 26375
+  }
+]

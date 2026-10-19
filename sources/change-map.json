@@ -1,0 +1,856 @@
+{
+  "intake_sha256": "d03c9c0659777d8d6a8d15c4f7cd533985bb2608f955b23f3dfd011621bc0fde",
+  "canonical_xml_sha256": "e90b201ad0e473d3245443bc43728241aa17770042b3e7dfb7c9ca040f10c2c5",
+  "units": [
+    {
+      "id": "art-1",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-2",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-3",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-4",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-5",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-6",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-7",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-8",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-9",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-10",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-11",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-12",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-12a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-12b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-12c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-13",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-13a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-14",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15d",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15e",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15f",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15g",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15h",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15i",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15j",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15k",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15l",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15m",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15n",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-15o",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16d",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16e",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16f",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16g",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16ga",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16h",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16i",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16j",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16k",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16l",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16m",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16n",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16o",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16p",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16q",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-16r",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-17",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-17a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-17b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-17c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-17d",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-18",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-18a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-18b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-18c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-19",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-20",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-21",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-22",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-23",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-24",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-24a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-25",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-25a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-25b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-25c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-25ca",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-25d",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-25e",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-25f",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-25fa",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-25g",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-25h",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-26",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-26a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-26b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-26c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-26d",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-26e",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-27",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-27a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-28",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-29",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-29a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-29b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-29c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-29d",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-29e",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-30",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-30a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-30b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-31",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-31a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-31b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-32",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-32a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-33",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-34",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-35",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-35a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-35b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-35c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-35d",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-36",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-36a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-36b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-36c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-37",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-38",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-39",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-40",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-40a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-41",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-42",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-43",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-43a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-43b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-43c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-43d",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-43e",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-43f",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-43g",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-44",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-44a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-44b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45d",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45da",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45db",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45e",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45f",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45g",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45ga",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45h",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45i",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45j",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45k",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45l",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45m",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45n",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-45o",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-46",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-47",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-47a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-47b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-47c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-47d",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-48",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-49",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-50",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-50a",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-50b",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-50c",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-50d",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-50e",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-50f",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-51",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-52",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    },
+    {
+      "id": "art-53",
+      "intake_present": true,
+      "text_equal_ignoring_whitespace": true
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Zaakkaart — Endstra
+
+Hoge Raad, 30 mei 2008, C07/131HR, ECLI:NL:HR:2008:BC2153. [Officiële volledige tekst](https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2008:BC2153); [vastgelegde XML](../sources/hr-endstra.xml); [leesextract](../sources/hr-endstra.txt). Geraadpleegd op 19 oktober 2026; HTTP 200 en SHA-256 staan in [de broncontrole](../sources/verification.json).
+
+Het geschil betrof publicatie van transcripten van gesprekken met Endstra. De zonen beriepen zich als erfgenamen op auteursrecht. De oordelen van voorzieningenrechter en hof worden in r.o. 3.2–3.3 weergegeven; zij mogen niet met de eigen beslissing van de Hoge Raad worden vereenzelvigd.
+
+In r.o. 4.2 onderscheidt de Hoge Raad de informatie uit de gesprekken van de aangehaalde formuleringen. R.o. 4.3–4.5.1 bespreekt eigen oorspronkelijk karakter en persoonlijk stempel, met creatieve menselijke vormgeving tegenover banale of triviale vorm. R.o. 4.5.2 verwerpt een aanvullende eis dat de maker bewust een werk of coherente creatie wilde scheppen. Volgens r.o. 4.6 moet na verwijzing opnieuw worden beoordeeld of de gesprekken het persoonlijke stempel dragen. De Hoge Raad verklaart dus niet zelf ieder transcript beschermd. Het principale arrest wordt vernietigd en de zaak verwezen; het incidentele beroep wordt verworpen.
+
+Ondersteunde commentaren: artikelen 1 en 10; achtergrond voor de afbakening van beschermde vorm. De uitspraak is volledig gelezen, inclusief procesverloop, middelen, eigen beoordeling en dictum. De proceskostenvraag van r.o. 5 betreft een historisch implementatiestadium en wordt hier niet als zelfstandige actuele proceskostenhandleiding gebruikt. De sinds 2026 gewijzigde contractbepalingen worden niet op dit arrest gebaseerd. Er is geen uitputtend onderzoek naar latere rechtspraak verricht.
