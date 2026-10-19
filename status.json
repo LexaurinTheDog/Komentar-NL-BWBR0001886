@@ -3,7 +3,7 @@
   "title": "Auteurswet",
   "country": "nl",
   "identifier": "BWBR0001886",
-  "updated_at": "2026-10-19T14:59:18.582142+00:00",
+  "updated_at": "2026-10-19T15:00:20.820190+00:00",
   "decisive_date": "2026-10-19",
   "official_state": "2026-01-01_0",
   "official_effective_from": "2026-01-01",
@@ -25,7 +25,7 @@
   "total_units": 170,
   "completed_units": 170,
   "chapters": 11,
-  "commentary_chars": 195403,
+  "commentary_chars": 197173,
   "case_law_sources": [
     {
       "court": "Hoge Raad",
@@ -50,7 +50,7 @@
     "repo": "Komentar-NL-BWBR0001886",
     "units": 170,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 195403,
+    "commentary_chars": 197173,
     "errors": [],
     "warnings": [],
     "ok": true

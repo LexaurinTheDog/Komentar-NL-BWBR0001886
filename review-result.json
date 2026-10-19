@@ -68,5 +68,18 @@
     "completeness-report.json",
     "validation.json",
     "sources/verification.json"
-  ]
+  ],
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001886",
+    "units": 170,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 197173,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness_ok": true,
+  "source_text_agreement": 1.0,
+  "local_links_checked": 69,
+  "external_links_checked": 8
 }
