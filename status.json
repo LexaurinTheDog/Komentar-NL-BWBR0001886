@@ -1,0 +1,63 @@
+{
+  "stage": "drafted_technical_validation",
+  "title": "Auteurswet",
+  "country": "nl",
+  "identifier": "BWBR0001886",
+  "updated_at": "2026-10-19T14:49:19.209573+00:00",
+  "decisive_date": "2026-10-19",
+  "official_state": "2026-01-01_0",
+  "official_effective_from": "2026-01-01",
+  "source_checks": {
+    "official_xml_http": 200,
+    "official_manifest_http": 200,
+    "official_manifest_sha512_matches": true,
+    "front_end_http": 404,
+    "source_sha256": "e90b201ad0e473d3245443bc43728241aa17770042b3e7dfb7c9ca040f10c2c5",
+    "source_verification": "sources/verification.json",
+    "intake_change_map": "sources/change-map.json",
+    "source_manifest": "source-manifest.json"
+  },
+  "total_units": 170,
+  "completed_units": 170,
+  "chapters": 11,
+  "commentary_chars": 195403,
+  "case_law_sources": [
+    {
+      "court": "Hoge Raad",
+      "date": "2008-05-30",
+      "id": "ECLI:NL:HR:2008:BC2153",
+      "card": "cases/hr-endstra.md"
+    },
+    {
+      "court": "Hoge Raad",
+      "date": "2013-02-22",
+      "id": "ECLI:NL:HR:2013:BY1529",
+      "card": "cases/hr-stokke.md"
+    },
+    {
+      "court": "HvJ EU",
+      "date": "2014-04-10",
+      "id": "C-435/12",
+      "card": "cases/cjeu-aci-adam.md"
+    }
+  ],
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001886",
+    "units": 170,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 195403,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness_ok": true,
+  "independent_second_pass_completed": false,
+  "unresolved_blockers": [],
+  "remaining_limitations": [
+    "Independent substantive second pass remains to be performed by a fresh process.",
+    "Selective case law; no exhaustive later-treatment research.",
+    "Implementing regulations, current tariffs, designation decisions, foreign-law terms and general procedural safeguards are not comprehensively verified; commentary identifies conditional dependencies.",
+    "wetten.nl date-specific frontend returned 404; official repository XML and effective-date manifest were verified instead."
+  ],
+  "publication": "Local only; no push or external submission"
+}

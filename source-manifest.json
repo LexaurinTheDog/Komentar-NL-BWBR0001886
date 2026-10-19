@@ -148,9 +148,9 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "c0731a14a2894ae5ead3d652caec67daabaf930da36e1ff1876369ebf8aa7a36",
-      "bytes": 7978
+      "sha256": "29ff9969001321efb8ce5d799ff8097b8213ab5712454501c9878c0c22f148b1",
+      "bytes": 8682
     }
   ],
-  "method": "All retained source captures, including expressly rejected error responses; accepted legal sources identified in sources/verification.json."
+  "method": "All source captures, including expressly rejected error responses; accepted legal sources identified in sources/verification.json."
 }

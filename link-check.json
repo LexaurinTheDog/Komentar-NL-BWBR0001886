@@ -1,0 +1,67 @@
+{
+  "local_links_checked": 59,
+  "broken_local_links": [],
+  "official_source_fetches": [
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/2026-01-01_0/xml/BWBR0001886_2026-01-01_0.xml",
+      "http_status": 200,
+      "accepted": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19",
+      "http_status": 404,
+      "accepted": false
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19/0/informatie",
+      "http_status": 404,
+      "accepted": false
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/",
+      "http_status": 200,
+      "accepted": true
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-352.xml",
+      "http_status": 200,
+      "accepted": true
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-392.xml",
+      "http_status": 200,
+      "accepted": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2008:BC2153",
+      "http_status": 200,
+      "accepted": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY1529",
+      "http_status": 200,
+      "accepted": true
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62013CJ0201",
+      "http_status": 202,
+      "accepted": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62011CJ0128",
+      "http_status": 202,
+      "accepted": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62012CJ0435",
+      "http_status": 200,
+      "accepted": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19/0/informatie",
+      "http_status": 404,
+      "accepted": false
+    }
+  ],
+  "limits": "Remote reachability is established by recorded source requests. Date-specific wetten.nl front-end errors and rejected EUR-Lex responses are explicitly retained; the successful official XML/manifest and Firecrawl case capture are the accepted evidence."
+}
