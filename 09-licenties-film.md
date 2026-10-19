@@ -130,7 +130,7 @@ Voorbeeld: een scenarioschrijver kan wegens ziekte de laatste scènes niet afron
 
 > Het filmwerk geldt als voltooid op het tijdstip waarop het vertoningsgereed is. Tenzij schriftelijk anders overeengekomen is, beslist de producent wanneer het filmwerk vertoningsgereed is.
 
-Het vertoningsgereed zijn bepaalt wanneer het filmwerk als voltooid geldt. Zonder andere schriftelijke afspraak beslist de producent daarover. Het artikel geeft zo een praktisch bepaalbaar moment dat in andere filmbepalingen terugkomt, waaronder het begin van de veronderstelde overdracht in artikel 45d en de afzonderlijke exploitatiemogelijkheid van artikel 45g.
+Het vertoningsgereed zijn bepaalt wanneer het filmwerk als voltooid geldt. Zonder andere schriftelijke afspraak beslist de producent daarover. Het artikel geeft zo een praktisch bepaalbaar moment dat in andere filmbepalingen terugkomt, waaronder de aanvang van de door artikel 45d bestreken filmexploitatie en de afzonderlijke exploitatiemogelijkheid van artikel 45g.
 
 Een productieschema of eerste interne montage is niet zonder meer hetzelfde als de wettelijke voltooiing. Partijen doen er goed aan vast te leggen welke versie en welk besluit het vertoningsgereed zijn markeren. De bevoegdheid kan schriftelijk anders worden geregeld. Deze voltooiingsdatum bepaalt niet zelfstandig de filmduur van artikel 40, die aan de sterfjaren van de genoemde makers is gekoppeld.
 
@@ -146,7 +146,7 @@ Voorbeeld: een producent verklaart een documentaire na de eindmontage vertonings
 
 *Officiële redactionele aantekening:* Artikel IV van Stb. 2025/352 bevat overgangsrecht m.b.t. deze wijziging.
 
-Lid 1 veronderstelt, behoudens schriftelijke afwijking, overdracht aan de producent van de opgesomde filmexploitatierechten vanaf voltooiing volgens artikel 45c. Het omvat verhuur, andere openbaarmaking, reproductie volgens artikel 14, ondertiteling en nasynchronisatie. De maker van specifiek voor de film gemaakte muziek en de bijbehorende tekstmaker zijn van dit vermoeden uitgezonderd. Een ongedifferentieerde formulering dat «alle filmrechten altijd bij de producent liggen» is daarom onjuist.
+Lid 1 veronderstelt, behoudens schriftelijke afwijking, overdracht aan de producent van de opgesomde rechten om de film vanaf voltooiing volgens artikel 45c te exploiteren. Het aanvangsmoment van die exploitatiebevoegdheid moet worden onderscheiden van het moment waarop de rechtenoverdracht plaatsvindt. Het omvat verhuur, andere openbaarmaking, reproductie volgens artikel 14, ondertiteling en nasynchronisatie. De maker van specifiek voor de film gemaakte muziek en de bijbehorende tekstmaker zijn van dit vermoeden uitgezonderd. Een ongedifferentieerde formulering dat «alle filmrechten altijd bij de producent liggen» is daarom onjuist.
 
 Ongeacht de wijze van overdracht is een schriftelijk overeengekomen billijke vergoeding verschuldigd; afstand is uitgesloten. Lid 2 past hoofdstuk Ia overeenkomstig toe, behalve artikel 25fa. Voor de on-demandbevoegdheid geldt het bijzondere vermoeden van billijkheid bij de genoemde collectieve onderhandelingen alleen als de vergoeding passend en evenredig aan het gebruik door producent of derde is.
 

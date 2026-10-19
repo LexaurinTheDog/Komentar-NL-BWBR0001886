@@ -1,0 +1,1503 @@
+{
+  "official_xml_sha256": "e90b201ad0e473d3245443bc43728241aa17770042b3e7dfb7c9ca040f10c2c5",
+  "official_html": {
+    "path": "sources/review-links-wetten.html",
+    "sha256": "8a5793bafc4490bfa14d210d8ec30eb2a69367fdc29fd9a8dcb2730b9d26f27e",
+    "version_statement": "Geldend van 01-01-2026 t/m heden.",
+    "expected_ids": [
+      "art-1",
+      "art-2",
+      "art-3",
+      "art-4",
+      "art-5",
+      "art-6",
+      "art-7",
+      "art-8",
+      "art-9",
+      "art-10",
+      "art-11",
+      "art-12",
+      "art-12a",
+      "art-12b",
+      "art-12c",
+      "art-13",
+      "art-13a",
+      "art-14",
+      "art-15",
+      "art-15a",
+      "art-15b",
+      "art-15c",
+      "art-15d",
+      "art-15e",
+      "art-15f",
+      "art-15g",
+      "art-15h",
+      "art-15i",
+      "art-15j",
+      "art-15k",
+      "art-15l",
+      "art-15m",
+      "art-15n",
+      "art-15o",
+      "art-16",
+      "art-16a",
+      "art-16b",
+      "art-16c",
+      "art-16d",
+      "art-16e",
+      "art-16f",
+      "art-16g",
+      "art-16ga",
+      "art-16h",
+      "art-16i",
+      "art-16j",
+      "art-16k",
+      "art-16l",
+      "art-16m",
+      "art-16n",
+      "art-16o",
+      "art-16p",
+      "art-16q",
+      "art-16r",
+      "art-17",
+      "art-17a",
+      "art-17b",
+      "art-17c",
+      "art-17d",
+      "art-18",
+      "art-18a",
+      "art-18b",
+      "art-18c",
+      "art-19",
+      "art-20",
+      "art-21",
+      "art-22",
+      "art-23",
+      "art-24",
+      "art-24a",
+      "art-25",
+      "art-25a",
+      "art-25b",
+      "art-25c",
+      "art-25ca",
+      "art-25d",
+      "art-25e",
+      "art-25f",
+      "art-25fa",
+      "art-25g",
+      "art-25h",
+      "art-26",
+      "art-26a",
+      "art-26b",
+      "art-26c",
+      "art-26d",
+      "art-26e",
+      "art-27",
+      "art-27a",
+      "art-28",
+      "art-29",
+      "art-29a",
+      "art-29b",
+      "art-29c",
+      "art-29d",
+      "art-29e",
+      "art-30",
+      "art-30a",
+      "art-30b",
+      "art-31",
+      "art-31a",
+      "art-31b",
+      "art-32",
+      "art-32a",
+      "art-33",
+      "art-34",
+      "art-35",
+      "art-35a",
+      "art-35b",
+      "art-35c",
+      "art-35d",
+      "art-36",
+      "art-36a",
+      "art-36b",
+      "art-36c",
+      "art-37",
+      "art-38",
+      "art-39",
+      "art-40",
+      "art-40a",
+      "art-41",
+      "art-42",
+      "art-43",
+      "art-43a",
+      "art-43b",
+      "art-43c",
+      "art-43d",
+      "art-43e",
+      "art-43f",
+      "art-43g",
+      "art-44",
+      "art-44a",
+      "art-44b",
+      "art-45",
+      "art-45a",
+      "art-45b",
+      "art-45c",
+      "art-45d",
+      "art-45da",
+      "art-45db",
+      "art-45e",
+      "art-45f",
+      "art-45g",
+      "art-45ga",
+      "art-45h",
+      "art-45i",
+      "art-45j",
+      "art-45k",
+      "art-45l",
+      "art-45m",
+      "art-45n",
+      "art-45o",
+      "art-46",
+      "art-47",
+      "art-47a",
+      "art-47b",
+      "art-47c",
+      "art-47d",
+      "art-48",
+      "art-49",
+      "art-50",
+      "art-50a",
+      "art-50b",
+      "art-50c",
+      "art-50d",
+      "art-50e",
+      "art-50f",
+      "art-51",
+      "art-52",
+      "art-53"
+    ],
+    "unit_checks": [
+      {
+        "id": "art-1",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-2",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-3",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-4",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-5",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-6",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-7",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-8",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-9",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-10",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-11",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-12",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-12a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-12b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-12c",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-13",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-13a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-14",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15c",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15d",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15e",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15f",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15g",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15h",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15i",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15j",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15k",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15l",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15m",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15n",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-15o",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16c",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16d",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16e",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16f",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16g",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16ga",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16h",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16i",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16j",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16k",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16l",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16m",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16n",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16o",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16p",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16q",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-16r",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-17",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-17a",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-17b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-17c",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-17d",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-18",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-18a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-18b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-18c",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-19",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-20",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-21",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-22",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-23",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-24",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-24a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-25",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-25a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-25b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-25c",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-25ca",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-25d",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-25e",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-25f",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-25fa",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-25g",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-25h",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-26",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-26a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-26b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-26c",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-26d",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-26e",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-27",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-27a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-28",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-29",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-29a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-29b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-29c",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-29d",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-29e",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-30",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-30a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-30b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-31",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-31a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-31b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-32",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-32a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-33",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-34",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-35",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-35a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-35b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-35c",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-35d",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-36",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-36a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-36b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-36c",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-37",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-38",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-39",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-40",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-40a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-41",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-42",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-43",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-43a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-43b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-43c",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-43d",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-43e",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-43f",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-43g",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-44",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-44a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-44b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45c",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45d",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45da",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45db",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45e",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45f",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45g",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45ga",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45h",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45i",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45j",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45k",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45l",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45m",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45n",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-45o",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-46",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-47",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-47a",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-47b",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-47c",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-47d",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-48",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-49",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-50",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-50a",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-50b",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-50c",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-50d",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-50e",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-50f",
+        "repeal_marker_matches": true
+      },
+      {
+        "id": "art-51",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-52",
+        "full_text_equal_ignoring_whitespace": true
+      },
+      {
+        "id": "art-53",
+        "full_text_equal_ignoring_whitespace": true
+      }
+    ]
+  },
+  "expected_ids_from_fresh_official_labels": [
+    "art-1",
+    "art-2",
+    "art-3",
+    "art-4",
+    "art-5",
+    "art-6",
+    "art-7",
+    "art-8",
+    "art-9",
+    "art-10",
+    "art-11",
+    "art-12",
+    "art-12a",
+    "art-12b",
+    "art-12c",
+    "art-13",
+    "art-13a",
+    "art-14",
+    "art-15",
+    "art-15a",
+    "art-15b",
+    "art-15c",
+    "art-15d",
+    "art-15e",
+    "art-15f",
+    "art-15g",
+    "art-15h",
+    "art-15i",
+    "art-15j",
+    "art-15k",
+    "art-15l",
+    "art-15m",
+    "art-15n",
+    "art-15o",
+    "art-16",
+    "art-16a",
+    "art-16b",
+    "art-16c",
+    "art-16d",
+    "art-16e",
+    "art-16f",
+    "art-16g",
+    "art-16ga",
+    "art-16h",
+    "art-16i",
+    "art-16j",
+    "art-16k",
+    "art-16l",
+    "art-16m",
+    "art-16n",
+    "art-16o",
+    "art-16p",
+    "art-16q",
+    "art-16r",
+    "art-17",
+    "art-17a",
+    "art-17b",
+    "art-17c",
+    "art-17d",
+    "art-18",
+    "art-18a",
+    "art-18b",
+    "art-18c",
+    "art-19",
+    "art-20",
+    "art-21",
+    "art-22",
+    "art-23",
+    "art-24",
+    "art-24a",
+    "art-25",
+    "art-25a",
+    "art-25b",
+    "art-25c",
+    "art-25ca",
+    "art-25d",
+    "art-25e",
+    "art-25f",
+    "art-25fa",
+    "art-25g",
+    "art-25h",
+    "art-26",
+    "art-26a",
+    "art-26b",
+    "art-26c",
+    "art-26d",
+    "art-26e",
+    "art-27",
+    "art-27a",
+    "art-28",
+    "art-29",
+    "art-29a",
+    "art-29b",
+    "art-29c",
+    "art-29d",
+    "art-29e",
+    "art-30",
+    "art-30a",
+    "art-30b",
+    "art-31",
+    "art-31a",
+    "art-31b",
+    "art-32",
+    "art-32a",
+    "art-33",
+    "art-34",
+    "art-35",
+    "art-35a",
+    "art-35b",
+    "art-35c",
+    "art-35d",
+    "art-36",
+    "art-36a",
+    "art-36b",
+    "art-36c",
+    "art-37",
+    "art-38",
+    "art-39",
+    "art-40",
+    "art-40a",
+    "art-41",
+    "art-42",
+    "art-43",
+    "art-43a",
+    "art-43b",
+    "art-43c",
+    "art-43d",
+    "art-43e",
+    "art-43f",
+    "art-43g",
+    "art-44",
+    "art-44a",
+    "art-44b",
+    "art-45",
+    "art-45a",
+    "art-45b",
+    "art-45c",
+    "art-45d",
+    "art-45da",
+    "art-45db",
+    "art-45e",
+    "art-45f",
+    "art-45g",
+    "art-45ga",
+    "art-45h",
+    "art-45i",
+    "art-45j",
+    "art-45k",
+    "art-45l",
+    "art-45m",
+    "art-45n",
+    "art-45o",
+    "art-46",
+    "art-47",
+    "art-47a",
+    "art-47b",
+    "art-47c",
+    "art-47d",
+    "art-48",
+    "art-49",
+    "art-50",
+    "art-50a",
+    "art-50b",
+    "art-50c",
+    "art-50d",
+    "art-50e",
+    "art-50f",
+    "art-51",
+    "art-52",
+    "art-53"
+  ],
+  "coverage_contract_matches": true,
+  "units_match": true,
+  "reviewed_count": 170,
+  "reviewed_ids": [
+    "art-1",
+    "art-2",
+    "art-3",
+    "art-4",
+    "art-5",
+    "art-6",
+    "art-7",
+    "art-8",
+    "art-9",
+    "art-10",
+    "art-11",
+    "art-12",
+    "art-12a",
+    "art-12b",
+    "art-12c",
+    "art-13",
+    "art-13a",
+    "art-14",
+    "art-15",
+    "art-15a",
+    "art-15b",
+    "art-15c",
+    "art-15d",
+    "art-15e",
+    "art-15f",
+    "art-15g",
+    "art-15h",
+    "art-15i",
+    "art-15j",
+    "art-15k",
+    "art-15l",
+    "art-15m",
+    "art-15n",
+    "art-15o",
+    "art-16",
+    "art-16a",
+    "art-16b",
+    "art-16c",
+    "art-16d",
+    "art-16e",
+    "art-16f",
+    "art-16g",
+    "art-16ga",
+    "art-16h",
+    "art-16i",
+    "art-16j",
+    "art-16k",
+    "art-16l",
+    "art-16m",
+    "art-16n",
+    "art-16o",
+    "art-16p",
+    "art-16q",
+    "art-16r",
+    "art-17",
+    "art-17a",
+    "art-17b",
+    "art-17c",
+    "art-17d",
+    "art-18",
+    "art-18a",
+    "art-18b",
+    "art-18c",
+    "art-19",
+    "art-20",
+    "art-21",
+    "art-22",
+    "art-23",
+    "art-24",
+    "art-24a",
+    "art-25",
+    "art-25a",
+    "art-25b",
+    "art-25c",
+    "art-25ca",
+    "art-25d",
+    "art-25e",
+    "art-25f",
+    "art-25fa",
+    "art-25g",
+    "art-25h",
+    "art-26",
+    "art-26a",
+    "art-26b",
+    "art-26c",
+    "art-26d",
+    "art-26e",
+    "art-27",
+    "art-27a",
+    "art-28",
+    "art-29",
+    "art-29a",
+    "art-29b",
+    "art-29c",
+    "art-29d",
+    "art-29e",
+    "art-30",
+    "art-30a",
+    "art-30b",
+    "art-31",
+    "art-31a",
+    "art-31b",
+    "art-32",
+    "art-32a",
+    "art-33",
+    "art-34",
+    "art-35",
+    "art-35a",
+    "art-35b",
+    "art-35c",
+    "art-35d",
+    "art-36",
+    "art-36a",
+    "art-36b",
+    "art-36c",
+    "art-37",
+    "art-38",
+    "art-39",
+    "art-40",
+    "art-40a",
+    "art-41",
+    "art-42",
+    "art-43",
+    "art-43a",
+    "art-43b",
+    "art-43c",
+    "art-43d",
+    "art-43e",
+    "art-43f",
+    "art-43g",
+    "art-44",
+    "art-44a",
+    "art-44b",
+    "art-45",
+    "art-45a",
+    "art-45b",
+    "art-45c",
+    "art-45d",
+    "art-45da",
+    "art-45db",
+    "art-45e",
+    "art-45f",
+    "art-45g",
+    "art-45ga",
+    "art-45h",
+    "art-45i",
+    "art-45j",
+    "art-45k",
+    "art-45l",
+    "art-45m",
+    "art-45n",
+    "art-45o",
+    "art-46",
+    "art-47",
+    "art-47a",
+    "art-47b",
+    "art-47c",
+    "art-47d",
+    "art-48",
+    "art-49",
+    "art-50",
+    "art-50a",
+    "art-50b",
+    "art-50c",
+    "art-50d",
+    "art-50e",
+    "art-50f",
+    "art-51",
+    "art-52",
+    "art-53"
+  ],
+  "statutory_source_unchanged": true,
+  "official_chapters": 10,
+  "official_paragraphs": 8,
+  "official_lids": 271,
+  "official_list_items": 141,
+  "official_notes": 20,
+  "official_footnotes": 0,
+  "annex_elements": 0,
+  "all_body_tags": [
+    "al",
+    "artikel",
+    "brondata",
+    "dossierref",
+    "extref",
+    "hoofdstuk",
+    "intref",
+    "inwerkingtreding",
+    "inwerkingtreding.datum",
+    "jci",
+    "jcis",
+    "juncto",
+    "kop",
+    "label",
+    "li",
+    "li.nr",
+    "lid",
+    "lidnr",
+    "lijst",
+    "meta-data",
+    "nadruk",
+    "nr",
+    "ondertekeningsdatum",
+    "oorspronkelijk",
+    "opmerkingen-inhoud",
+    "paragraaf",
+    "publicatie",
+    "publicatiejaar",
+    "publicatienr",
+    "redactie",
+    "titel",
+    "uitgiftedatum",
+    "wettekst"
+  ],
+  "commentary_hashes": {
+    "art-1": "1db8b4aab6a41534eddc00d74b2ab4b14a2e0d3432c90181b363d40bed933a25",
+    "art-2": "1819d8a1df0185821eb573c44e7a8a399c6d5664d3fb11cce0fb3e47ec381f32",
+    "art-3": "fb95ea4e9bbc4c2ba685f738b51ab431ca18385f024f87a07d301bd94ea35568",
+    "art-4": "dadfc3d05627266562245d2d21dda58dddb6e106fdbb583c382c8d89c38b9f90",
+    "art-5": "236f265e15adad94ea9d7fa70a138b2afab6d444f414b816295a2b29dd6a0d10",
+    "art-6": "0f9f3d523048e4406fad1361a3060981e030ca3e78daf06fe0e1ab20fd0ebbc0",
+    "art-7": "6e18e8590e820f96d0c0e177b1578f64c29018b1a649723169e6b1c85f72ea21",
+    "art-8": "a1539f76762e2f7128a04e9b87d09c6d23cebec6e49efb9244c1fc3b57582545",
+    "art-9": "710817337d0016bfcd3eafc57fca70a3c5877a57b4ccab754244d203626231b5",
+    "art-10": "c22f1c73d468c727e7b09e4190ff1e16a2936e160382dcbaad020243c9cfc118",
+    "art-11": "abee074da803e54c40dae28bdd777d1641026635a45e9b3f1fd82ecb95a45457",
+    "art-12": "51c2cc16db6a4ae61ea95a60f98e544abaf9b0327ce2b394fc18d01364531cca",
+    "art-12a": "76c96150ab5664e25176f81c891e328b508d22bd6080b634f8e2976d26e0c79e",
+    "art-12b": "f7ab1cc1ab672b71bc2a9dc14fb6a07196b81e581ed9b2843d3bfa8450c7b180",
+    "art-12c": "f971bc712ab5401025f7fe42467c670cb5511a36043ebf88cd0c221447cda7f3",
+    "art-13": "d14959e760bf8d5c7985f58eef2b5a9a1565ab0e0f37137f9c5c2cea885084f4",
+    "art-13a": "7ccead7cd5d8c8e83ae81d372c43ad7a0a3eb80359d11ea3f05dc4387c229a87",
+    "art-14": "68662bec555af67c31ef0f9f57e16e4d0a9b132a05d845977ed64551f9cbed60",
+    "art-15": "01ec2107e76009339f8e419a1941e5a3183b2cfaa147942537dec71921012ffa",
+    "art-15a": "72d6b2df0506467e8ca493ce353a0fccf6896fe23ecbda68367c254c2e246acc",
+    "art-15b": "d3f88e8ddf2d05c50f2a1fbe091be1ce25f7ba412a65f2595ddf78b8a8e3626f",
+    "art-15c": "96587d12dedc97118847e12277b4400f124ca009c38294a0f55aa9dd69aeb5ca",
+    "art-15d": "473ea76573b4eff976087d931d2aed9a67b28e9edf8b31d4fbb6cf7637da9f85",
+    "art-15e": "3da78154903ccefd075e54a3be16c93dfbdd747da4b2bd1384dfa2a1d106e13b",
+    "art-15f": "920c60f23cd632c6ab5b7ee9ae41f9e97b6fea3a2a4b943c23bc1f58371b5fe9",
+    "art-15g": "4f0022c806159104086e43e41ae0acd6afa51f76770c9b72653fa4dab6307dea",
+    "art-15h": "48f5f41508fcdc2c81b36ef05acd6f9b71f817192544026d85532047bcf78430",
+    "art-15i": "760eb0fc15161c87205e751c3c21b0f4e42db4fb932c20ad387010caac122180",
+    "art-15j": "2f02346bb8d915dfe4c408b37f4690bae407804c74bc509c2545db2d3cf54325",
+    "art-15k": "02355ad1091696986f6395adbcdc2b6e43f6a865512eee1bdca5be56f8e29bed",
+    "art-15l": "56af945651611988bb5f36d63a930a0bcb68bb5b4494e15dc80531ae1725de8f",
+    "art-15m": "5447a9e4bf2f4b20a25da512fb77534167323d7201db55625379b899d0d804a0",
+    "art-15n": "2ac620f443c64350ba93ae50f5e1eafee2525b03eebcaa36f3c1f61a4b84dc87",
+    "art-15o": "f8b3e9f5afd8a758600aa1499448c86f109f0d2c0b4db8e5030b07e66e728173",
+    "art-16": "542a2fe979ec9b5bd15d442f52d68399b97c05a3ea6f6d3dc1389ee49d96dafd",
+    "art-16a": "cb3fec02f7edda9236effc3c67536ba421ade4e46ab4d03e069a5de33b6a2fe2",
+    "art-16b": "a813a806e22bb44ac29395aef9dcdd6a0198bb5818e5109ac11f290393c1ce33",
+    "art-16c": "0726626f97a4d702a4a8f664fa89555697892e34b67a95eb6414ab56dc4482fc",
+    "art-16d": "47440082a6350433c52f45adc6b23aac8350f539398e961fa25984144b099049",
+    "art-16e": "5b3d8ed96bb6d9a74a81c10f863443d3ce868280a12442b5895e998a63b1e0f2",
+    "art-16f": "da287b6ad6959a7f1b2d8f8b84348210c26a023351e44d0e4faac84f4e521cab",
+    "art-16g": "15ec8d5723d2f821971e14220530399f4f9206aded794bd31e85cd1b444fbff0",
+    "art-16ga": "02313386965906f74a7020bce678bdca7bd65f585a2ce0f0b128b865fb855ebb",
+    "art-16h": "909d19677b3b777f012e264e1a19ea0a4f2768554d956e48e3993b389b9ee6da",
+    "art-16i": "dd1a6a9243ee4511a70a85c083b80d4b7da22cbd9d382822f360aafe46b5863f",
+    "art-16j": "9ec0e9abd4df648c2c6c552886001243091656fe6caf88fc101982dbfb40716d",
+    "art-16k": "76950c9bcf8a2464869de53b6438fa33d9d1d9fac3ddb47732637d6466e250a0",
+    "art-16l": "2f217568caa08b74722d2c692b8857773c2c0931d8e14a3cf17fcdf0b8f59094",
+    "art-16m": "97eb4f541b8a9350782e098e6f05eea1562843a0debd942d1f3f6c3ead77485a",
+    "art-16n": "0ef4bd227a713396ffb4c0cc4a98ee71718e361bd72c8cbf91d2a088156d06cc",
+    "art-16o": "26cf4e57f563fa3ee6b68bf875113afee25f53651aa07e411fbdf07cce9c768b",
+    "art-16p": "eff502160d6798be8ec72112033022e7958ff94b8602150353fd45867a854e37",
+    "art-16q": "36923d9936343a73e87aedbae91b4044d4d0ba758580d20c7509b1d056fb9357",
+    "art-16r": "e18df5296753ddf54ab584e6ba7b1c68149eb31cc2c737014cbf2b902238dd90",
+    "art-17": "7a43a77c7aeb571bac50d78b13dc4612fdab69a9cef06d960a70299747cab6b3",
+    "art-17a": "2aa4c4205fed2567b1238c4945cbf2cf1d46a7e4b431dd96c45d6da75eb0a755",
+    "art-17b": "072f2f8ec10c2e872a4ac85312593e02d089ee548b4bafc032b3d8ba42f145e6",
+    "art-17c": "e2018cfeb145acb99267447380972ec5d6c936861121798917b638b5c3039c4b",
+    "art-17d": "1af1497c52ae73a3adac9746dbf10521a84b7cb170291e4ea25dc59ebbc395c0",
+    "art-18": "b2cd904c172d2f8b98691e435ac1dc3e302a85d36eec866443bf27337afe29cb",
+    "art-18a": "3969b120221cabea9355be0a44c8855aaab64f5610b57202c60e893c2e445b5f",
+    "art-18b": "3edab961026ff337996794431e5a7a317fc878553228ee375b77c9eea2d0aea3",
+    "art-18c": "70ec41a61a57500cf3eaaf35a45d7b728751020aa01468ed4fc08ffc2379d825",
+    "art-19": "bf3a5acddfeb753499243141fcf0a072a9883e2ba98554cd9f5e41e9d524bb39",
+    "art-20": "321460e9deb8832b918e5d4d8d6382cfdfab5297ebc31bbfa0523f83b5e961c1",
+    "art-21": "82585f57d1ce06234244b4c7337a1fff2715129ae1261bed931b64750529199c",
+    "art-22": "b4159a6de6068392a631f257a2c30339c24b15e0e21696f5c535eb325471618e",
+    "art-23": "d7f1addc8503b6968a58235d2a80a467fd3d6f16de320bb48e328b9eb8e0db03",
+    "art-24": "0929d2a44c6f9b9d9cf79e237d4ff53481bd057aea88c626dfafecc340df9c9d",
+    "art-24a": "c78dc6a80859911f99a0e8eb6afcb81fbe450d7b0baac423bffdbe40336e8e32",
+    "art-25": "205dd36248d28b905ec275c1484885a11d77b6705813ed508eb37275a574a7c0",
+    "art-25a": "9d5e7f182a51ff3b9c1fcf61eb32fa621d99a65fda977c89cc59c84fd4f32608",
+    "art-25b": "356df16dbc8601648b490fef5dd97cd34d32d5b713cffec474be182a835bc923",
+    "art-25c": "e0ae90a47bff186f4639e94bf44961fc5587ee62ee79f131f23e891c149f5682",
+    "art-25ca": "0be3ecaba8526228daadb77a01c7fca5ce75000e5514f03c2db4573081be15c7",
+    "art-25d": "72d1598a0584b6696aa0baa197c495c5e0895d3b12289f3aaba02e36735aaf59",
+    "art-25e": "a3a8173f1afef2d5d0382ed8dd650ff453738d84e03651823f8bd51bc4666501",
+    "art-25f": "4f4edc881b3737fece51cab6359a7f13a00b5d8c676b6c75271ab26a1c62d8bc",
+    "art-25fa": "9afaba29e081f33ff82a079b9cf5ff0af6d8bd8376206bfd638501dba756afdc",
+    "art-25g": "636c3b2579bd1b6aa223d8fbadd264f35cff3072d9b7dc20d45fe353275618ce",
+    "art-25h": "ce87cfa46badbca8b25adcb13cdfe155613949c0b2900bd18021e1dbf666def0",
+    "art-26": "b123e3fa9d5eab9e6af9ac0492ec32458411045b84f8bf46a758ce03a334a822",
+    "art-26a": "e40d7ddbf0240fc154a48872c097f7cc5be3bd64ff2a5be99d77a7bb71d7a43a",
+    "art-26b": "4f4e5f60d7b395181ed15ccecf49965c48bcd764ea6ed384a1d938b944e37eba",
+    "art-26c": "147a4329b95d21077bb351a0003c0b282fae09dfcca7e7147ac16c33ebfdf6d3",
+    "art-26d": "829b749a1efa5dc05af4f7b253f155897011aff7b046ab91cb9f4e19546d8d3f",
+    "art-26e": "79cbc4270f72e023c459105fa306a813a373e3fa79df6113a2d472f3a577545c",
+    "art-27": "fbb3d694c0c6c6783f44caf0a961a9631fe034fc116a6dbeb4ab0654a8480348",
+    "art-27a": "882e67caaae49a79829ee620e1bd58b396bf32148c0a8f2a204d4f683bf60937",
+    "art-28": "6a5473c945f430f8600a461e68cab3c2e0d12f99400d82d4b10365b750b28481",
+    "art-29": "30c3b03d9e281d8ecc99a7eb7d98128ab92aeb6e4de1a1fe990fde5341a373d9",
+    "art-29a": "945d1335c4ef4600f8c4825229ec3ae009b0c80386ddff2401c8b6bf8e313914",
+    "art-29b": "9823d82fc5a4436afeb3e2e9aae4dfb87dc4cbfeeb066997604270bf58b40ae9",
+    "art-29c": "1d4a17675d611e4b91189ee0b49a69ba25dccd88340b108a2980914ee92cb482",
+    "art-29d": "585cbaf36b68ddcac85e18c78fae5b4c222f48f2c1f9656360953b30d371c0ad",
+    "art-29e": "d555253fea8ad6dc84045db2b9ffbe71fe4ab3ec1e55fe9531432b481a48eb69",
+    "art-30": "0238fc7670368c2af66aae49bfc68e75c5e88beba6cced1ec29becd11c00fa11",
+    "art-30a": "38484fb69d3878d7eb0e6e3c307a0a8cffee72420198fdbaa6bcae485aadc330",
+    "art-30b": "be2b7632035266e351f51966339ee90f7aebf562193a78b2ab0f9e35be97c8ad",
+    "art-31": "558c59f5e21ea15cfac5464e613749971ed0fb17157c2adcad56fe041d1910a7",
+    "art-31a": "73810e920e37e26b8287b999cb4c5604687195a9450a5c6c1eff8170854eff98",
+    "art-31b": "7af95acb5eeb72576c509e7b2c82ca85ba2571d9de09674093d25777a1f5b195",
+    "art-32": "2023f31119d172dee088de65eacf0f2e7d5c67cc4af97f226cc59bc2e90a712e",
+    "art-32a": "1e63462fdf568db425c08c19ba3ac17d067d2fa32dbe8ac677ecedd48a928cff",
+    "art-33": "eced6cb67c928bbcd7f6ff5d8be7c664daeda735b7fda22e4a8aba0f46c1bbe1",
+    "art-34": "a05db8736d721478ff510224dac28ac851a419318a3405db032f4bc5d9920449",
+    "art-35": "51dddbb9cf5fef20944ddd49cacc342795c1d92c68738b341740d4ff15bc83a1",
+    "art-35a": "215ff43bd94c63a641a13b4b7378733748a348f6f0f3ea646fb84f3600b7fe29",
+    "art-35b": "901f3ef8c1378d9c875e359f2f4390fc9754385822bf706ce5e5851de94afbe2",
+    "art-35c": "67c61693f5e53b00dbf7294db65a169c94378a8852493dcf77e58a8f3e10e4ce",
+    "art-35d": "5de126b84e63a2f55f997586711a990dc12827cf801432dc0c59c1a1255c51e1",
+    "art-36": "d6928dcefdc27082ab51d389df4a3071b8a9ca3af64714e903a8cf6dd7db5db3",
+    "art-36a": "63a82d3a7939afca440f8fcd073729e024f933256b1d21928fa5d61f3e5a9e34",
+    "art-36b": "40dacd5cf2f5bc787b5bd7d3a3b250d413e9a9ff85a4c4d08b505a14f1ad298f",
+    "art-36c": "94c40f48fe32895d55c4b8e09d4f66b30cad94fd2628dfd8fa413c51e81efc1f",
+    "art-37": "2c311f6d93ceca567910ece0f19e1402df3ce6201c72abf750e6730342d82363",
+    "art-38": "785263bd3cc5acc2c01b0782e90f628bdf68f00a1aef0fddd40a3a5957b966cb",
+    "art-39": "33ff89eb76520e28c47e62a5c63ce129b1b85f027d29cd9cffddd215c390dee0",
+    "art-40": "036bade174ed36560ce824dfd83634dbcfc7c7559654d06d5bf5b564a375dd50",
+    "art-40a": "43abe6a6a6cc2c811ca8824d798bec3d1079d05cea423998330b05340db9098a",
+    "art-41": "465a104025e2f040279a7ad28254aecd198c3469a90240eb50b1eae8a0154114",
+    "art-42": "fea0d8c49816eb260bc02343943fded3eb7b3be2b79b19ad613220b178228c14",
+    "art-43": "aeb03ef2705952a78157c7681b1491b219321b155fcb93772e9678b5b22edcfb",
+    "art-43a": "c1fda42a0cc679618ee8ba315add22b883ef84d2e2b5e6ab6c506701958c9e33",
+    "art-43b": "1711d778961af2d9dfbad9b16b2ecd48a4d10cde4acc68ad9f4732e0bbdb0280",
+    "art-43c": "f661c523a6ae60e467258e6a2f8911b93af710c591f05cc1a5eb1d4ab4166112",
+    "art-43d": "c1e2c0b86cca052608734e25c28d56a56c1841f9460f90ebef94429794fbdee4",
+    "art-43e": "2b4550b5fca1bdcfdc16b4b18c23b6928ffcbe44b070ce372b9902678b1b9845",
+    "art-43f": "f67e074578da251007df60271595977f03eb28b1952640fd8697aadb385b947f",
+    "art-43g": "c1e4a18ab90c4266ce3cb8cf974c3f414c2c4ec53ae1bb906106175eae5d95e1",
+    "art-44": "13606e1303077b77c219267f65f34870f18fcf3781d21fbfe3196e5a80fcb766",
+    "art-44a": "28ecf05c6e5e3f41c973c21f73b42231629d1003aa0123f6dd755dfc56096095",
+    "art-44b": "e260b24e71893e8c469d978d479b1bfe13b2cb906be08239d705fe21611f0d11",
+    "art-45": "905f047c22b196151c41b731790c35afdb00367931340c927d90b5c9ffef11a0",
+    "art-45a": "f593892170789cd9fd721c7808c8a24d47b6824ba12cabbaf5bfb68336fc6062",
+    "art-45b": "3cef9aeec04646f9f9eb14a4022821e4b56c761fa713ac947c9a484c32b7fdc1",
+    "art-45c": "5938f11b28ce043b771b370eb26702a412f882ee4f3cbcd4b2ed051fa9499a82",
+    "art-45d": "fe468df7a2c49790012d0732d27f7c00e9689ac21b03c65e58c87792183d80c8",
+    "art-45da": "bbd5b0b5dbf84faa5f913d598f0c40fda794729242fd929f3e0dbe20bbd6801f",
+    "art-45db": "3467ebbc34fe7561888aa64603be9bfb2d5eda685b6e8e41913d8a72cc7922ee",
+    "art-45e": "6eaf398b65dd3967dc06838533e249231ba87ddd914e8f2e81eaba408e1c4283",
+    "art-45f": "3e3dbe34a141583cb73d63e2cebb5a36946a5bc8363167724f0d2b111e775662",
+    "art-45g": "bade7d1d0b19810989ec95bc5662204af29114fc5346adebd5c0ab75825c76cb",
+    "art-45ga": "1a685681b49dd53e9e44a46fbd827ec54381b46a5e5c78a85e720e7d8e7dbc07",
+    "art-45h": "dc13cb7a91c9cf80429a88cd72ef39360f1d94e09b9bf426d675250200b9aa95",
+    "art-45i": "caa9af1974f697e4779d76596303fc4558b42e6db174f885d27886b7fa9f9339",
+    "art-45j": "6f2125fdc98e97c2ac1de4663684840f0f5689c88eee4bbc313387d12372cb3d",
+    "art-45k": "7ecd961e8f98026369fb20da3bbcf384a8eee5d483a2e648956d2f0976ad9a6a",
+    "art-45l": "ecf02bd4713f4d4e0a27f75a8ff9dc503f37360cd8a21017844d87a89c24efce",
+    "art-45m": "008bd5b372e038cd3a296b0345ba15ac27bf4d72df28adec12c8ed9183b24c91",
+    "art-45n": "01e89e7dfc10c831f4f23430f261a803836b8bef3c01dc5a75a2f0945afe3e87",
+    "art-45o": "6215358518c72ee7df09455a2f4764e4ab1d1d96ef687591ccb1b1cd5be42943",
+    "art-46": "50d65e0ec291bd6c482e3cb9d46e5f4fd45f1589f8a04ebd096d463deec7d9d4",
+    "art-47": "37c76ba8aa90dec67ef2cb31aae66c0a5158e12b5aea332ca6a10bfe5fdfe523",
+    "art-47a": "07522bfa09331686f37ec513c61bd981ab7f2c9b954cd1f8c32bc6c8008a81e3",
+    "art-47b": "76fc36c7d0991f63c14375281059cb63e4d3e0fa681632501f32a6516de04772",
+    "art-47c": "d3ab26af175709b69a9d4bcb2dd0198a8cf8a54df502be95d6680e7bef70ef1d",
+    "art-47d": "c95d2e44eb780edc61ef88c54434142db24a252cacb27847566f7141e01d6d8f",
+    "art-48": "374453428027997276cd5395e2b99b61148acc65f2f4c9483f95891f7a08def6",
+    "art-49": "cc3e9f6c4d4a2c63a94da3c838c3b2d184ed7c3eced7e6c0a9014a02b658a3c3",
+    "art-50": "283b102613c4179c3e9b1e33c6cebf61fa9a94289927ec0e3734e03d9b5cd022",
+    "art-50a": "90b2ecfa247b828e186e20a965a6f46acd9f47b4ad3a84da5511a79bd095b1b7",
+    "art-50b": "44d20f6c6a0f77627a037c14fa298d0fcef5ffa737064881eeaf16211a2991f4",
+    "art-50c": "3af51f2e6dd8663cafff508978965ab1cd8c5e0a0756e25107c29ce1bc9ff465",
+    "art-50d": "99cd8126354c719a7bd9867c86e30c93fa29fbcf3f0f8d5e6060f750b5cf02f9",
+    "art-50e": "a5cb4b3ff0d143425964a3d75088fa33851c6c984b80c8c47d5d42a34f85df6c",
+    "art-50f": "29538296feefcb65f804aab4de2124ad59d410dda7382980368daaff45be83b0",
+    "art-51": "b77763086787870496d59d973cca538b981a4d5d9b779e7b39e0cded46d9590b",
+    "art-52": "99513ae2478eb5d3cfbc084667721f062ebf9396309618f6fa671928ade36694",
+    "art-53": "30d5ab02577ce8f52ee5cc75c9e5a0eb5d5e5f9e439358131dddb614a60b545d"
+  },
+  "similarity_method": "Dice overlap of distinct five-word sequences; supplementary editorial screen, not a legal-quality test",
+  "most_similar_pairs": [
+    {
+      "left": "art-35c",
+      "right": "art-35d",
+      "shared_5word_ratio": 0.109
+    },
+    {
+      "left": "art-35b",
+      "right": "art-35c",
+      "shared_5word_ratio": 0.059
+    },
+    {
+      "left": "art-35b",
+      "right": "art-35d",
+      "shared_5word_ratio": 0.058
+    },
+    {
+      "left": "art-16r",
+      "right": "art-25b",
+      "shared_5word_ratio": 0.048
+    },
+    {
+      "left": "art-17a",
+      "right": "art-48",
+      "shared_5word_ratio": 0.043
+    },
+    {
+      "left": "art-32a",
+      "right": "art-34",
+      "shared_5word_ratio": 0.043
+    },
+    {
+      "left": "art-46",
+      "right": "art-49",
+      "shared_5word_ratio": 0.043
+    },
+    {
+      "left": "art-46",
+      "right": "art-50e",
+      "shared_5word_ratio": 0.043
+    },
+    {
+      "left": "art-49",
+      "right": "art-50e",
+      "shared_5word_ratio": 0.043
+    },
+    {
+      "left": "art-15c",
+      "right": "art-45h",
+      "shared_5word_ratio": 0.037
+    },
+    {
+      "left": "art-10",
+      "right": "art-13",
+      "shared_5word_ratio": 0.033
+    },
+    {
+      "left": "art-31a",
+      "right": "art-31b",
+      "shared_5word_ratio": 0.033
+    },
+    {
+      "left": "art-16r",
+      "right": "art-25c",
+      "shared_5word_ratio": 0.032
+    },
+    {
+      "left": "art-2",
+      "right": "art-25b",
+      "shared_5word_ratio": 0.031
+    },
+    {
+      "left": "art-46",
+      "right": "art-50c",
+      "shared_5word_ratio": 0.029
+    }
+  ],
+  "manual_similarity_assessment": "Highest overlaps concern distinct penalty/opgave provisions (35c/35d, 0.109), repeated transitional citations and some repealed slots. All were read against their distinct statutory functions; no identical substantive stock paragraphs retained."
+}

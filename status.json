@@ -3,7 +3,7 @@
   "title": "Auteurswet",
   "country": "nl",
   "identifier": "BWBR0001886",
-  "updated_at": "2026-10-19T14:49:19.209573+00:00",
+  "updated_at": "2026-10-19T14:59:18.582142+00:00",
   "decisive_date": "2026-10-19",
   "official_state": "2026-01-01_0",
   "official_effective_from": "2026-01-01",
@@ -15,7 +15,12 @@
     "source_sha256": "e90b201ad0e473d3245443bc43728241aa17770042b3e7dfb7c9ca040f10c2c5",
     "source_verification": "sources/verification.json",
     "intake_change_map": "sources/change-map.json",
-    "source_manifest": "source-manifest.json"
+    "source_manifest": "source-manifest.json",
+    "dated_wetten_page_http": 200,
+    "dated_wetten_page": "sources/review-links-wetten.html",
+    "fresh_official_html_active_text_matches": 157,
+    "fresh_official_html_repeal_marker_matches": 13,
+    "front_end_http_context": "First-pass request for 2026-10-19; assigned 2026-01-01 page independently returned 200 in second pass."
   },
   "total_units": 170,
   "completed_units": 170,
@@ -51,13 +56,15 @@
     "ok": true
   },
   "completeness_ok": true,
-  "independent_second_pass_completed": false,
+  "independent_second_pass_completed": true,
   "unresolved_blockers": [],
   "remaining_limitations": [
-    "Independent substantive second pass remains to be performed by a fresh process.",
-    "Selective case law; no exhaustive later-treatment research.",
-    "Implementing regulations, current tariffs, designation decisions, foreign-law terms and general procedural safeguards are not comprehensively verified; commentary identifies conditional dependencies.",
-    "wetten.nl date-specific frontend returned 404; official repository XML and effective-date manifest were verified instead."
+    "Selectieve rechtspraak; geen uitputtend later-behandelingsonderzoek of aparte uitspraak voor iedere technische bepaling.",
+    "Uitvoeringsregelingen, actuele tarieven en aanwijzingen zijn niet integraal onderzocht; afhankelijke toepassingen blijven voorwaardelijk.",
+    "Zelfstandig buitenlands recht en algemene proces- en strafvorderlijke waarborgen vallen buiten de integrale boekscope.",
+    "Bronselectie berust op de geraadpleegde officiële toestand, het actuele manifest en de gedateerde wetten.nl-pagina; nog niet verwerkte wijzigingen zijn niet zelfstandig geïnventariseerd."
   ],
-  "publication": "Local only; no push or external submission"
+  "publication": "Local only; no push or external submission",
+  "units_reviewed": 170,
+  "review_result": "review-result.json"
 }

@@ -9,11 +9,11 @@
     "visible_from": "2026-01-01",
     "visible_until": "9999-12-31",
     "last_modified": "2026-04-18T08:08:15+02:00",
-    "basis": "Official work manifest has no later expression and marks this expression effective through 9999-12-31. XML state inwerkingtreding agrees. Stb.2025-392 expressly commences the 2025-352 reform on 2026-01-01.",
+    "basis": "Official work manifest has no later expression and marks this expression effective through 9999-12-31. XML state inwerkingtreding agrees. Stb.2025-392 expressly commences the 2025-352 reform on 2026-01-01. Second pass also retrieved the assigned dated wetten.nl page (HTTP 200), which states validity from 2026-01-01 to present; all 157 active article texts and 13 repeal markers/dates match the XML.",
     "manifest_sha512": "486cd59be38ce19ab02d3321bf44110bac4562e155455a64d633165de840d73b411be707a40acd621c97d6dfe81a8a961687b7e052938c1db9e485400b591276",
     "manifest_sha512_matches_download": true,
     "changes_since_intake": "No later state in official manifest; all 170 unit texts equal intake ignoring whitespace. XML includes official editorial notes separately.",
-    "limits": "Date-specific wetten.nl front end returned 404; repository XML and official work manifest used. Future/unprocessed amendments outside the official manifest are not independently inventoried."
+    "limits": "Requests directed at the authoring date 2026-10-19 returned 404 in the first pass. The assigned 2026-01-01 wetten.nl page returned 200 in the second pass. Unprocessed future amendments outside the consulted official state/manifest are not independently inventoried."
   },
   "responses": [
     {
@@ -194,5 +194,170 @@
         "reason": "Official error page; not used as statutory text"
       }
     }
-  ]
+  ],
+  "second_pass_responses": [
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/manifest.xml",
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/manifest.xml",
+      "accessed_at": "2026-10-19T14:50:43.155684+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/review-manifest.xml",
+      "sha256": "13bdb324a4963bc67087ebebd072c1c47077972460430d6f2342e02a1ddf7035",
+      "bytes": 20075,
+      "format_validation": {
+        "accepted": true,
+        "root_element": "work"
+      }
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/2026-01-01_0/xml/BWBR0001886_2026-01-01_0.xml",
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/2026-01-01_0/xml/BWBR0001886_2026-01-01_0.xml",
+      "accessed_at": "2026-10-19T14:50:44.236103+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/review-state.xml",
+      "sha256": "e90b201ad0e473d3245443bc43728241aa17770042b3e7dfb7c9ca040f10c2c5",
+      "bytes": 632597,
+      "format_validation": {
+        "accepted": true,
+        "root_element": "toestand"
+      }
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62012CJ0435",
+      "path": "sources/review-aci-adam.json",
+      "accessed_at": "2026-10-19T14:53:38.679222+00:00",
+      "request_started_at": "2026-10-19T14:53:32.417006+00:00",
+      "http_status": 200,
+      "transport": "Firecrawl CLI --max-age 0",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "2468503127a947eec1535a55edd7cc13bd8f035b53fdbfc2689b47a63a299fe4",
+      "bytes": 133892,
+      "format_validation": {
+        "accepted": true,
+        "format": "JSON envelope with official HTML and judgment paragraphs 1–66 and operative part",
+        "same_markdown_as_reviewed_snapshot": true
+      },
+      "firecrawl_cache": {
+        "cacheState": null,
+        "cachedAt": null,
+        "scrapeId": "01a154a7-5154-7007-96f7-08f248d7d80b"
+      }
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2008:BC2153",
+      "accessed_at": "2026-10-19T14:56:18.296995+00:00",
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2008:BC2153",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/review-links-endstra.xml",
+      "sha256": "6b39ce8bd2f6a564fbba647ba0c135062a183397667bf8b3cc7deb045c18b8ac",
+      "bytes": 32078,
+      "format_validation": {
+        "accepted": true,
+        "root_element": "open-rechtspraak",
+        "judgment_body_matches_original": true
+      }
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY1529",
+      "accessed_at": "2026-10-19T14:56:18.630155+00:00",
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY1529",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/review-links-stokke.xml",
+      "sha256": "1dabd3e413fa7fd5e2a10840753e66124fb27da60895035cd695d374b8d8b707",
+      "bytes": 32690,
+      "format_validation": {
+        "accepted": true,
+        "root_element": "open-rechtspraak",
+        "judgment_body_matches_original": true
+      }
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001886/2026-01-01",
+      "accessed_at": "2026-10-19T14:56:18.914627+00:00",
+      "final_url": "https://wetten.overheid.nl/BWBR0001886/2026-01-01",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "path": "sources/review-links-wetten.html",
+      "sha256": "8a5793bafc4490bfa14d210d8ec30eb2a69367fdc29fd9a8dcb2730b9d26f27e",
+      "bytes": 1075304,
+      "format_validation": {
+        "accepted": true,
+        "title": "wetten.nl - Regeling - Auteurswet - BWBR0001886"
+      }
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-352.html",
+      "accessed_at": "2026-10-19T14:56:27.331779+00:00",
+      "final_url": "https://zoek.officielebekendmakingen.nl/stb-2025-352.html",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "path": "sources/review-links-amendment.html",
+      "sha256": "46bbf637a09b0867915ef18a855628e59d346967ec0f3153eace46d613b8fbec",
+      "bytes": 46634,
+      "format_validation": {
+        "accepted": true,
+        "title": "Staatsblad 2025, 352 | Overheid.nl > Officiële bekendmakingen"
+      }
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-392.html",
+      "accessed_at": "2026-10-19T14:56:28.459637+00:00",
+      "final_url": "https://zoek.officielebekendmakingen.nl/stb-2025-392.html",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "path": "sources/review-links-commencement.html",
+      "sha256": "7c694eeddff6f4b5590cb5574d6d15b418715476487794ce518de07f3bb26277",
+      "bytes": 21775,
+      "format_validation": {
+        "accepted": true,
+        "title": "Staatsblad 2025, 392 | Overheid.nl > Officiële bekendmakingen"
+      }
+    }
+  ],
+  "second_pass_selection_check": {
+    "date": "2026-10-19",
+    "state_unchanged": true,
+    "expressions": [
+      "2002-01-01_0",
+      "2003-01-01_0",
+      "2003-02-01_0",
+      "2003-07-15_0",
+      "2004-05-19_0",
+      "2004-07-01_0",
+      "2004-09-01_0",
+      "2006-01-20_0",
+      "2006-04-01_0",
+      "2007-05-01_0",
+      "2008-03-26_0",
+      "2009-01-01_0",
+      "2012-01-01_0",
+      "2013-01-01_0",
+      "2013-10-18_0",
+      "2014-10-29_0",
+      "2015-01-01_0",
+      "2015-07-01_0",
+      "2017-09-01_0",
+      "2018-09-19_0",
+      "2018-10-11_0",
+      "2021-01-01_0",
+      "2021-06-07_0",
+      "2022-06-07_0",
+      "2022-10-01_0",
+      "2025-02-04_0",
+      "2025-07-01_0",
+      "2026-01-01_0"
+    ],
+    "manifest_sha512_matches": true,
+    "dated_wetten_page_http": 200,
+    "dated_wetten_page": "sources/review-links-wetten.html",
+    "dated_wetten_page_statement": "Geldend van 01-01-2026 t/m heden.",
+    "html_article_ids_match_xml": true,
+    "html_active_article_texts_match_xml": 157,
+    "html_repeal_markers_and_dates_match_xml": 13,
+    "comparison_evidence": "second-pass-checks.json"
+  }
 }

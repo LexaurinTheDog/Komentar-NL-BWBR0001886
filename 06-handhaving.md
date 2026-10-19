@@ -76,7 +76,7 @@ Voorbeeld: een tussenpersoon faciliteert de toegang tot een concreet ongeoorloof
 
 > De voorzieningenrechter kan op vordering van de maker of zijn rechtverkrijgende tijdelijke voortzetting van de vermeende inbreuk toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de maker of zijn rechtverkrijgende geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in artikel 26d toestaan.
 
-De voorzieningenrechter kan tijdelijke voortzetting van een vermeende inbreuk toelaten wanneer zekerheid voor de schadevergoeding wordt gesteld. De regeling biedt ruimte om een voorlopig conflict beheersbaar te houden zonder de uiteindelijke rechtmatigheid al definitief vast te stellen. Zij maakt voortzetting niet automatisch rechtmatig en neemt de mogelijke schadeplicht niet weg.
+De voorzieningenrechter kan op vordering van de maker of zijn rechtverkrijgende tijdelijke voortzetting van een vermeende inbreuk toelaten wanneer zekerheid voor de schadevergoeding wordt gesteld. Het artikel geeft de vermeende inbreukmaker daarmee niet zelfstandig dezelfde vorderingsbevoegdheid. De regeling biedt ruimte om een voorlopig conflict beheersbaar te houden zonder de uiteindelijke rechtmatigheid al definitief vast te stellen. Zij maakt voortzetting niet automatisch rechtmatig en neemt de mogelijke schadeplicht niet weg.
 
 Dezelfde mogelijkheid geldt voor dienstverlening door een tussenpersoon van artikel 26d. De rechter beoordeelt of en onder welke voorwaarden de tijdelijke oplossing passend is. De zekerheid moet worden betrokken op de mogelijke schade; zij is geen koopprijs voor een blijvende exploitatiebevoegdheid. Ook de duur en afbakening van de toegelaten voortzetting verdienen een uitdrukkelijke beslissing.
 
@@ -144,13 +144,13 @@ Voorbeeld: een exclusieve licentienemer ziet een concurrerende illegale editie. 
 
 *Officiële redactionele aantekening:* Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.
 
-Artikel 28 bundelt herstel-, informatie- en publicatiemaatregelen. Lid 1 ziet op roerende niet-registergoederen die de inbreuk belichamen en op voornamelijk gebruikte materialen of werktuigen. Mogelijk zijn opeising, onttrekking, vernietiging, onbruikbaarmaking en daarvoor noodzakelijke afgifte. Lid 2 betrekt bepaalde door de inbreuk verkregen gelden. Lid 3 sluit aan bij beslag en executie; lid 4 legt de uitvoeringskosten in beginsel bij verweerder.
+Artikel 28 bundelt herstel-, informatie- en publicatiemaatregelen. Lid 1 ziet op roerende niet-registergoederen die de inbreuk belichamen en op voornamelijk gebruikte materialen of werktuigen. Mogelijk zijn opeising, onttrekking, vernietiging, onbruikbaarmaking en daarvoor noodzakelijke afgifte. Lid 2 betrekt bepaalde door de inbreuk verkregen gelden. Lid 3 sluit aan bij beslag en executie en geeft bij samenloop voorrang aan degene die krachtens dit artikel beslag heeft gelegd; lid 4 legt de uitvoeringskosten in beginsel bij verweerder.
 
 Voor onroerende zaken, schepen en luchtvaartuigen kiest lid 5 een eigen maatregel: wijziging zodat de inbreuk wordt opgeheven. Lid 6 geeft de licentienemer, behoudens andere afspraak, bevoegdheden binnen de bescherming van zijn toegestane rechten. Lid 7 omvat ook de genoemde omzeilingsmiddelen en reproducties met verwijderde rechteninformatie. Lid 8 verlangt bij de genoemde maatregelen evenredigheid en aandacht voor derden; vernietiging is dus geen automatisch gevolg van iedere inbreuk.
 
 Lid 9 maakt een informatiebevel over herkomst en distributie mogelijk, onder de genoemde voorwaarden ook tegen commerciële derden. De verschoningsmogelijkheid moet worden geëerbiedigd. Lid 10 laat passende verspreiding van informatie over de uitspraak op kosten van de inbreukmaker toe.
 
-Voorbeeld: een illegale drukker heeft voorraad, drukmiddelen en distributiegegevens. De rechthebbende specificeert per maatregel de noodzaak en de relatie met de inbreuk, in plaats van zonder onderscheid alle apparatuur op te eisen. De bescherming van particuliere houders wordt bovendien begrensd door artikel 29.
+Voorbeeld: een illegale drukker heeft voorraad, drukmiddelen en distributiegegevens. De rechthebbende specificeert per maatregel de noodzaak en de relatie met de inbreuk, in plaats van zonder onderscheid alle apparatuur op te eisen. De maatregelen worden bovendien begrensd door de bescherming van particuliere houders in artikel 29.
 
 ### Artikel 29
 

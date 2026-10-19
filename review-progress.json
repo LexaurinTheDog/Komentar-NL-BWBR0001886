@@ -1,0 +1,335 @@
+{
+  "reviewed_ids": [
+    "art-1",
+    "art-2",
+    "art-3",
+    "art-4",
+    "art-5",
+    "art-6",
+    "art-7",
+    "art-8",
+    "art-9",
+    "art-10",
+    "art-11",
+    "art-12",
+    "art-12a",
+    "art-12b",
+    "art-12c",
+    "art-13",
+    "art-13a",
+    "art-14",
+    "art-15",
+    "art-15a",
+    "art-15b",
+    "art-15c",
+    "art-15d",
+    "art-15e",
+    "art-15f",
+    "art-15g",
+    "art-15h",
+    "art-15i",
+    "art-15j",
+    "art-15k",
+    "art-15l",
+    "art-15m",
+    "art-15n",
+    "art-15o",
+    "art-16",
+    "art-16a",
+    "art-16b",
+    "art-16c",
+    "art-16d",
+    "art-16e",
+    "art-16f",
+    "art-16g",
+    "art-16ga",
+    "art-16h",
+    "art-16i",
+    "art-16j",
+    "art-16k",
+    "art-16l",
+    "art-16m",
+    "art-16n",
+    "art-16o",
+    "art-16p",
+    "art-16q",
+    "art-16r",
+    "art-17",
+    "art-17a",
+    "art-17b",
+    "art-17c",
+    "art-17d",
+    "art-18",
+    "art-18a",
+    "art-18b",
+    "art-18c",
+    "art-19",
+    "art-20",
+    "art-21",
+    "art-22",
+    "art-23",
+    "art-24",
+    "art-24a",
+    "art-25",
+    "art-25a",
+    "art-25b",
+    "art-25c",
+    "art-25ca",
+    "art-25d",
+    "art-25e",
+    "art-25f",
+    "art-25fa",
+    "art-25g",
+    "art-25h",
+    "art-26",
+    "art-26a",
+    "art-26b",
+    "art-26c",
+    "art-26d",
+    "art-26e",
+    "art-27",
+    "art-27a",
+    "art-28",
+    "art-29",
+    "art-29a",
+    "art-29b",
+    "art-29c",
+    "art-29d",
+    "art-29e",
+    "art-30",
+    "art-30a",
+    "art-30b",
+    "art-31",
+    "art-31a",
+    "art-31b",
+    "art-32",
+    "art-32a",
+    "art-33",
+    "art-34",
+    "art-35",
+    "art-35a",
+    "art-35b",
+    "art-35c",
+    "art-35d",
+    "art-36",
+    "art-36a",
+    "art-36b",
+    "art-36c",
+    "art-37",
+    "art-38",
+    "art-39",
+    "art-40",
+    "art-40a",
+    "art-41",
+    "art-42",
+    "art-43",
+    "art-43a",
+    "art-43b",
+    "art-43c",
+    "art-43d",
+    "art-43e",
+    "art-43f",
+    "art-43g",
+    "art-44",
+    "art-44a",
+    "art-44b",
+    "art-45",
+    "art-45a",
+    "art-45b",
+    "art-45c",
+    "art-45d",
+    "art-45da",
+    "art-45db",
+    "art-45e",
+    "art-45f",
+    "art-45g",
+    "art-45ga",
+    "art-45h",
+    "art-45i",
+    "art-45j",
+    "art-45k",
+    "art-45l",
+    "art-45m",
+    "art-45n",
+    "art-45o",
+    "art-46",
+    "art-47",
+    "art-47a",
+    "art-47b",
+    "art-47c",
+    "art-47d",
+    "art-48",
+    "art-49",
+    "art-50",
+    "art-50a",
+    "art-50b",
+    "art-50c",
+    "art-50d",
+    "art-50e",
+    "art-50f",
+    "art-51",
+    "art-52",
+    "art-53"
+  ],
+  "batches": [
+    {
+      "indices": [
+        0,
+        18
+      ],
+      "finding_units": [
+        "art-2",
+        "art-12"
+      ]
+    },
+    {
+      "indices": [
+        18,
+        34
+      ],
+      "finding_units": [
+        "art-15j",
+        "art-15m"
+      ]
+    },
+    {
+      "indices": [
+        34,
+        48
+      ],
+      "finding_units": [
+        "art-16"
+      ]
+    },
+    {
+      "indices": [
+        48,
+        62
+      ],
+      "finding_units": [],
+      "checked": "Behoud, verweesde werken, vervallen 16r/17a, tijdelijke omroepvastlegging, eredienst en panoramavrijheid; doel- en actorgrenzen naast gevolgen gelezen."
+    },
+    {
+      "indices": [
+        62,
+        79
+      ],
+      "finding_units": [],
+      "checked": "Erfgoed, portretten, morele rechten, definities en contracten; termijnen, instemming, informatie en schriftelijke opzegging per lid vergeleken."
+    },
+    {
+      "indices": [
+        79,
+        96
+      ],
+      "finding_units": [
+        "art-26e",
+        "art-28",
+        "art-16c"
+      ],
+      "checked": "Commissie, internationaal dwingend contractenrecht, collectieve doorgifte, civiele maatregelen en platformregime. 27a/28 apart herlezen wegens aanvankelijk afgebroken gereedschapsuitvoer."
+    },
+    {
+      "indices": [
+        96,
+        112
+      ],
+      "finding_units": [],
+      "checked": "Muziekbemiddeling en strafbepalingen: opzet/vermoeden, doelen per onderdeel, maxima, misdrijf/overtreding en aanmeldmoment vergeleken."
+    },
+    {
+      "indices": [
+        112,
+        128
+      ],
+      "finding_units": [],
+      "checked": "Opsporing, alle duurregels en volgrecht: aanvangsmomenten, kennisafhankelijkheid, hoofdelijkheid en historische einddata gecontroleerd."
+    },
+    {
+      "indices": [
+        128,
+        138
+      ],
+      "finding_units": [
+        "art-45c",
+        "art-45d"
+      ],
+      "checked": "Verruimde licenties en film: representativiteit, opt-out, bekendmaking, territorium, voltooiing, overdracht en vergoeding gelezen."
+    },
+    {
+      "indices": [
+        138,
+        150
+      ],
+      "finding_units": [],
+      "checked": "Filmvergoeding/delegatie, morele filmrechten en software: actor, noodzakelijkheid, contractruimte en verdere exploitatie onderscheiden."
+    },
+    {
+      "indices": [
+        150,
+        170
+      ],
+      "finding_units": [],
+      "checked": "Software-uitsluitingslijst, eerste uitgave, internationale toepassing, alle vervallen slotplaatsen, herleving en oorspronkelijke inwerkingtreding vergeleken."
+    }
+  ],
+  "findings": [
+    {
+      "unit": "art-2",
+      "correction": "Replace vague delivery discussion with examination of the required delivery deed."
+    },
+    {
+      "unit": "art-12",
+      "correction": "Add rental/lending exclusions and full educational/scientific distinction."
+    },
+    {
+      "unit": "art-15j",
+      "correction": "Remove unsupported same-entity conversion and foreign-recipient limitations."
+    },
+    {
+      "unit": "art-15m",
+      "correction": "Clarify additional statutory category of qualifying public/nonprofit entities without extra recognition requirement."
+    },
+    {
+      "unit": "art-16",
+      "correction": "Explain single-work restriction where images were jointly published."
+    },
+    {
+      "unit": "art-26e",
+      "correction": "Identify maker/right-successor as claimant; security is not a free-standing entitlement of the alleged infringer."
+    },
+    {
+      "unit": "art-28",
+      "correction": "Add statutory priority on concurrent seizure; correct sentence identifying holder protection as a limit on measures."
+    },
+    {
+      "unit": "art-45c",
+      "correction": "Distinguish start of covered exploitation from moment of rights transfer."
+    },
+    {
+      "unit": "art-45d",
+      "correction": "Use same transfer/exploitation distinction consistently."
+    },
+    {
+      "unit": "art-16c",
+      "correction": "Add precise ACI Adam paragraphs and concrete consequence for levy calculation."
+    },
+    {
+      "unit": "cases/hr-endstra.md",
+      "correction": "Describe quashing of appellate judgment in principal appeal, rather than ambiguous principal judgment wording."
+    },
+    {
+      "unit": "art-16b / cases/cjeu-aci-adam.md",
+      "correction": "Distinguish direct holding on private copying from inference concerning other copying/reprographic grounds; avoid claiming that ACI Adam separately decided all article 16b applications."
+    }
+  ],
+  "case_texts_read": [
+    "sources/hr-endstra.txt",
+    "sources/hr-stokke.txt",
+    "sources/cjeu-aci-adam.txt"
+  ],
+  "supporting_law_read": [
+    "Stb.2025-352 artikel IV",
+    "Stb.2025-392 enig artikel"
+  ]
+}

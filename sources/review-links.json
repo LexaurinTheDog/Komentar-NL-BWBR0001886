@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2008:BC2153",
+    "accessed_at": "2026-10-19T14:56:18.296995+00:00",
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2008:BC2153",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "path": "sources/review-links-endstra.xml",
+    "sha256": "6b39ce8bd2f6a564fbba647ba0c135062a183397667bf8b3cc7deb045c18b8ac",
+    "bytes": 32078,
+    "format_validation": {
+      "accepted": true,
+      "root_element": "open-rechtspraak",
+      "judgment_body_matches_original": true
+    }
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY1529",
+    "accessed_at": "2026-10-19T14:56:18.630155+00:00",
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY1529",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "path": "sources/review-links-stokke.xml",
+    "sha256": "1dabd3e413fa7fd5e2a10840753e66124fb27da60895035cd695d374b8d8b707",
+    "bytes": 32690,
+    "format_validation": {
+      "accepted": true,
+      "root_element": "open-rechtspraak",
+      "judgment_body_matches_original": true
+    }
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001886/2026-01-01",
+    "accessed_at": "2026-10-19T14:56:18.914627+00:00",
+    "final_url": "https://wetten.overheid.nl/BWBR0001886/2026-01-01",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/review-links-wetten.html",
+    "sha256": "8a5793bafc4490bfa14d210d8ec30eb2a69367fdc29fd9a8dcb2730b9d26f27e",
+    "bytes": 1075304,
+    "format_validation": {
+      "accepted": true,
+      "title": "wetten.nl - Regeling - Auteurswet - BWBR0001886"
+    }
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-352.html",
+    "accessed_at": "2026-10-19T14:56:27.331779+00:00",
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2025-352.html",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "path": "sources/review-links-amendment.html",
+    "sha256": "46bbf637a09b0867915ef18a855628e59d346967ec0f3153eace46d613b8fbec",
+    "bytes": 46634,
+    "format_validation": {
+      "accepted": true,
+      "title": "Staatsblad 2025, 352 | Overheid.nl > Officiële bekendmakingen"
+    }
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-392.html",
+    "accessed_at": "2026-10-19T14:56:28.459637+00:00",
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2025-392.html",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "path": "sources/review-links-commencement.html",
+    "sha256": "7c694eeddff6f4b5590cb5574d6d15b418715476487794ce518de07f3bb26277",
+    "bytes": 21775,
+    "format_validation": {
+      "accepted": true,
+      "title": "Staatsblad 2025, 392 | Overheid.nl > Officiële bekendmakingen"
+    }
+  }
+]

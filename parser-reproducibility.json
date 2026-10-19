@@ -1,0 +1,19 @@
+{
+  "command": "python3 -I _parse.py",
+  "exit_code": 0,
+  "before": {
+    "units.jsonl": "236be695698a615fe26bca6e62bff1eafb256469620324b1510d4c9934b37d16",
+    "meta.json": "197f25d3c49bbdf02d10daa09f04d4dd800d939da658c5f5ab12fbda4edce8d7",
+    "sources/canonical.md": "53903b89d1f6ab9320d6262334c828d576658bef48243e49d4c3d66cb5114af4",
+    "coverage-evidence.json": "7a12784aa77d3ac80f75be8c31cc8af5fae2a177f934451271e75c2e90812246",
+    "sources/change-map.json": "18c2eb5af305644fbd26f3ff890455af79b5bd455b53c9a097d04be6d8d7ca9b"
+  },
+  "after": {
+    "units.jsonl": "236be695698a615fe26bca6e62bff1eafb256469620324b1510d4c9934b37d16",
+    "meta.json": "197f25d3c49bbdf02d10daa09f04d4dd800d939da658c5f5ab12fbda4edce8d7",
+    "sources/canonical.md": "53903b89d1f6ab9320d6262334c828d576658bef48243e49d4c3d66cb5114af4",
+    "coverage-evidence.json": "7a12784aa77d3ac80f75be8c31cc8af5fae2a177f934451271e75c2e90812246",
+    "sources/change-map.json": "18c2eb5af305644fbd26f3ff890455af79b5bd455b53c9a097d04be6d8d7ca9b"
+  },
+  "all_identical": true
+}

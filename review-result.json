@@ -1,0 +1,72 @@
+{
+  "complete": true,
+  "units_reviewed": 170,
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit": "art-2",
+      "correction": "Replace vague delivery discussion with examination of the required delivery deed."
+    },
+    {
+      "unit": "art-12",
+      "correction": "Add rental/lending exclusions and full educational/scientific distinction."
+    },
+    {
+      "unit": "art-15j",
+      "correction": "Remove unsupported same-entity conversion and foreign-recipient limitations."
+    },
+    {
+      "unit": "art-15m",
+      "correction": "Clarify additional statutory category of qualifying public/nonprofit entities without extra recognition requirement."
+    },
+    {
+      "unit": "art-16",
+      "correction": "Explain single-work restriction where images were jointly published."
+    },
+    {
+      "unit": "art-26e",
+      "correction": "Identify maker/right-successor as claimant; security is not a free-standing entitlement of the alleged infringer."
+    },
+    {
+      "unit": "art-28",
+      "correction": "Add statutory priority on concurrent seizure; correct sentence identifying holder protection as a limit on measures."
+    },
+    {
+      "unit": "art-45c",
+      "correction": "Distinguish start of covered exploitation from moment of rights transfer."
+    },
+    {
+      "unit": "art-45d",
+      "correction": "Use same transfer/exploitation distinction consistently."
+    },
+    {
+      "unit": "art-16c",
+      "correction": "Add precise ACI Adam paragraphs and concrete consequence for levy calculation."
+    },
+    {
+      "unit": "cases/hr-endstra.md",
+      "correction": "Describe quashing of appellate judgment in principal appeal, rather than ambiguous principal judgment wording."
+    },
+    {
+      "unit": "art-16b / cases/cjeu-aci-adam.md",
+      "correction": "Distinguish direct holding on private copying from inference concerning other copying/reprographic grounds; avoid claiming that ACI Adam separately decided all article 16b applications."
+    }
+  ],
+  "limitations": [
+    "Selectieve rechtspraak; geen uitputtend later-behandelingsonderzoek of aparte uitspraak voor iedere technische bepaling.",
+    "Uitvoeringsregelingen, actuele tarieven en aanwijzingen zijn niet integraal onderzocht; afhankelijke toepassingen blijven voorwaardelijk.",
+    "Zelfstandig buitenlands recht en algemene proces- en strafvorderlijke waarborgen vallen buiten de integrale boekscope.",
+    "Bronselectie berust op de geraadpleegde officiële toestand, het actuele manifest en de gedateerde wetten.nl-pagina; nog niet verwerkte wijzigingen zijn niet zelfstandig geïnventariseerd."
+  ],
+  "date": "2026-10-19",
+  "review_scope": "Volledige tweede inhoudelijke lezing door een ander proces dan de auteur; geen externe professionele goedkeuring",
+  "evidence": [
+    "REVIEW.md",
+    "review-progress.json",
+    "second-pass-checks.json",
+    "parser-reproducibility.json",
+    "completeness-report.json",
+    "validation.json",
+    "sources/verification.json"
+  ]
+}

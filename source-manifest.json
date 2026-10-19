@@ -137,9 +137,59 @@
       "bytes": 136629
     },
     {
+      "path": "sources/review-aci-adam.json",
+      "sha256": "2468503127a947eec1535a55edd7cc13bd8f035b53fdbfc2689b47a63a299fe4",
+      "bytes": 133892
+    },
+    {
+      "path": "sources/review-aci-window.json",
+      "sha256": "a5a5546048b2f74c3ebaca726d6d8ee8d032fcfa24aa07a3e7b196baffe287cc",
+      "bytes": 207
+    },
+    {
+      "path": "sources/review-links-amendment.html",
+      "sha256": "46bbf637a09b0867915ef18a855628e59d346967ec0f3153eace46d613b8fbec",
+      "bytes": 46634
+    },
+    {
+      "path": "sources/review-links-commencement.html",
+      "sha256": "7c694eeddff6f4b5590cb5574d6d15b418715476487794ce518de07f3bb26277",
+      "bytes": 21775
+    },
+    {
+      "path": "sources/review-links-endstra.xml",
+      "sha256": "6b39ce8bd2f6a564fbba647ba0c135062a183397667bf8b3cc7deb045c18b8ac",
+      "bytes": 32078
+    },
+    {
+      "path": "sources/review-links-stokke.xml",
+      "sha256": "1dabd3e413fa7fd5e2a10840753e66124fb27da60895035cd695d374b8d8b707",
+      "bytes": 32690
+    },
+    {
+      "path": "sources/review-links-wetten.html",
+      "sha256": "8a5793bafc4490bfa14d210d8ec30eb2a69367fdc29fd9a8dcb2730b9d26f27e",
+      "bytes": 1075304
+    },
+    {
+      "path": "sources/review-links.json",
+      "sha256": "40ba5b1eda0fd0ccaf0fbb524956e3aa5f2f5c1714fa7139a040089ecd4ff76e",
+      "bytes": 2901
+    },
+    {
+      "path": "sources/review-manifest.xml",
+      "sha256": "13bdb324a4963bc67087ebebd072c1c47077972460430d6f2342e02a1ddf7035",
+      "bytes": 20075
+    },
+    {
+      "path": "sources/review-state.xml",
+      "sha256": "e90b201ad0e473d3245443bc43728241aa17770042b3e7dfb7c9ca040f10c2c5",
+      "bytes": 632597
+    },
+    {
       "path": "sources/search-log.json",
-      "sha256": "c9a5b3d55b5b7b45e21eb554abb5b0b2b5886d44f39000e9d100e173570f6a6b",
-      "bytes": 1424
+      "sha256": "076fd4c62273a82eb86c25a45c37da902fff25987a9058e80920bf0b42207d66",
+      "bytes": 2085
     },
     {
       "path": "sources/verification-attempts.json",
@@ -148,9 +198,9 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "29ff9969001321efb8ce5d799ff8097b8213ab5712454501c9878c0c22f148b1",
-      "bytes": 8682
+      "sha256": "1eda9ce816edc3b1516527b3a8e0647b51a892d37e2f76d3394b3fdc00c6d65a",
+      "bytes": 15268
     }
   ],
-  "method": "All source captures, including expressly rejected error responses; accepted legal sources identified in sources/verification.json."
+  "method": "All source captures including rejected first-pass error pages. Accepted sources and fresh second-pass HTTP/format checks are identified in sources/verification.json."
 }

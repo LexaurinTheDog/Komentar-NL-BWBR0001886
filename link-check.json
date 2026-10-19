@@ -1,67 +1,395 @@
 {
-  "local_links_checked": 59,
-  "broken_local_links": [],
-  "official_source_fetches": [
+  "local_links": [
     {
-      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/2026-01-01_0/xml/BWBR0001886_2026-01-01_0.xml",
-      "http_status": 200,
-      "accepted": true
+      "file": "01-basis.md",
+      "target": "cases/hr-endstra.md",
+      "exists": true
     },
     {
-      "url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19",
-      "http_status": 404,
-      "accepted": false
+      "file": "01-basis.md",
+      "target": "sources/amendment-2025-352.xml",
+      "exists": true
     },
     {
-      "url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19/0/informatie",
-      "http_status": 404,
-      "accepted": false
+      "file": "01-basis.md",
+      "target": "cases/hr-endstra.md",
+      "exists": true
     },
     {
-      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/",
-      "http_status": 200,
-      "accepted": true
+      "file": "01-basis.md",
+      "target": "cases/hr-stokke.md",
+      "exists": true
     },
     {
-      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-352.xml",
-      "http_status": 200,
-      "accepted": true
+      "file": "01-basis.md",
+      "target": "cases/hr-stokke.md",
+      "exists": true
     },
     {
-      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-392.xml",
-      "http_status": 200,
-      "accepted": true
+      "file": "03-beperkingen-2.md",
+      "target": "cases/cjeu-aci-adam.md",
+      "exists": true
     },
+    {
+      "file": "03-beperkingen-2.md",
+      "target": "sources/amendment-2025-352.xml",
+      "exists": true
+    },
+    {
+      "file": "04-beperkingen-3.md",
+      "target": "cases/hr-stokke.md",
+      "exists": true
+    },
+    {
+      "file": "05-contracten.md",
+      "target": "sources/amendment-2025-352.xml",
+      "exists": true
+    },
+    {
+      "file": "05-contracten.md",
+      "target": "sources/amendment-2025-352.xml",
+      "exists": true
+    },
+    {
+      "file": "11-slot.md",
+      "target": "sources/commencement-2025-392.xml",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "00-inleiding.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "01-basis.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "02-beperkingen-1.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "03-beperkingen-2.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "04-beperkingen-3.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "05-contracten.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "06-handhaving.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "07-strafrecht.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "08-duur-volgrecht.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "09-licenties-film.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "10-software.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "11-slot.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "INDEX.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "00-inleiding.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "SOURCES.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "SOURCES.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "REVIEW.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "coverage-evidence.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "completeness-report.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "LICENSE",
+      "exists": true
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "review-progress.json",
+      "exists": true
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "sources/verification.json",
+      "exists": true
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "second-pass-checks.json",
+      "exists": true
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "parser-reproducibility.json",
+      "exists": true
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "coverage-evidence.json",
+      "exists": true
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "SOURCES.md",
+      "exists": true
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "completeness-report.json",
+      "exists": true
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "validation.json",
+      "exists": true
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "review-result.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/verification.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "source-manifest.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/intake-version.xml",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/official-manifest.xml",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/review-links-wetten.html",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "second-pass-checks.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/canonical.md",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/original-intake.md",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/change-map.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "coverage-evidence.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "completeness-report.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/amendment-2025-352.xml",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/commencement-2025-392.xml",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "cases/hr-endstra.md",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "cases/hr-stokke.md",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "cases/cjeu-aci-adam.md",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/search-log.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/local-corpus-search.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/local-corpus-selected.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/aci-fetch-window.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/review-links.json",
+      "exists": true
+    },
+    {
+      "file": "cases/cjeu-aci-adam.md",
+      "target": "../sources/cjeu-aci-adam.json",
+      "exists": true
+    },
+    {
+      "file": "cases/cjeu-aci-adam.md",
+      "target": "../sources/cjeu-aci-adam.txt",
+      "exists": true
+    },
+    {
+      "file": "cases/hr-endstra.md",
+      "target": "../sources/hr-endstra.xml",
+      "exists": true
+    },
+    {
+      "file": "cases/hr-endstra.md",
+      "target": "../sources/hr-endstra.txt",
+      "exists": true
+    },
+    {
+      "file": "cases/hr-endstra.md",
+      "target": "../sources/verification.json",
+      "exists": true
+    },
+    {
+      "file": "cases/hr-stokke.md",
+      "target": "../sources/hr-stokke.xml",
+      "exists": true
+    },
+    {
+      "file": "cases/hr-stokke.md",
+      "target": "../sources/hr-stokke.txt",
+      "exists": true
+    },
+    {
+      "file": "cases/hr-stokke.md",
+      "target": "../sources/verification.json",
+      "exists": true
+    }
+  ],
+  "local_count": 69,
+  "broken": [],
+  "external": [
     {
       "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2008:BC2153",
       "http_status": 200,
-      "accepted": true
+      "capture": "sources/review-links-endstra.xml"
     },
     {
       "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY1529",
       "http_status": 200,
-      "accepted": true
-    },
-    {
-      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62013CJ0201",
-      "http_status": 202,
-      "accepted": false
-    },
-    {
-      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62011CJ0128",
-      "http_status": 202,
-      "accepted": false
+      "capture": "sources/review-links-stokke.xml"
     },
     {
       "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62012CJ0435",
       "http_status": 200,
-      "accepted": true
+      "capture": "sources/review-aci-adam.json"
     },
     {
-      "url": "https://wetten.overheid.nl/BWBR0001886/2026-10-19/0/informatie",
-      "http_status": 404,
-      "accepted": false
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/2026-01-01_0/xml/BWBR0001886_2026-01-01_0.xml",
+      "http_status": 200,
+      "capture": "sources/review-state.xml"
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001886/manifest.xml",
+      "http_status": 200,
+      "capture": "sources/review-manifest.xml"
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001886/2026-01-01",
+      "http_status": 200,
+      "capture": "sources/review-links-wetten.html"
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-352.html",
+      "http_status": 200,
+      "capture": "sources/review-links-amendment.html"
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-392.html",
+      "http_status": 200,
+      "capture": "sources/review-links-commencement.html"
     }
   ],
-  "limits": "Remote reachability is established by recorded source requests. Date-specific wetten.nl front-end errors and rejected EUR-Lex responses are explicitly retained; the successful official XML/manifest and Firecrawl case capture are the accepted evidence."
+  "external_count": 8,
+  "ok": true
 }

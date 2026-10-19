@@ -29,5 +29,16 @@
       "result": "Full official judgment read, paragraphs 1–66 and dictum; selected for article 16c"
     }
   ],
-  "limits": "No exhaustive search or later-treatment check. No separately verified case selected for other units, including technical administration, new 2026 provisions and most criminal rules. This is not evidence of absence of cases."
+  "limits": "No exhaustive search or later-treatment check. No separately verified case selected for other units, including technical administration, new 2026 provisions and most criminal rules. This is not evidence of absence of cases.",
+  "second_pass": {
+    "date": "2026-10-19",
+    "method": "No new exhaustive case search. Read full official snapshots of all three cited judgments, verified each cited proposition and its context, re-fetched Hoge Raad XML and ACI Adam primary full text, compared judgment bodies, checked current statute manifest and dated wetten.nl HTML.",
+    "evidence": [
+      "review-links.json",
+      "review-aci-window.json",
+      "../review-progress.json",
+      "../second-pass-checks.json"
+    ],
+    "result": "All three cited cases support the specifically delimited propositions. Clarified indirect article 16b inference and Endstra disposition wording."
+  }
 }
