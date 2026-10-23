@@ -12,4 +12,4 @@ Het commentaar bespreekt per artikel functie, voorwaarden, gevolgen, samenhang e
 
 Oorspronkelijk commentaar **© 2026 Vojtěch Říha**, beschikbaar onder [Apache License 2.0](LICENSE). Artikel 11 Auteurswet sluit de officiële wettekst en rechterlijke beslissingen als zodanig van auteursrecht uit. De licentie op het oorspronkelijke commentaar pretendeert daarop geen nieuw uitsluitend recht te vestigen. Bronmetadata van de intake noemt CC0 1.0; commerciële redactionele annotaties zijn niet overgenomen. De officiële metadata en hun herkomst blijven afzonderlijk herkenbaar.
 
-Dit manuscript is uitsluitend lokaal opgebouwd en gecommit. Er is geen publicatie of externe professionele goedkeuring verricht.
+Er is geen externe professionele goedkeuring verricht.
